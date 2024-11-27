@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0124
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9595
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5595
+HEADER 5  - Mean B-factor of pocket residues  : 0.1592
+HEADER 6  - Hydrophobicity Score              : 17.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 251.7531
+HEADER 10 - Pocket volume (convex hull)       : 6.8727
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3544    O ASN A 236     -33.494   7.618 -23.584  0.71  5.36           O 0
+ATOM   3068    O SER A 204     -36.020  10.901 -28.881  0.44  4.29           O 0
+ATOM   3550  ND2 ASN A 236     -34.761  10.722 -24.363  0.68  2.19           N 0
+ATOM   3078    C THR A 205     -32.943   9.137 -29.614  0.00  0.00           C 0
+ATOM   3079    O THR A 205     -32.531   7.980 -29.676  0.00  0.00           O 0
+ATOM   3534    O ALA A 235     -36.511   5.376 -23.208  0.00  0.00           O 0
+ATOM   3541   CA ASN A 236     -35.752   8.013 -22.861  0.00  0.00           C 0
+ATOM   3539    N ASN A 236     -36.684   7.278 -22.018  0.77  1.09           N 0
+ATOM   3535   CB ALA A 235     -39.399   5.767 -21.664  0.00  0.00           C 0
+ATOM   3076   CA THR A 205     -34.139   9.592 -30.447  0.00  0.00           C 0
+ATOM   3033  CD2 LEU A 201     -37.185  13.035 -22.550  0.00  0.00           C 0
+ATOM   3545   CB ASN A 236     -35.872   9.514 -22.582  0.00  0.00           C 0
+ATOM   3490   NE ARG A 232     -42.074  11.873 -22.289  0.00  0.00           N 0
+ATOM   3496  NH2 ARG A 232     -41.925  12.074 -24.575  0.56  8.75           N 0
+ATOM   3480    O ARG A 232     -38.317   9.053 -20.175  0.69  1.07           O 0
+ATOM   3533    C ALA A 235     -36.988   6.008 -22.266  0.00  0.00           C 0
+ATOM   3023    O LEU A 201     -39.011  12.358 -26.631  0.30  6.43           O 0
+TER
+END

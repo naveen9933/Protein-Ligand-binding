@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.1710
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9553
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6271
+HEADER 5  - Mean B-factor of pocket residues  : 0.3488
+HEADER 6  - Hydrophobicity Score              : 16.7143
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.9898
+HEADER 10 - Pocket volume (convex hull)       : 8.9020
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM    810    N HIS A  91      53.779  -5.376 135.791  0.74  1.09           N 0
+ATOM    812   CA HIS A  91      52.711  -6.370 135.655  0.00  0.00           C 0
+ATOM    871   CD LYS A  94      53.233 -10.444 139.313  0.00  0.00           C 0
+ATOM    807  NE2 GLN A  90      55.480  -3.219 140.091  0.00  0.00           N 0
+ATOM    900   OH TYR A  95      48.717 -11.866 138.756  0.71  7.50           O 0
+ATOM    895  CE1 TYR A  95      50.116 -10.753 137.155  0.00  0.00           C 0
+ATOM    231  CG2 THR A  54      46.140  -9.737 139.086  0.00  0.00           C 0
+ATOM    877   NZ LYS A  94      52.037 -10.722 141.525  0.00  0.00           N 0
+ATOM    797    C GLN A  90      55.057  -5.750 135.977  0.00  0.00           C 0
+ATOM    798    O GLN A  90      55.415  -6.932 136.013  0.68  1.07           O 0
+ATOM    799   CB GLN A  90      55.847  -4.046 137.547  0.00  0.00           C 0
+ATOM    816   CB HIS A  91      51.334  -5.708 135.604  0.00  0.00           C 0
+ATOM    752    O GLN A  87      53.762  -2.235 136.020  0.59  1.07           O 0
+ATOM    756   CG GLN A  87      51.685   0.029 138.102  0.00  0.00           C 0
+ATOM    821  CD2 HIS A  91      49.450  -7.412 136.113  0.00  0.00           C 0
+ATOM    227   CB THR A  54      46.281  -8.907 137.813  0.00  0.00           C 0
+ATOM    291  CG2 VAL A  58      47.945  -3.847 137.105  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0783
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9129
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5934
+HEADER 5  - Mean B-factor of pocket residues  : 0.4203
+HEADER 6  - Hydrophobicity Score              : -2.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.9272
+HEADER 10 - Pocket volume (convex hull)       : 4.8982
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2857
+ATOM   5336   CG LYS A 348      11.764  -5.761 -16.756  0.00  0.00           C 0
+ATOM   5329   CA LYS A 348      11.811  -3.797 -15.061  0.00  0.00           C 0
+ATOM   5333   CB LYS A 348      12.158  -5.292 -15.332  0.00  0.00           C 0
+ATOM   5400  OE1 GLN A 351      13.980  -0.628 -18.983  0.00  9.64           O 0
+ATOM   5316   CB GLN A 347      14.422  -1.622 -12.009  0.00  0.00           C 0
+ATOM   5519  CD1 LEU A 359      13.818   2.015 -13.323  0.00  0.00           C 0
+ATOM   5559   NZ LYS A 361      19.239   0.441 -13.944  0.00  0.00           N 0
+ATOM   5401  NE2 GLN A 351      15.445   0.987 -18.376  0.00  0.00           N 0
+ATOM   5327    N LYS A 348      12.379  -3.320 -13.771  0.00  0.00           N 0
+ATOM   5396   CG GLN A 351      13.236   0.947 -17.316  0.00  0.00           C 0
+ATOM   5399   CD GLN A 351      14.257   0.370 -18.301  0.00  0.00           C 0
+ATOM   5259    O PRO A 344      14.012  -5.139 -12.220  0.66  2.14           O 0
+ATOM   5323  OE1 GLN A 347      17.185  -1.277 -11.766  0.47  7.50           O 0
+ATOM   5256   CA PRO A 344      15.736  -5.860 -10.785  0.00  0.00           C 0
+ATOM   5260   CB PRO A 344      16.598  -7.029 -11.263  0.00  0.00           C 0
+ATOM   5315    O GLN A 347      11.988  -1.121 -14.206  0.00  0.00           O 0
+ATOM   5314    C GLN A 347      12.394  -2.020 -13.446  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0752
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.2587
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6785
+HEADER 5  - Mean B-factor of pocket residues  : 0.3264
+HEADER 6  - Hydrophobicity Score              : 5.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.1824
+HEADER 10 - Pocket volume (convex hull)       : 4.0839
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM   3843  CD1 TRP A 256     -34.383  36.055   2.392  0.00  0.00           C 0
+ATOM   3835   CA TRP A 256     -36.443  34.698   0.005  0.00  0.00           C 0
+ATOM   3839   CB TRP A 256     -35.129  34.294   0.678  0.00  0.00           C 0
+ATOM   3790    O ALA A 252     -36.165  31.333   1.262  0.70  3.21           O 0
+ATOM   3791   CB ALA A 252     -35.904  29.045   3.515  0.00  0.00           C 0
+ATOM   4335  CG1 VAL A 289     -35.711  37.847   5.098  0.00  0.00           C 0
+ATOM   3894  OE1 GLU A 259     -40.683  37.870   2.364  0.73  5.36           O 0
+ATOM   3895  OE2 GLU A 259     -41.204  35.805   1.839  0.00  0.00           O 0
+ATOM   3833    N TRP A 256     -37.232  33.507  -0.298  0.00  0.00           N 0
+ATOM   3827   CB ASP A 255     -39.816  31.787   0.166  0.00  0.00           C 0
+ATOM   3787   CA ALA A 252     -36.641  29.174   2.187  0.00  0.00           C 0
+ATOM   3832  OD2 ASP A 255     -40.854  29.814   0.999  0.78  9.64           O 0
+ATOM   4386   CB PRO A 292     -32.598  30.969   3.802  0.00  0.00           C 0
+ATOM   4392   CD PRO A 292     -32.398  33.084   2.803  0.00  0.00           C 0
+ATOM   4347    O PRO A 290     -32.196  35.647   5.196  0.59  6.43           O 0
+ATOM   4389   CG PRO A 292     -32.876  31.679   2.519  0.00  0.00           C 0
+TER
+END

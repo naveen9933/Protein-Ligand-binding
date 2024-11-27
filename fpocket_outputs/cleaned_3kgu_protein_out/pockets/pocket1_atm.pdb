@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.1780
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.8012
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4021
+HEADER 5  - Mean B-factor of pocket residues  : 0.3803
+HEADER 6  - Hydrophobicity Score              : 15.6667
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 409.6549
+HEADER 10 - Pocket volume (convex hull)       : 52.5922
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2414
+ATOM   1220   CB GLU A  89      -8.082 -17.735 -17.579  0.00  0.00           C 0
+ATOM   1223   CG GLU A  89      -8.743 -18.214 -18.869  0.00  0.00           C 0
+ATOM   3044  CG1 VAL B  94      -4.995 -18.767 -19.417  0.00  0.00           C 0
+ATOM   2621  CG2 ILE B  68      -7.586 -21.206 -21.395  0.00  0.00           C 0
+ATOM   1242  CE1 HIS A  90      -4.098 -18.935 -15.426  0.00  0.00           C 0
+ATOM   2160   NZ LYS B  35      -6.196 -25.267 -17.493  0.00  0.00           N 0
+ATOM   1227  OE1 GLU A  89     -10.582 -19.356 -17.909  0.00  0.00           O 0
+ATOM   2625  CD1 ILE B  68     -10.071 -22.720 -20.588  0.00  0.00           C 0
+ATOM   1239  ND1 HIS A  90      -5.148 -18.474 -14.767  0.00  0.00           N 0
+ATOM   1219    O GLU A  89      -8.846 -16.468 -14.713  0.68  7.50           O 0
+ATOM   2240  CZ2 TRP B  41      -3.306 -22.571 -20.031  0.00  0.00           C 0
+ATOM   2235  NE1 TRP B  41      -1.447 -23.879 -18.957  0.00  0.00           N 0
+ATOM   3048  CG2 VAL B  94      -2.612 -18.047 -19.111  0.00  0.00           C 0
+ATOM   1268  OE1 GLU A  92       0.097 -18.466 -15.733  0.64  4.29           O 0
+ATOM    918   NZ LYS A  70       0.725 -22.628 -12.619  0.00  0.00           N 0
+ATOM   1269  OE2 GLU A  92       1.544 -19.518 -14.447  0.40  3.21           O 0
+ATOM    951  OE1 GLU A  72      -3.205 -20.859 -11.788  0.00  0.00           O 0
+ATOM   2668   NZ LYS B  70       1.526 -22.183 -19.218  0.00  0.00           N 0
+ATOM   2232  CD1 TRP B  41      -0.482 -24.742 -19.429  0.00  0.00           C 0
+ATOM    485  NE1 TRP A  41       4.499 -23.948 -13.415  0.43  4.37           N 0
+ATOM   3018  OE1 GLU B  92       3.082 -19.502 -17.276  0.30  2.14           O 0
+ATOM    482  CD1 TRP A  41       3.774 -24.986 -12.868  0.00  0.00           C 0
+TER
+END

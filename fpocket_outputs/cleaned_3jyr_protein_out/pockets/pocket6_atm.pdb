@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0213
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8423
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5104
+HEADER 5  - Mean B-factor of pocket residues  : 0.1531
+HEADER 6  - Hydrophobicity Score              : 3.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.0103
+HEADER 10 - Pocket volume (convex hull)       : 3.2005
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM    219    C GLY A  13      23.444   5.609  15.871  0.00  0.00           C 0
+ATOM    227   CB ASP A  14      22.000   4.349  12.761  0.00  0.00           C 0
+ATOM    221    N ASP A  14      22.537   4.999  15.109  0.61  1.09           N 0
+ATOM    220    O GLY A  13      24.151   6.523  15.456  0.00  0.00           O 0
+ATOM   3343  OE1 GLU A 214      27.675   5.813   7.142  0.00  0.00           O 0
+ATOM   4611   NZ LYS A 297      23.828   9.567  11.989  0.48  6.56           N 0
+ATOM   3283  CE1 TYR A 210      24.951   3.294   8.064  0.00  0.00           C 0
+ATOM   3632  ND2 ASN A 234      26.274   9.485   8.193  0.78  5.47           N 0
+ATOM    223   CA ASP A  14      22.263   5.498  13.744  0.00  0.00           C 0
+ATOM   3344  OE2 GLU A 214      26.010   7.076   6.478  0.66  1.07           O 0
+ATOM    226    O ASP A  14      20.797   7.088  12.674  0.00  0.00           O 0
+ATOM   3288   OH TYR A 210      22.760   4.244   7.786  0.69  2.14           O 0
+ATOM   3562  CD1 TRP A 230      20.059   5.083   9.145  0.00  0.00           C 0
+ATOM   3557    O TRP A 230      20.538   9.025   8.668  0.38  2.14           O 0
+TER
+END

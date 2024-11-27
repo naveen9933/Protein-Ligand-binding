@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0831
+HEADER 1  - Drug Score                        : 0.2367
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0302
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6806
+HEADER 5  - Mean B-factor of pocket residues  : 0.2170
+HEADER 6  - Hydrophobicity Score              : 33.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.4157
+HEADER 10 - Pocket volume (convex hull)       : 6.8428
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 20.0000
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   1642    C GLY A 113      18.500   8.991  24.803  0.00  0.00           C 0
+ATOM   1596   CB TYR A 110      16.700  12.086  22.099  0.00  0.00           C 0
+ATOM   1644    N LEU A 114      19.459   8.120  24.554  0.72  2.19           N 0
+ATOM   1599   CG TYR A 110      16.527  11.312  20.795  0.00  0.00           C 0
+ATOM   1639   CA GLY A 113      18.934  10.302  25.439  0.00  0.00           C 0
+ATOM   1029   CG PRO A  70      20.330  13.112  17.224  0.00  0.00           C 0
+ATOM   1653   CG LEU A 114      20.271   6.220  21.768  0.00  0.00           C 0
+ATOM   1600  CD1 TYR A 110      16.156   9.956  20.812  0.00  0.00           C 0
+ATOM   1037   CA MET A  71      20.900   8.359  16.292  0.00  0.00           C 0
+ATOM   1044   CG MET A  71      19.774   6.709  17.832  0.00  0.00           C 0
+ATOM   1655  CD1 LEU A 114      21.445   5.438  21.238  0.00  0.00           C 0
+ATOM   1025    O PRO A  70      22.966  10.062  15.589  0.22  6.43           O 0
+ATOM   1026   CB PRO A  70      21.738  12.840  16.729  0.00  0.00           C 0
+ATOM   1035    N MET A  71      20.751   9.752  15.898  0.00  0.00           N 0
+ATOM   1041   CB MET A  71      19.610   7.902  16.968  0.00  0.00           C 0
+ATOM   1024    C PRO A  70      21.813  10.524  15.666  0.00  0.00           C 0
+ATOM   1602  CD2 TYR A 110      16.756  11.916  19.549  0.00  0.00           C 0
+ATOM   1549  CG2 THR A 106      18.918  15.834  19.874  0.00  0.00           C 0
+TER
+END

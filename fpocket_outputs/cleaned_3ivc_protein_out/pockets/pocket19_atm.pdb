@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0652
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0651
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6356
+HEADER 5  - Mean B-factor of pocket residues  : 0.2822
+HEADER 6  - Hydrophobicity Score              : 17.1667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.8411
+HEADER 10 - Pocket volume (convex hull)       : 1.0154
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3827   CD PRO A 259      17.847 -15.365   0.227  0.00  0.00           C 0
+ATOM   1854  OE2 GLU A 126      21.516 -10.404   5.506  0.32  5.36           O 0
+ATOM   3824   CG PRO A 259      18.919 -16.413  -0.172  0.00  0.00           C 0
+ATOM   1853  OE1 GLU A 126      22.194  -9.383   3.691  0.50  3.21           O 0
+ATOM   3746  NH1 ARG A 253      20.986  -9.241   1.371  0.00  0.00           N 0
+ATOM   3816    N PRO A 259      18.071 -14.285  -0.738  0.00  0.00           N 0
+ATOM   3795    O LEU A 257      18.145 -10.187   1.391  0.52  6.43           O 0
+ATOM   3811   CA GLY A 258      16.912 -12.573   0.627  0.00  0.00           C 0
+ATOM   3814    C GLY A 258      17.669 -13.009  -0.649  0.00  0.00           C 0
+ATOM   3743   NE ARG A 253      21.858  -9.609  -0.770  0.00  0.00           N 0
+ATOM   3817   CA PRO A 259      18.812 -14.750  -1.923  0.00  0.00           C 0
+ATOM   3740   CD ARG A 253      20.572  -9.905  -1.433  0.00  0.00           C 0
+ATOM   3714    O LEU A 252      21.303 -10.502  -4.640  0.00  0.00           O 0
+ATOM   3745   CZ ARG A 253      22.019  -9.291   0.526  0.00  0.00           C 0
+TER
+END

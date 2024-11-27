@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0190
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1250
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6425
+HEADER 5  - Mean B-factor of pocket residues  : 0.2142
+HEADER 6  - Hydrophobicity Score              : 7.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 230.2228
+HEADER 10 - Pocket volume (convex hull)       : 6.5991
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   1324    O SER A1033      32.429  -7.415  -9.185  0.00  0.00           O 0
+ATOM   1910    O VAL A1072      30.471 -10.687  -8.483  0.56  5.36           O 0
+ATOM   2251  OE1 GLN A1095      26.724  -3.084 -10.771  0.73  2.14           O 0
+ATOM   2238    N GLN A1095      26.488  -7.308 -13.047  0.83  2.19           N 0
+ATOM   2244   CB GLN A1095      27.314  -5.020 -12.857  0.00  0.00           C 0
+ATOM   2243    O GLN A1095      29.362  -7.382 -13.330  0.00  0.00           O 0
+ATOM   1370   CB VAL A1036      31.380  -3.723 -10.335  0.00  0.00           C 0
+ATOM   2203    O HIS A1093      22.798  -8.487 -10.636  0.00  0.00           O 0
+ATOM   2247   CG GLN A1095      25.930  -4.540 -12.424  0.00  0.00           C 0
+ATOM   1913  CG1 VAL A1072      28.437 -10.965 -10.824  0.00  0.00           C 0
+ATOM   2216   CA ARG A1094      24.640  -8.874 -12.765  0.00  0.00           C 0
+ATOM   1334    O PRO A1034      32.005  -6.124  -5.597  0.44  7.50           O 0
+ATOM   1331   CA PRO A1034      32.604  -8.187  -6.611  0.00  0.00           C 0
+ATOM   1376  CG2 VAL A1036      31.749  -4.791 -11.280  0.00  0.00           C 0
+ATOM   1380    N ASN A1037      31.633  -1.618  -7.984  0.50  2.19           N 0
+ATOM   1386   CB ASN A1037      30.270  -0.326  -6.368  0.00  0.00           C 0
+TER
+END

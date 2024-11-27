@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0580
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 4.0486
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5744
+HEADER 5  - Mean B-factor of pocket residues  : 0.1610
+HEADER 6  - Hydrophobicity Score              : 26.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 320.6324
+HEADER 10 - Pocket volume (convex hull)       : 10.5406
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2143
+ATOM   1473    O ASP A  95       0.010  -2.842  17.174  0.00  0.00           O 0
+ATOM   5140  OD1 ASN A 332       3.611  -7.717  18.866  0.60  4.29           O 0
+ATOM   1511    O ARG A  98       0.537  -5.121  20.273  0.68  5.36           O 0
+ATOM   2784  CE2 TYR A 176       1.670 -10.139  13.445  0.00  0.00           C 0
+ATOM   5141  ND2 ASN A 332       3.287  -5.516  19.130  0.60  1.09           N 0
+ATOM   5139   CG ASN A 332       4.011  -6.557  18.747  0.00  0.00           C 0
+ATOM   5130    N ASN A 332       5.319  -7.745  16.191  0.58  1.09           N 0
+ATOM   1474   CB ASP A  95      -2.012  -1.312  15.100  0.00  0.00           C 0
+ATOM   5088  CG1 ILE A 329       2.833  -2.064   9.103  0.00  0.00           C 0
+ATOM   1416   CB PHE A  92      -1.498   1.747  11.145  0.00  0.00           C 0
+ATOM   1415    O PHE A  92       0.075   0.917  13.690  0.00  0.00           O 0
+ATOM   1479  OD2 ASP A  95      -3.891  -0.733  13.800  0.55  9.64           O 0
+ATOM   5104    O MET A 330       5.138  -5.832  12.971  0.00  0.00           O 0
+ATOM   1482   CA ALA A  96       2.332  -1.687  16.097  0.00  0.00           C 0
+ATOM   5117   CA PRO A 331       5.140  -8.456  13.867  0.00  0.00           C 0
+ATOM   2787   OH TYR A 176       1.829  -8.883  11.454  0.04  7.50           O 0
+ATOM   1485    O ALA A  96       3.707  -2.739  17.753  0.00  0.00           O 0
+ATOM   5091  CG2 ILE A 329       3.728  -2.921  11.317  0.00  0.00           C 0
+ATOM   1480    N ALA A  96       0.983  -1.120  16.088  0.75  1.09           N 0
+ATOM   5086   CB ILE A 329       3.359  -3.287   9.880  0.00  0.00           C 0
+ATOM   1472    C ASP A  95      -0.068  -1.746  16.610  0.00  0.00           C 0
+TER
+END

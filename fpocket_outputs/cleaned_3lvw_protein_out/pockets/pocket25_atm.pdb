@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0172
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6033
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4524
+HEADER 5  - Mean B-factor of pocket residues  : 0.1363
+HEADER 6  - Hydrophobicity Score              : 23.6250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 92.2046
+HEADER 10 - Pocket volume (convex hull)       : 1.4188
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   9452    N LEU A 592     -14.042  58.347 -22.850  0.68  1.09           N 0
+ATOM   1767   OH TYR A 113     -17.456  54.333 -23.016  0.46  3.21           O 0
+ATOM   1801   OG SER A 116     -14.822  56.467 -17.278  0.52  9.64           O 0
+ATOM   9380    O LYS A 588     -19.662  59.876 -20.163  0.00  0.00           O 0
+ATOM   1787   CA GLY A 115     -17.728  53.291 -19.469  0.00  0.00           C 0
+ATOM   9399   CA HIS A 589     -18.430  60.210 -22.576  0.00  0.00           C 0
+ATOM   1792    N SER A 116     -16.283  54.126 -17.726  0.57  5.47           N 0
+ATOM   9458   CB LEU A 592     -15.324  56.939 -24.391  0.00  0.00           C 0
+ATOM   1790    C GLY A 115     -16.453  53.197 -18.680  0.00  0.00           C 0
+ATOM   9529  CE2 TYR A 595     -12.029  54.389 -21.064  0.00  0.00           C 0
+ATOM   9407  ND1 HIS A 589     -20.288  57.725 -22.870  0.70  1.09           N 0
+ATOM   9434   CB ARG A 591     -13.299  59.109 -19.747  0.00  0.00           C 0
+ATOM   9428    N ARG A 591     -14.361  60.684 -21.340  0.50  1.09           N 0
+TER
+END

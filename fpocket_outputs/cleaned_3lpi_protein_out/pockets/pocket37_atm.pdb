@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.0700
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6330
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4127
+HEADER 5  - Mean B-factor of pocket residues  : 0.3946
+HEADER 6  - Hydrophobicity Score              : -7.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.9174
+HEADER 10 - Pocket volume (convex hull)       : 5.1521
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   8556  ND2 ASN B 223      -4.554  36.073  48.422  0.00  0.00           N 0
+ATOM   8601  OE2 GLU B 226      -3.789  37.268  51.156  0.62  3.21           O 0
+ATOM   8600  OE1 GLU B 226      -5.679  38.370  51.009  0.29  6.43           O 0
+ATOM  10924  OE2 GLU B 371      -5.203  30.495  52.507  0.52  5.36           O 0
+ATOM   8516    O PRO B 221      -3.086  35.858  54.750  0.43  7.50           O 0
+ATOM   8545    N ASN B 223      -1.564  35.891  50.868  0.68  1.09           N 0
+ATOM   8551   CB ASN B 223      -2.517  34.850  48.835  0.00  0.00           C 0
+ATOM   8517   CB PRO B 221      -2.209  32.894  55.460  0.00  0.00           C 0
+ATOM   8523   CD PRO B 221      -3.499  33.384  57.357  0.00  0.00           C 0
+ATOM   8531    O LEU B 222       0.421  35.368  51.768  0.42  4.29           O 0
+ATOM   8530    C LEU B 222      -0.664  35.935  51.846  0.00  0.00           C 0
+ATOM   8547   CA ASN B 223      -1.250  35.166  49.645  0.00  0.00           C 0
+ATOM  10919   CG GLU B 371      -3.409  28.934  52.446  0.00  0.00           C 0
+ATOM  10916   CB GLU B 371      -2.150  29.219  53.252  0.00  0.00           C 0
+TER
+END

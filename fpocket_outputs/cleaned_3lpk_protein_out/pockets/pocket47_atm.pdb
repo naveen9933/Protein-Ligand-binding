@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    47:
+HEADER 0  - Pocket Score                      : -0.1752
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.2513
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4280
+HEADER 5  - Mean B-factor of pocket residues  : 0.2952
+HEADER 6  - Hydrophobicity Score              : 30.4444
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 401.7467
+HEADER 10 - Pocket volume (convex hull)       : 18.0211
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM   6757  CE2 PHE B 108      12.992  28.842  42.655  0.00  0.00           C 0
+ATOM   3492   OH TYR A 283      14.989  21.026  39.197  0.00  0.00           O 0
+ATOM   6735   CG PRO B 107      16.225  29.221  39.567  0.00  0.00           C 0
+ATOM   6759   CZ PHE B 108      13.402  28.308  43.858  0.00  0.00           C 0
+ATOM   6732   CB PRO B 107      14.963  29.485  38.794  0.00  0.00           C 0
+ATOM   6726  NE2 HIS B 106      18.677  30.575  42.636  0.68  5.47           N 0
+ATOM   3762   NZ LYS A 300      20.407  23.462  45.651  0.00  0.00           N 0
+ATOM   6755  CE1 PHE B 108      14.013  29.119  44.800  0.00  0.00           C 0
+ATOM   7708   CG LYS B 168      18.973  25.212  49.457  0.00  0.00           C 0
+ATOM   6724  CE1 HIS B 106      17.394  30.850  42.486  0.00  0.00           C 0
+ATOM   3756   CD LYS A 300      21.377  23.816  43.410  0.00  0.00           C 0
+ATOM   7699    N LYS B 168      20.128  27.501  47.835  0.48  4.37           N 0
+ATOM   7681    O SER B 166      22.966  28.275  44.334  0.77  2.14           O 0
+ATOM   7746    O PHE B 170      15.787  31.124  47.462  0.82  5.36           O 0
+ATOM   7721    N PHE B 169      19.561  30.101  48.761  0.50  3.28           N 0
+ATOM   7701   CA LYS B 168      19.114  27.706  48.871  0.00  0.00           C 0
+TER
+END

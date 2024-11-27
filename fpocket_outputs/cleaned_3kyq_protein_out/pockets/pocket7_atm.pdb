@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0252
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 4.0498
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4896
+HEADER 5  - Mean B-factor of pocket residues  : 0.3038
+HEADER 6  - Hydrophobicity Score              : -0.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 279.0748
+HEADER 10 - Pocket volume (convex hull)       : 7.5240
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.5667
+ATOM   1540   CG LYS A  96      -8.256  -7.958  21.103  0.00  0.00           C 0
+ATOM   2213   CB MET A 139      -9.095 -13.910  16.760  0.00  0.00           C 0
+ATOM   1537   CB LYS A  96      -8.717  -7.234  19.841  0.00  0.00           C 0
+ATOM   2191  OD1 ASP A 137      -6.231 -10.215  19.480  0.68  5.36           O 0
+ATOM   2269  CG2 VAL A 142     -10.534 -11.787  14.354  0.00  0.00           C 0
+ATOM   1469    O THR A  92      -8.312  -6.663  16.377  0.50  1.07           O 0
+ATOM   2265  CG1 VAL A 142     -12.870 -12.409  15.085  0.00  0.00           C 0
+ATOM   2220   CE MET A 139      -9.997 -15.543  19.457  0.00  0.00           C 0
+ATOM   1598  OD1 ASP A  99     -13.948  -9.756  22.793  0.00  0.00           O 0
+ATOM   1599  OD2 ASP A  99     -15.910  -9.515  21.833  0.25  7.50           O 0
+ATOM   1531    N LYS A  96     -10.544  -6.418  18.445  0.00  0.00           N 0
+ATOM   1525   CG GLU A  95     -12.663  -8.222  15.646  0.00  0.00           C 0
+ATOM   1522   CB GLU A  95     -11.623  -7.119  15.618  0.00  0.00           C 0
+ATOM   1474  CG2 THR A  92      -6.191  -8.802  15.060  0.00  0.00           C 0
+ATOM   1597   CG ASP A  99     -14.731  -9.134  22.047  0.00  0.00           C 0
+ATOM   1530  OE2 GLU A  95     -15.003  -8.394  15.312  0.00  0.00           O 0
+ATOM   1594   CB ASP A  99     -14.231  -7.861  21.378  0.00  0.00           C 0
+ATOM   1533   CA LYS A  96     -10.206  -6.875  19.785  0.00  0.00           C 0
+ATOM   1521    O GLU A  95     -12.789  -6.572  18.685  0.57  2.14           O 0
+TER
+END

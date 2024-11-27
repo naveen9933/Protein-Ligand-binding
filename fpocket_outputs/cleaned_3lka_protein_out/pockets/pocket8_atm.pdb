@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0504
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9558
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5220
+HEADER 5  - Mean B-factor of pocket residues  : 0.3469
+HEADER 6  - Hydrophobicity Score              : 16.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 266.9155
+HEADER 10 - Pocket volume (convex hull)       : 5.8294
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   1292    O GLY A 188       0.191  14.373  11.256  0.73  2.14           O 0
+ATOM   1293    N SER A 189      -0.539  16.119  10.039  0.00  0.00           N 0
+ATOM     60  CZ3 TRP A 109       3.122  14.212  13.784  0.00  0.00           C 0
+ATOM   1291    C GLY A 188       0.292  15.118  10.270  0.00  0.00           C 0
+ATOM   1295   CA SER A 189      -1.636  16.442  10.947  0.00  0.00           C 0
+ATOM   1304    N GLY A 190      -3.793  15.500  11.554  0.53  2.19           N 0
+ATOM   1299   CB SER A 189      -2.062  17.899  10.740  0.00  0.00           C 0
+ATOM    855   SD MET A 156      -5.615  16.709  16.878  0.00  0.00           S 0
+ATOM    865    O ALA A 157      -2.530  12.644  17.466  0.84  4.29           O 0
+ATOM   1310    O GLY A 190      -4.002  12.670  12.347  0.31  3.21           O 0
+ATOM    106   NZ LYS A 111       3.318  17.081  17.580  0.00  0.00           N 0
+ATOM    875    O ASP A 158      -0.464  11.074  15.106  0.60  1.07           O 0
+ATOM    872   CA ASP A 158       0.204  12.346  17.016  0.00  0.00           C 0
+ATOM    852   CG MET A 156      -5.267  15.239  17.877  0.00  0.00           C 0
+ATOM    881  OD2 ASP A 158       1.566  14.872  17.346  0.40  5.36           O 0
+TER
+END

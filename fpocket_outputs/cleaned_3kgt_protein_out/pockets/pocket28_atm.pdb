@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : 0.0485
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7159
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5335
+HEADER 5  - Mean B-factor of pocket residues  : 0.4251
+HEADER 6  - Hydrophobicity Score              : 29.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 82.8497
+HEADER 10 - Pocket volume (convex hull)       : 0.4962
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM   6678  CE1 TYR D 105      11.798  56.127  62.280  0.00  0.00           C 0
+ATOM   6614    N ARG D 103       8.941  56.060  65.318  0.39  9.84           N 0
+ATOM   6072  CE2 PHE D  64      13.932  58.757  63.697  0.00  0.00           C 0
+ATOM   6596   CB ALA D  97      11.858  60.052  60.309  0.00  0.00           C 0
+ATOM   6080    C VAL D  65      10.793  64.319  63.230  0.00  0.00           C 0
+ATOM   6061    O PHE D  64      11.725  62.253  65.767  0.53  5.36           O 0
+ATOM   6092    N GLU D  66       9.551  64.342  62.752  0.74  3.28           N 0
+ATOM   6068  CD2 PHE D  64      13.817  59.474  64.885  0.00  0.00           C 0
+ATOM   6594    C ALA D  97       9.453  60.030  59.612  0.00  0.00           C 0
+ATOM   6595    O ALA D  97       9.149  61.225  59.615  0.00  0.00           O 0
+ATOM   6600    N ASN D  98       8.579  59.054  59.860  0.00  0.00           N 0
+ATOM   6605    O ASN D  98       6.668  58.029  62.135  0.48  5.36           O 0
+ATOM   6683   OH TYR D 105      10.050  56.534  60.716  0.68  4.29           O 0
+ATOM   6101   CG GLU D  66       6.886  63.143  61.667  0.00  0.00           C 0
+TER
+END

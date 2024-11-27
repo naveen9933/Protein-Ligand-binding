@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0370
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    49
+HEADER 3  - Mean alpha-sphere radius          : 3.8935
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5571
+HEADER 5  - Mean B-factor of pocket residues  : 0.4733
+HEADER 6  - Hydrophobicity Score              : -10.9167
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 626.9445
+HEADER 10 - Pocket volume (convex hull)       : 146.1720
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.1111
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.1837
+ATOM   1451   CZ ARG A 100      -2.975  20.467  22.420  0.00  0.00           C 0
+ATOM   1094   NE ARG A  77      -5.133  18.459  17.692  0.47  3.28           N 0
+ATOM   1455  NH2 ARG A 100      -4.058  21.190  22.176  0.57  3.28           N 0
+ATOM   1452  NH1 ARG A 100      -1.773  21.017  22.273  0.00  0.00           N 0
+ATOM   1100  NH2 ARG A  77      -6.076  20.488  17.108  0.00  0.00           N 0
+ATOM   2288   OG SER A 153       0.175  19.386  14.143  0.47  6.43           O 0
+ATOM   1443   CG ARG A 100      -1.515  17.572  21.815  0.00  0.00           C 0
+ATOM   1738  OE1 GLU A 117       5.665  17.085  20.099  0.76  7.50           O 0
+ATOM   1440   CB ARG A 100      -0.858  16.245  22.133  0.00  0.00           C 0
+ATOM   1060    O ARG A  76      -0.808  14.415  17.392  0.47  4.29           O 0
+ATOM   1091   CD ARG A  77      -5.129  17.024  17.990  0.00  0.00           C 0
+ATOM   1059    C ARG A  76      -1.422  14.227  16.328  0.00  0.00           C 0
+ATOM   1054    O GLY A  75       0.076  16.570  13.989  0.57  3.21           O 0
+ATOM   1088   CG ARG A  77      -4.979  16.161  16.717  0.00  0.00           C 0
+ATOM   1469   CD PRO A 101      -0.389  13.015  20.321  0.00  0.00           C 0
+ATOM   1722   CD PRO A 116       5.035  13.757  20.520  0.00  0.00           C 0
+ATOM   1719   CG PRO A 116       4.844  12.854  19.336  0.00  0.00           C 0
+ATOM   1462    O PRO A 101       2.418  13.155  22.403  0.70  1.07           O 0
+ATOM   1706  CE2 TYR A 115       3.029  17.179  24.906  0.00  0.00           C 0
+ATOM   1446   CD ARG A 100      -1.985  18.293  23.087  0.00  0.00           C 0
+ATOM   1709   OH TYR A 115       2.783  18.668  26.767  0.00  0.00           O 0
+ATOM   1708   CZ TYR A 115       3.587  18.076  25.810  0.00  0.00           C 0
+ATOM   1048    N GLY A  75       3.380  15.525  15.364  0.24  1.09           N 0
+ATOM   2281   CA SER A 153       1.015  20.427  12.162  0.00  0.00           C 0
+ATOM   2337   CB GLN A 156       4.700  23.411  12.751  0.00  0.00           C 0
+ATOM   2340   CG GLN A 156       5.138  24.513  13.770  0.00  0.00           C 0
+ATOM   2354   CB ALA A 157       5.538  18.618  15.132  0.00  0.00           C 0
+ATOM   2284    O SER A 153       3.111  19.655  13.090  0.37  1.07           O 0
+ATOM   2405  OD2 ASP A 160       6.989  23.341  17.049  0.62  7.50           O 0
+ATOM   2348    N ALA A 157       5.903  20.628  13.798  0.00  0.00           N 0
+ATOM   1737   CD GLU A 117       6.421  17.240  19.141  0.00  0.00           C 0
+ATOM   1739  OE2 GLU A 117       6.179  16.731  18.032  0.72  1.07           O 0
+ATOM   1702  CD2 TYR A 115       3.865  16.566  23.931  0.00  0.00           C 0
+ATOM   1050   CA GLY A  75       2.342  16.445  14.860  0.00  0.00           C 0
+ATOM   1734   CG GLU A 117       7.711  18.024  19.327  0.00  0.00           C 0
+ATOM   1053    C GLY A  75       0.922  15.900  14.645  0.00  0.00           C 0
+ATOM   2350   CA ALA A 157       6.460  19.771  14.827  0.00  0.00           C 0
+TER
+END

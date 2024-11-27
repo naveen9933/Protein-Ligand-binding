@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0911
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0478
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7334
+HEADER 5  - Mean B-factor of pocket residues  : 0.0999
+HEADER 6  - Hydrophobicity Score              : 30.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 303.8162
+HEADER 10 - Pocket volume (convex hull)       : 7.7889
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM   3684  CD1 LEU A 266      49.163  18.417  79.761  0.00  0.00           C 0
+ATOM   3682   CG LEU A 266      49.575  17.949  81.172  0.00  0.00           C 0
+ATOM   3673    N LEU A 266      52.198  17.204  82.683  0.70  3.28           N 0
+ATOM   3645    O ILE A 264      52.483  20.576  83.849  0.51  1.07           O 0
+ATOM   3528  NE2 HIS A 256      49.380  22.090  81.053  0.00  0.00           N 0
+ATOM   3629    O HIS A 263      53.374  22.069  88.437  0.53  4.29           O 0
+ATOM   3665   CB ASN A 265      55.297  17.653  84.403  0.00  0.00           C 0
+ATOM   3628    C HIS A 263      53.237  22.718  87.389  0.00  0.00           C 0
+ATOM   3612    O GLN A 262      55.678  25.257  85.821  0.56  6.43           O 0
+ATOM   3659    N ASN A 265      53.433  19.044  85.185  0.52  3.28           N 0
+ATOM   3640    N ILE A 264      52.723  22.199  86.276  0.51  1.09           N 0
+ATOM   3602    O ALA A 261      53.278  23.636  82.918  0.60  7.50           O 0
+ATOM   3661   CA ASN A 265      53.927  18.254  84.066  0.00  0.00           C 0
+ATOM   3669  OD1 ASN A 265      55.149  16.458  82.337  0.08  6.43           O 0
+ATOM   3668   CG ASN A 265      55.846  16.777  83.289  0.00  0.00           C 0
+ATOM   3644    C ILE A 264      52.728  20.135  84.976  0.00  0.00           C 0
+TER
+END

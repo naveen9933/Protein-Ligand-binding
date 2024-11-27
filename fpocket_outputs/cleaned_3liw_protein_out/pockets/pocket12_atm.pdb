@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0320
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9219
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6022
+HEADER 5  - Mean B-factor of pocket residues  : 0.1557
+HEADER 6  - Hydrophobicity Score              : 19.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.7923
+HEADER 10 - Pocket volume (convex hull)       : 8.1504
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   3736   CA GLY B   7     -16.684  31.741  33.597  0.00  0.00           C 0
+ATOM   3922  CG2 VAL B  20     -19.323  32.941  31.265  0.00  0.00           C 0
+ATOM   3740    O GLY B   7     -18.133  29.860  33.822  0.51  4.29           O 0
+ATOM   3704  CD2 LEU B   4     -18.117  35.821  37.960  0.00  0.00           C 0
+ATOM   3747   CB ASP B   8     -18.009  28.686  36.435  0.00  0.00           C 0
+ATOM   3714   CB ASP B   5     -13.583  32.229  38.443  0.00  0.00           C 0
+ATOM   3694    O LEU B   4     -15.145  33.636  35.942  0.00  0.00           O 0
+ATOM   3698   CG LEU B   4     -16.585  35.771  37.910  0.00  0.00           C 0
+ATOM   3719  OD2 ASP B   5     -13.863  30.083  39.437  0.00  0.00           O 0
+ATOM   3654    O LEU B   1     -16.370  35.171  33.512  0.00  0.00           O 0
+ATOM   3651   CA LEU B   1     -18.071  36.570  32.566  0.00  0.00           C 0
+ATOM   3739    C GLY B   7     -17.113  30.421  34.210  0.00  0.00           C 0
+ATOM   3751  OD1 ASP B   8     -17.203  27.843  38.504  0.43  6.43           O 0
+ATOM   3750   CG ASP B   8     -18.133  27.816  37.670  0.00  0.00           C 0
+ATOM   3752  OD2 ASP B   8     -19.169  27.121  37.815  0.24  2.14           O 0
+ATOM   4129   NZ LYS B  35     -21.581  27.370  36.549  0.00  0.00           N 0
+ATOM   3741    N ASP B   8     -16.321  29.929  35.158  0.55  2.19           N 0
+TER
+END

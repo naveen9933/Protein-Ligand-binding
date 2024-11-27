@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0390
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9817
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5401
+HEADER 5  - Mean B-factor of pocket residues  : 0.1324
+HEADER 6  - Hydrophobicity Score              : 58.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 189.6048
+HEADER 10 - Pocket volume (convex hull)       : 1.8267
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.7619
+ATOM   2542  CD1 LEU A 171      15.355 -10.323  33.007  0.00  0.00           C 0
+ATOM   2499    N CYS A 168       8.088  -7.992  30.476  0.72  1.09           N 0
+ATOM   2503    C CYS A 168       9.891  -7.111  29.062  0.00  0.00           C 0
+ATOM   2501   CA CYS A 168       8.684  -8.030  29.150  0.00  0.00           C 0
+ATOM   2486    C MET A 167       7.307  -8.974  30.909  0.00  0.00           C 0
+ATOM   2487    O MET A 167       6.955  -9.916  30.197  0.75  6.43           O 0
+ATOM   2488   CB MET A 167       7.332 -10.074  33.159  0.00  0.00           C 0
+ATOM   2516    O GLY A 169      12.853  -8.448  27.086  0.00  0.00           O 0
+ATOM   2517    N THR A 170      14.171  -6.905  28.051  0.00  0.00           N 0
+ATOM   2591   CB VAL A 174      14.264  -5.544  32.501  0.00  0.00           C 0
+ATOM   2597  CG2 VAL A 174      12.756  -5.348  32.518  0.00  0.00           C 0
+ATOM   2531    N LEU A 171      16.554  -8.655  29.786  0.47  2.19           N 0
+ATOM   2504    O CYS A 168      10.184  -6.359  29.992  0.28  1.07           O 0
+ATOM   2515    C GLY A 169      13.000  -7.349  27.612  0.00  0.00           C 0
+ATOM   2651  CD1 LEU A 178      10.378  -7.655  34.463  0.00  0.00           C 0
+ATOM   2495   CE MET A 167       9.697 -11.007  35.558  0.00  0.00           C 0
+ATOM   2546  CD2 LEU A 171      16.487 -12.365  32.114  0.00  0.00           C 0
+TER
+END

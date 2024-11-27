@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0367
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7483
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4420
+HEADER 5  - Mean B-factor of pocket residues  : 0.2069
+HEADER 6  - Hydrophobicity Score              : 8.5714
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.7962
+HEADER 10 - Pocket volume (convex hull)       : 6.4983
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM   9936    O LYS B 310       1.102  21.379  77.411  0.61  3.21           O 0
+ATOM  10036   CD LYS B 317      -1.718  16.617  74.773  0.00  0.00           C 0
+ATOM   9937   CB LYS B 310       3.951  20.446  76.026  0.00  0.00           C 0
+ATOM  10039   CE LYS B 317      -1.717  16.312  76.261  0.00  0.00           C 0
+ATOM   9943   CD LYS B 310       5.262  18.922  74.554  0.00  0.00           C 0
+ATOM   9949   NZ LYS B 310       6.615  17.401  73.134  0.00  0.00           N 0
+ATOM  10051    O PHE B 318       1.105  16.834  69.559  0.38  9.64           O 0
+ATOM   9946   CE LYS B 310       5.774  18.635  73.159  0.00  0.00           C 0
+ATOM  10129  CD1 TRP B 323       4.149  19.273  70.264  0.00  0.00           C 0
+ATOM  10090  OD1 ASP B 320       5.558  14.224  69.765  0.26  6.43           O 0
+ATOM   9940   CG LYS B 310       4.487  20.239  74.618  0.00  0.00           C 0
+ATOM  10046    N PHE B 318      -1.154  18.088  70.449  0.42  1.09           N 0
+ATOM  10132  NE1 TRP B 323       3.079  19.732  71.000  0.60  2.19           N 0
+ATOM  10014    O GLU B 316      -2.874  20.019  73.553  0.00  0.00           O 0
+ATOM  10137  CZ2 TRP B 323       2.534  21.911  72.119  0.00  0.00           C 0
+ATOM   9982   OG SER B 313       0.225  23.560  74.957  0.81  1.07           O 0
+TER
+END

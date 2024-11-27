@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0528
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9291
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4840
+HEADER 5  - Mean B-factor of pocket residues  : 0.3324
+HEADER 6  - Hydrophobicity Score              : 16.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 335.3179
+HEADER 10 - Pocket volume (convex hull)       : 20.8004
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM   2786  OD1 ASN A 209      30.355   9.514  26.546  0.33  4.29           O 0
+ATOM   2085    O ILE A 165      32.459   7.911  32.713  0.79  6.43           O 0
+ATOM    579   CG PRO A  68      27.606   8.001  29.956  0.00  0.00           C 0
+ATOM    582   CD PRO A  68      28.605   7.201  29.063  0.00  0.00           C 0
+ATOM   2065   CG ARG A 164      34.712  11.615  33.082  0.00  0.00           C 0
+ATOM    550    O HIS A  66      33.699   6.679  27.767  0.00  0.00           O 0
+ATOM    563   CA ALA A  67      31.269   5.899  28.882  0.00  0.00           C 0
+ATOM   2068   CD ARG A 164      34.438  13.088  32.678  0.00  0.00           C 0
+ATOM    555  ND1 HIS A  66      37.864   5.898  31.049  0.66  5.47           N 0
+ATOM   2062   CB ARG A 164      34.966  11.516  34.603  0.00  0.00           C 0
+ATOM   2044   CD LYS A 158      39.474   9.132  36.693  0.00  0.00           C 0
+ATOM   2041   CG LYS A 158      38.121   8.417  37.031  0.00  0.00           C 0
+ATOM    551   CB HIS A  66      36.382   6.163  28.989  0.00  0.00           C 0
+ATOM    549    C HIS A  66      33.735   5.977  28.756  0.00  0.00           C 0
+ATOM   2109  CD1 TRP A 166      35.635   6.268  35.428  0.00  0.00           C 0
+ATOM   2105   CB TRP A 166      34.564   5.144  33.368  0.00  0.00           C 0
+ATOM   2080    N ILE A 165      32.164   9.756  34.849  0.00  0.00           N 0
+ATOM   2086   CB ILE A 165      30.001   8.694  34.809  0.00  0.00           C 0
+TER
+END

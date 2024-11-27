@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0502
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1472
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6390
+HEADER 5  - Mean B-factor of pocket residues  : 0.1681
+HEADER 6  - Hydrophobicity Score              : 28.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.6247
+HEADER 10 - Pocket volume (convex hull)       : 5.9002
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM   3315  NE1 TRP A 221      22.950   1.746  40.440  0.00  0.00           N 0
+ATOM   3752    O LEU A 246      20.207   2.858  40.330  0.59  3.21           O 0
+ATOM   3328   CA LYS A 222      23.659  -0.338  45.274  0.00  0.00           C 0
+ATOM   3375   CD LYS A 224      25.631   3.467  47.293  0.00  0.00           C 0
+ATOM   3335   CG LYS A 222      21.573  -1.610  44.547  0.00  0.00           C 0
+ATOM   3312  CD1 TRP A 221      23.263   0.483  40.877  0.00  0.00           C 0
+ATOM   3307    O TRP A 221      25.630   1.000  43.913  0.50  2.14           O 0
+ATOM   3331    O LYS A 222      24.157   0.860  47.297  0.00  0.00           O 0
+ATOM   3695    O HIS A 243      21.356   7.421  41.202  0.56  4.29           O 0
+ATOM   3788   CB GLU A 248      16.523   0.011  43.765  0.00  0.00           C 0
+ATOM   3332   CB LYS A 222      22.556  -1.322  45.673  0.00  0.00           C 0
+ATOM   3338   CD LYS A 222      20.273  -2.204  45.064  0.00  0.00           C 0
+ATOM   3701  CD2 HIS A 243      25.612   6.257  42.058  0.00  0.00           C 0
+ATOM   3320  CZ2 TRP A 221      24.304   3.704  39.655  0.00  0.00           C 0
+ATOM   3372   CG LYS A 224      26.652   4.288  46.525  0.00  0.00           C 0
+ATOM   3782    N GLU A 248      16.922   2.067  42.486  0.00  0.00           N 0
+ATOM   3768   CA VAL A 247      17.844   4.006  41.354  0.00  0.00           C 0
+ATOM   3317  CE2 TRP A 221      24.109   2.410  40.133  0.00  0.00           C 0
+TER
+END

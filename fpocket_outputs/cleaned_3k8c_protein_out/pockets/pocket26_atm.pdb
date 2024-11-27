@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : 0.0130
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.1159
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5738
+HEADER 5  - Mean B-factor of pocket residues  : 0.6122
+HEADER 6  - Hydrophobicity Score              : 29.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 182.3809
+HEADER 10 - Pocket volume (convex hull)       : 1.7116
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0952
+ATOM   5436   CZ ARG C  52      45.505  33.457 -23.732  0.00  0.00           C 0
+ATOM   5440  NH2 ARG C  52      46.756  33.146 -23.432  0.39  7.66           N 0
+ATOM   5437  NH1 ARG C  52      45.255  34.136 -24.847  0.00  0.00           N 0
+ATOM   5246   CE LYS C  39      49.518  38.136 -19.288  0.00  0.00           C 0
+ATOM   5216    O GLY C  37      44.146  37.293 -17.596  0.56  5.36           O 0
+ATOM   5240   CG LYS C  39      47.620  39.330 -18.129  0.00  0.00           C 0
+ATOM   5204    O CYS C  36      42.889  34.355 -19.382  0.68  1.07           O 0
+ATOM   5434   NE ARG C  52      44.521  33.091 -22.910  0.00  0.00           N 0
+ATOM   5201   CA CYS C  36      44.725  32.936 -18.722  0.00  0.00           C 0
+ATOM   5183    O TYR C  35      47.445  32.796 -17.960  0.55  8.57           O 0
+ATOM   5392  CE1 PHE C  49      40.944  37.537 -19.816  0.00  0.00           C 0
+ATOM   5431   CD ARG C  52      43.093  33.377 -23.108  0.00  0.00           C 0
+ATOM   5203    C CYS C  36      43.678  34.031 -18.480  0.00  0.00           C 0
+TER
+END

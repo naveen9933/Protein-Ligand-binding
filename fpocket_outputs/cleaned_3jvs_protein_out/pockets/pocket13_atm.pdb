@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0226
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8551
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4511
+HEADER 5  - Mean B-factor of pocket residues  : 0.0791
+HEADER 6  - Hydrophobicity Score              : 26.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 172.7838
+HEADER 10 - Pocket volume (convex hull)       : 0.4777
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   3004   CB LEU A 202      29.710   5.952  29.103  0.00  0.00           C 0
+ATOM   3508    O LYS A 233      34.874   5.928  31.845  0.00  0.00           O 0
+ATOM   3003    O LEU A 202      32.359   4.499  28.687  0.54  3.21           O 0
+ATOM   3013  CD2 LEU A 202      29.569   8.035  27.757  0.00  0.00           C 0
+ATOM   1423  OE2 GLU A 104      32.652  11.735  29.627  0.19  9.64           O 0
+ATOM   1383    O MET A 102      32.657   7.024  24.194  0.64  5.36           O 0
+ATOM   3527   CA ILE A 234      32.758   6.720  33.405  0.00  0.00           C 0
+ATOM   3544    N ASP A 235      33.197   9.102  33.469  0.10  3.28           N 0
+ATOM   3536  CG2 ILE A 234      30.342   7.434  33.410  0.00  0.00           C 0
+ATOM   3009  CD1 LEU A 202      28.418   7.894  29.975  0.00  0.00           C 0
+ATOM   1415   CB GLU A 104      32.162  11.557  26.643  0.00  0.00           C 0
+ATOM   1409    N GLU A 104      32.627  10.337  24.573  0.56  2.19           N 0
+TER
+END

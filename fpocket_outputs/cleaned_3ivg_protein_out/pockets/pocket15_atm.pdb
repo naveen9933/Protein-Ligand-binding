@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0446
+HEADER 1  - Drug Score                        : 0.0103
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8308
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6210
+HEADER 5  - Mean B-factor of pocket residues  : 0.3276
+HEADER 6  - Hydrophobicity Score              : 71.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 144.3787
+HEADER 10 - Pocket volume (convex hull)       : 1.3096
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.9375
+ATOM    285    O VAL A  23      -4.924  17.582  13.516  0.00  0.00           O 0
+ATOM    288  CG1 VAL A  23      -2.812  19.757  12.942  0.00  0.00           C 0
+ATOM     52   CB PHE A   6      -4.436  23.629  11.975  0.00  0.00           C 0
+ATOM     14  CG2 ILE A   3      -6.027  22.274  17.111  0.00  0.00           C 0
+ATOM    337   CB ALA A  26      -7.960  17.849  15.691  0.00  0.00           C 0
+ATOM    336    O ALA A  26      -9.698  16.392  13.297  0.65  1.07           O 0
+ATOM    413  CG2 THR A  30     -11.658  17.643  11.715  0.00  0.00           C 0
+ATOM    335    C ALA A  26      -8.510  16.418  13.675  0.00  0.00           C 0
+ATOM     58  CD2 PHE A   6      -5.534  22.811   9.838  0.00  0.00           C 0
+ATOM    356  CD2 LEU A  27      -6.854  18.998   9.543  0.00  0.00           C 0
+ATOM    282   CA VAL A  23      -3.537  18.759  15.120  0.00  0.00           C 0
+ATOM    341    N LEU A  27      -7.483  16.443  12.813  0.00  0.00           N 0
+ATOM    350   CG LEU A  27      -6.012  18.081  10.445  0.00  0.00           C 0
+TER
+END

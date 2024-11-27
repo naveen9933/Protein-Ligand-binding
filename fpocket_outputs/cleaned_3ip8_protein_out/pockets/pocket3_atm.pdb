@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0321
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9413
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6957
+HEADER 5  - Mean B-factor of pocket residues  : 0.4039
+HEADER 6  - Hydrophobicity Score              : 30.5000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 296.9393
+HEADER 10 - Pocket volume (convex hull)       : 11.8735
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1350   CB PRO A 100      -0.797  16.544  -4.061  0.00  0.00           C 0
+ATOM   1346   CA PRO A 100      -2.199  16.766  -3.475  0.00  0.00           C 0
+ATOM   1268   CD ARG A  94      -6.713  14.333  -4.412  0.00  0.00           C 0
+ATOM   1271   NE ARG A  94      -6.282  13.347  -3.416  0.00  0.00           N 0
+ATOM   1353   CG PRO A 100      -0.720  17.481  -5.245  0.00  0.00           C 0
+ATOM   3150  CD1 LEU A 222       1.248  13.569  -2.697  0.00  0.00           C 0
+ATOM   1277  NH2 ARG A  94      -6.486  11.408  -2.181  0.00  0.00           N 0
+ATOM   1364    O CYS A 101      -2.537  13.539   0.104  0.00  0.00           O 0
+ATOM   1359    N CYS A 101      -2.777  15.947  -1.249  0.00  0.00           N 0
+ATOM   1265   CG ARG A  94      -6.951  15.726  -3.806  0.00  0.00           C 0
+ATOM   1321   CA GLY A  98      -7.488  20.713  -5.477  0.00  0.00           C 0
+ATOM   1324    C GLY A  98      -5.987  20.502  -5.408  0.00  0.00           C 0
+ATOM   1325    O GLY A  98      -5.316  20.508  -6.440  0.00  0.00           O 0
+ATOM   1345    N PRO A 100      -2.600  18.067  -4.027  0.00  0.00           N 0
+ATOM   1356   CD PRO A 100      -1.548  18.665  -4.864  0.00  0.00           C 0
+ATOM   1330    C LEU A  99      -3.786  18.584  -3.677  0.00  0.00           C 0
+ATOM   1331    O LEU A  99      -4.662  17.912  -3.128  0.00  0.00           O 0
+TER
+END

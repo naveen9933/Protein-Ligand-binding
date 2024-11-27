@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0917
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1123
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6258
+HEADER 5  - Mean B-factor of pocket residues  : 0.3780
+HEADER 6  - Hydrophobicity Score              : -11.4286
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 398.7486
+HEADER 10 - Pocket volume (convex hull)       : 28.1423
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    667   CB ASN A  47      -3.137 -22.631 -14.726  0.00  0.00           C 0
+ATOM   1231   CB ASP A  87      -7.807 -22.847 -19.855  0.00  0.00           C 0
+ATOM    672  ND2 ASN A  47      -3.505 -20.354 -14.124  0.00  0.00           N 0
+ATOM    661    N ASN A  47      -1.009 -22.774 -16.022  0.73  3.28           N 0
+ATOM   1211   CB THR A  85      -4.369 -26.298 -20.114  0.00  0.00           C 0
+ATOM   1215  CG2 THR A  85      -3.154 -26.369 -21.062  0.00  0.00           C 0
+ATOM    657  CG2 THR A  46      -0.143 -24.069 -19.206  0.00  0.00           C 0
+ATOM   1225    N ASP A  87      -7.316 -24.516 -18.108  0.00  0.00           N 0
+ATOM   1236  OD2 ASP A  87      -9.686 -21.402 -19.863  0.43  9.64           O 0
+ATOM   1227   CA ASP A  87      -8.376 -23.914 -18.903  0.00  0.00           C 0
+ATOM   1213  OG1 THR A  85      -5.599 -26.527 -20.839  0.62  2.14           O 0
+ATOM   1492  OG1 THR A 107      -6.646 -27.757 -25.228  0.00  0.00           O 0
+ATOM   1243   CB SER A  88      -8.370 -27.716 -21.933  0.00  0.00           C 0
+ATOM   1235  OD1 ASP A  87      -8.985 -22.161 -21.791  0.00  0.00           O 0
+ATOM   1494  CG2 THR A 107      -4.238 -27.584 -24.908  0.00  0.00           C 0
+ATOM    666    O ASN A  47      -2.825 -24.885 -16.775  0.61  2.14           O 0
+ATOM   1223    C GLU A  86      -7.623 -25.343 -17.117  0.00  0.00           C 0
+TER
+END

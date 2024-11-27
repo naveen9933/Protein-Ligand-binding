@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.2036
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 4.0333
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5708
+HEADER 5  - Mean B-factor of pocket residues  : 0.4473
+HEADER 6  - Hydrophobicity Score              : 23.5556
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 5.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.0680
+HEADER 10 - Pocket volume (convex hull)       : 22.1446
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.3438
+ATOM    255  OD2 ASP A  19      11.728   2.743  13.703  0.00  0.00           O 0
+ATOM    253   CG ASP A  19      11.953   3.318  14.788  0.00  0.00           C 0
+ATOM    228   CB LYS A  18      14.013  -0.238  18.364  0.00  0.00           C 0
+ATOM    254  OD1 ASP A  19      13.008   3.949  15.041  0.71  5.36           O 0
+ATOM    171    O HIS A  15      11.360  -2.376  17.601  0.71  2.14           O 0
+ATOM    240   NZ LYS A  18      15.152  -3.924  16.500  0.00  0.00           N 0
+ATOM    172   CB HIS A  15      11.219  -4.961  15.939  0.00  0.00           C 0
+ATOM     21   CA TRP A   5       7.499  -1.512  11.062  0.00  0.00           C 0
+ATOM    118   CA ASN A  11       9.966  -5.675  11.914  0.00  0.00           C 0
+ATOM    105    O HIS A  10      12.638  -6.378  12.093  0.00  0.00           O 0
+ATOM     19    N TRP A   5       8.197  -0.584  10.172  0.53  3.28           N 0
+ATOM      7    C HIS A   4       8.992  -1.008   9.188  0.00  0.00           C 0
+ATOM      5   CA HIS A   4       9.845   0.057   8.494  0.00  0.00           C 0
+ATOM      8    O HIS A   4       9.069  -2.199   8.849  0.21  3.21           O 0
+ATOM      1    N HIS A   4      10.796  -0.547   7.526  0.00  0.00           N 0
+ATOM     25   CB TRP A   5       6.794  -0.761  12.222  0.00  0.00           C 0
+ATOM    192  CD1 TRP A  16       6.916  -2.828  15.493  0.00  0.00           C 0
+ATOM    121    O ASN A  11       8.015  -4.673  12.921  0.67  1.07           O 0
+ATOM    122   CB ASN A  11       9.667  -5.106  10.523  0.00  0.00           C 0
+ATOM    272  CE2 PHE A  20       7.307   3.310  15.315  0.00  0.00           C 0
+ATOM    250   CB ASP A  19      10.892   3.259  15.836  0.00  0.00           C 0
+ATOM    170    C HIS A  15      10.500  -3.270  17.592  0.00  0.00           C 0
+ATOM    184   CA TRP A  16       8.629  -1.665  17.652  0.00  0.00           C 0
+ATOM    176  ND1 HIS A  15      13.411  -6.151  15.590  0.16  1.09           N 0
+TER
+END

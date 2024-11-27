@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0189
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0243
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6606
+HEADER 5  - Mean B-factor of pocket residues  : 0.1720
+HEADER 6  - Hydrophobicity Score              : 19.2000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 147.0336
+HEADER 10 - Pocket volume (convex hull)       : 1.2230
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM    365   CB LYS A  22      -6.068  79.683  29.866  0.00  0.00           C 0
+ATOM    364    O LYS A  22      -8.233  78.674  31.954  0.00  0.00           O 0
+ATOM    539  CD1 LEU A  32      -4.563  78.849  33.099  0.00  0.00           C 0
+ATOM    442  CG2 VAL A  26      -7.269  79.347  35.185  0.00  0.00           C 0
+ATOM    330  OE2 GLU A  19      -6.671  84.803  29.089  0.33  9.64           O 0
+ATOM    390   CG LYS A  23     -12.126  81.842  30.862  0.00  0.00           C 0
+ATOM    383   CA LYS A  23     -10.497  79.866  30.877  0.00  0.00           C 0
+ATOM    381    N LYS A  23      -9.301  79.474  30.134  0.00  0.00           N 0
+ATOM    363    C LYS A  22      -8.267  78.893  30.738  0.00  0.00           C 0
+ATOM    329  OE1 GLU A  19      -8.810  84.602  28.630  0.64  7.50           O 0
+ATOM    436   CB VAL A  26      -8.779  79.147  35.250  0.00  0.00           C 0
+ATOM    438  CG1 VAL A  26      -9.395  79.983  36.356  0.00  0.00           C 0
+ATOM    374   CE LYS A  22      -4.102  81.626  30.015  0.00  0.00           C 0
+TER
+END

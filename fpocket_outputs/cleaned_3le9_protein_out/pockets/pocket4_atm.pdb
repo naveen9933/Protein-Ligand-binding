@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0475
+HEADER 1  - Drug Score                        : 0.0140
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9349
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5767
+HEADER 5  - Mean B-factor of pocket residues  : 0.2065
+HEADER 6  - Hydrophobicity Score              : 9.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 356.2844
+HEADER 10 - Pocket volume (convex hull)       : 10.0636
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5455
+ATOM   1332    N ALA A 301     -17.592  12.180  25.577  0.56  1.09           N 0
+ATOM   1180  CG2 VAL A 291     -20.205  16.119  21.655  0.00  0.00           C 0
+ATOM   1342    N LYS A 302     -17.096  10.268  23.474  0.70  1.09           N 0
+ATOM   1338   CB ALA A 301     -19.128  10.274  25.866  0.00  0.00           C 0
+ATOM   1348   CB LYS A 302     -17.295   9.693  21.080  0.00  0.00           C 0
+ATOM   1133   CD PRO A 288     -19.709  12.009  31.187  0.00  0.00           C 0
+ATOM   1162   CG GLU A 290     -24.024  16.395  27.670  0.00  0.00           C 0
+ATOM   1166  OE1 GLU A 290     -25.976  15.662  28.795  0.00  0.00           O 0
+ATOM   1126    O PRO A 288     -20.189  15.361  29.933  0.54  3.21           O 0
+ATOM   1324   CG MET A 300     -15.823  14.083  22.899  0.00  0.00           C 0
+ATOM   1321   CB MET A 300     -16.762  14.766  23.918  0.00  0.00           C 0
+ATOM   1141    O GLN A 289     -19.491  16.154  26.008  0.66  3.21           O 0
+ATOM   1168    N VAL A 291     -21.841  17.441  23.789  0.00  0.00           N 0
+ATOM   1127   CB PRO A 288     -18.974  12.546  28.973  0.00  0.00           C 0
+ATOM   1130   CG PRO A 288     -19.356  11.424  29.862  0.00  0.00           C 0
+ATOM   1117   CB SER A 287     -20.460  13.793  33.974  0.00  0.00           C 0
+ATOM   1120   OG SER A 287     -20.816  15.160  33.976  0.00  0.00           O 0
+ATOM   1155   CA GLU A 290     -22.115  17.095  26.163  0.00  0.00           C 0
+ATOM   1327   SD MET A 300     -16.131  14.756  21.245  0.00  0.00           S 0
+TER
+END

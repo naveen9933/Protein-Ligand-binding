@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0570
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 4.0545
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6293
+HEADER 5  - Mean B-factor of pocket residues  : 0.5194
+HEADER 6  - Hydrophobicity Score              : -13.6667
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.8568
+HEADER 10 - Pocket volume (convex hull)       : 5.9805
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2414
+ATOM   1263  OE1 GLU A 138      12.717  16.048   8.787  0.00  0.00           O 0
+ATOM   1108  CE1 TYR A 129      12.395  16.875  13.908  0.00  0.00           C 0
+ATOM   1113   OH TYR A 129      12.555  18.903  15.159  0.66  5.36           O 0
+ATOM   1264  OE2 GLU A 138      11.097  16.072  10.223  0.80  7.50           O 0
+ATOM   1262   CD GLU A 138      12.193  15.669   9.834  0.00  0.00           C 0
+ATOM   1216   CD LYS A 136      15.783  19.463  15.063  0.00  0.00           C 0
+ATOM   1259   CG GLU A 138      12.934  14.657  10.686  0.00  0.00           C 0
+ATOM   1650    N SER A 166      18.652  14.672   8.636  0.50  6.56           N 0
+ATOM   1641   CB GLU A 165      15.664  14.652   7.135  0.00  0.00           C 0
+ATOM   1639    C GLU A 165      17.562  13.917   8.557  0.00  0.00           C 0
+ATOM   1640    O GLU A 165      17.074  13.345   9.530  0.00  0.00           O 0
+ATOM   1655    O SER A 166      20.564  16.716   9.009  0.41  6.43           O 0
+ATOM   1648  OE1 GLU A 165      13.948  16.852   6.090  0.00  0.00           O 0
+ATOM   1209    O LYS A 136      18.688  15.398  12.840  0.00  0.00           O 0
+ATOM   1667   CB ASP A 167      19.822  19.096  11.777  0.00  0.00           C 0
+ATOM   1661    N ASP A 167      20.137  16.721  11.219  0.00  0.00           N 0
+ATOM   1654    C SER A 166      20.079  16.184  10.005  0.00  0.00           C 0
+ATOM   1210   CB LYS A 136      17.157  17.452  14.505  0.00  0.00           C 0
+ATOM   1208    C LYS A 136      17.903  15.211  13.770  0.00  0.00           C 0
+ATOM   1652   CA SER A 166      19.347  14.850   9.904  0.00  0.00           C 0
+TER
+END

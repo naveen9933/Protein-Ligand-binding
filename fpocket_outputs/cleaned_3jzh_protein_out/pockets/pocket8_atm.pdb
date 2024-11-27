@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0262
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0231
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5260
+HEADER 5  - Mean B-factor of pocket residues  : 0.3609
+HEADER 6  - Hydrophobicity Score              : 11.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 226.0001
+HEADER 10 - Pocket volume (convex hull)       : 2.9822
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM    112    C LEU A  88       1.172  25.796 -35.430  0.00  0.00           C 0
+ATOM    110   CA LEU A  88      -0.262  26.153 -35.668  0.00  0.00           C 0
+ATOM    133   CB LYS A  89       4.038  26.116 -37.120  0.00  0.00           C 0
+ATOM    106   OG SER A  87      -2.450  22.469 -37.419  0.00  0.00           O 0
+ATOM    127    N LYS A  89       2.063  26.676 -35.885  0.80  3.28           N 0
+ATOM    142   CE LYS A  89       5.176  23.616 -38.588  0.00  0.00           C 0
+ATOM    113    O LEU A  88       1.452  24.743 -34.835  0.00  0.00           O 0
+ATOM    145   NZ LYS A  89       5.140  23.090 -40.003  0.00  0.00           N 0
+ATOM   5578   CB SER A 433       3.344  21.968 -35.194  0.00  0.00           C 0
+ATOM   5216   CB LYS A 408      -0.940  17.822 -41.530  0.00  0.00           C 0
+ATOM   5624  CH2 TRP A 435      -0.825  18.980 -37.712  0.00  0.00           C 0
+ATOM   5620  CZ2 TRP A 435       0.342  19.158 -36.990  0.00  0.00           C 0
+ATOM   5215    O LYS A 408       1.404  17.306 -39.802  0.48  9.64           O 0
+ATOM   5561  OD2 ASP A 431       6.214  20.167 -37.511  0.23  5.36           O 0
+TER
+END

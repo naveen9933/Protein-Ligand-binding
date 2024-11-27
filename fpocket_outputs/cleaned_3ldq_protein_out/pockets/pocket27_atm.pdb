@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.1342
+HEADER 1  - Drug Score                        : 0.0056
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9543
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6106
+HEADER 5  - Mean B-factor of pocket residues  : 0.3646
+HEADER 6  - Hydrophobicity Score              : 2.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 331.5959
+HEADER 10 - Pocket volume (convex hull)       : 6.1429
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM   3869   CE LYS A 257       9.103 -14.671  19.753  0.00  0.00           C 0
+ATOM   7551  OE1 GLU B 255      14.487 -14.293  28.437  0.00  0.00           O 0
+ATOM    815   CB ALA A  60      16.226  -8.251  22.574  0.00  0.00           C 0
+ATOM   3872   NZ LYS A 257       8.130 -13.714  20.435  0.00  0.00           N 0
+ATOM   6766   CB LYS B 208      17.184 -10.374  28.042  0.00  0.00           C 0
+ATOM   6765    O LYS B 208      19.420 -10.967  25.762  0.73  2.14           O 0
+ATOM   6762   CA LYS B 208      18.399 -11.290  27.925  0.00  0.00           C 0
+ATOM   6769   CG LYS B 208      15.970 -11.058  28.629  0.00  0.00           C 0
+ATOM   6831   CB GLU B 212      20.257 -10.210  22.339  0.00  0.00           C 0
+ATOM   6839  OE2 GLU B 212      18.636 -10.650  20.097  0.39  1.07           O 0
+ATOM   6817  CG2 ILE B 211      18.513 -15.067  23.956  0.00  0.00           C 0
+ATOM   6821  CD1 ILE B 211      17.860 -15.685  27.064  0.00  0.00           C 0
+ATOM   6812   CB ILE B 211      19.332 -14.650  25.167  0.00  0.00           C 0
+ATOM   3897  NH2 ARG A 258      16.307 -17.840  24.312  0.00  0.00           N 0
+ATOM    814    O ALA A  60      14.840  -7.592  25.393  0.44  6.43           O 0
+ATOM   6775   CE LYS B 208      13.484 -10.637  28.750  0.00  0.00           C 0
+ATOM   6825    N GLU B 212      20.687 -12.390  23.460  0.00  0.00           N 0
+TER
+END

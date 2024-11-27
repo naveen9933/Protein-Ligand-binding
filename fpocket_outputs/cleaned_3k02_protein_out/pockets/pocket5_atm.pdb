@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0184
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9157
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6846
+HEADER 5  - Mean B-factor of pocket residues  : 0.6586
+HEADER 6  - Hydrophobicity Score              : -18.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.3846
+HEADER 10 - Pocket volume (convex hull)       : 11.5559
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   1415   CB GLN A 114       7.878  -3.057  30.817  0.00  0.00           C 0
+ATOM   5029    O ALA A 355       2.549  -1.366  33.983  0.00  0.00           O 0
+ATOM   4995    O ASP A 353       5.443   2.248  34.452  0.44  5.36           O 0
+ATOM   1423  NE2 GLN A 114       7.442   0.544  30.697  0.50  2.19           N 0
+ATOM   1422  OE1 GLN A 114       9.380  -0.593  30.673  0.86  5.36           O 0
+ATOM   1403   CG PRO A 113      13.117  -1.139  31.723  0.00  0.00           C 0
+ATOM   1400   CB PRO A 113      13.148  -2.613  31.505  0.00  0.00           C 0
+ATOM   1421   CD GLN A 114       8.159  -0.562  30.520  0.00  0.00           C 0
+ATOM   1409    N GLN A 114      10.310  -3.058  30.183  0.67  1.09           N 0
+ATOM   5063  OE1 GLU A 357       7.204  -6.437  32.944  0.60  6.43           O 0
+ATOM   1411   CA GLN A 114       9.038  -3.802  30.125  0.00  0.00           C 0
+ATOM   5056   CB GLU A 357       4.228  -6.179  33.409  0.00  0.00           C 0
+ATOM   3976  OE1 GLN A 287       4.476  -4.141  30.231  0.00  0.00           O 0
+ATOM   1418   CG GLN A 114       7.397  -1.797  30.111  0.00  0.00           C 0
+ATOM   1398    C PRO A 113      11.475  -3.677  29.936  0.00  0.00           C 0
+ATOM   1399    O PRO A 113      11.550  -4.875  29.624  0.00  0.00           O 0
+TER
+END

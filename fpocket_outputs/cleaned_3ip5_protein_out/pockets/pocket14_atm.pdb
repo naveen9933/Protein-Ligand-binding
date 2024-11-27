@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0206
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8526
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6913
+HEADER 5  - Mean B-factor of pocket residues  : 0.1338
+HEADER 6  - Hydrophobicity Score              : 12.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.5369
+HEADER 10 - Pocket volume (convex hull)       : 14.0783
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   3742  OD1 ASN A 258     -14.524   4.244  28.784  0.53  4.29           O 0
+ATOM   3723   CB GLU A 257     -13.949  -0.198  29.432  0.00  0.00           C 0
+ATOM   4537    O THR A 312     -11.798   3.233  24.392  0.39  6.43           O 0
+ATOM   3722    O GLU A 257     -13.629   1.953  31.685  0.05  7.50           O 0
+ATOM   3798  CD2 LEU A 261     -13.323   8.285  30.151  0.00  0.00           C 0
+ATOM   3789   CB LEU A 261     -13.888   7.489  32.448  0.00  0.00           C 0
+ATOM   4155  NE2 GLN A 284      -8.635   6.809  26.306  0.77  6.56           N 0
+ATOM   4523   CB PRO A 311      -6.838   1.330  23.722  0.00  0.00           C 0
+ATOM   4522    O PRO A 311      -7.405   4.268  23.073  0.50  6.43           O 0
+ATOM   4526   CG PRO A 311      -5.404   1.558  23.433  0.00  0.00           C 0
+ATOM   4521    C PRO A 311      -8.163   3.311  22.918  0.00  0.00           C 0
+ATOM   4552   CB ALA A 313     -13.616   6.687  26.084  0.00  0.00           C 0
+ATOM   4548   CA ALA A 313     -13.260   5.344  25.450  0.00  0.00           C 0
+ATOM   4099  CE2 TYR A 280     -10.411   9.393  27.998  0.00  0.00           C 0
+ATOM   4102   OH TYR A 280      -9.313   9.685  30.090  0.68  4.29           O 0
+ATOM   4532    N THR A 312      -9.482   3.403  23.045  0.00  0.00           N 0
+ATOM   4536    C THR A 312     -11.376   4.378  24.245  0.00  0.00           C 0
+ATOM   4546    N ALA A 313     -12.007   5.449  24.715  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0833
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0521
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6538
+HEADER 5  - Mean B-factor of pocket residues  : 0.2082
+HEADER 6  - Hydrophobicity Score              : 26.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 199.8805
+HEADER 10 - Pocket volume (convex hull)       : 1.6414
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   1662    O GLN A 135      10.181   3.168  -6.463  0.56  7.50           O 0
+ATOM   2020   CD LYS A 159      13.483   8.253  -3.474  0.00  0.00           C 0
+ATOM   1663   CB GLN A 135      12.924   3.978  -7.973  0.00  0.00           C 0
+ATOM   2026   NZ LYS A 159      12.932  10.307  -4.861  0.54  9.84           N 0
+ATOM   2023   CE LYS A 159      12.790   9.604  -3.554  0.00  0.00           C 0
+ATOM   1661    C GLN A 135      11.370   2.975  -6.230  0.00  0.00           C 0
+ATOM   2594  CG1 VAL A 200       5.217   5.069  -1.211  0.00  0.00           C 0
+ATOM   2623    N GLY A 203       3.739   5.441  -4.778  0.00  0.00           N 0
+ATOM   2591    O VAL A 200       8.277   3.799  -2.423  0.00  0.00           O 0
+ATOM   2612    N SER A 202       5.916   4.153  -6.057  0.52  2.19           N 0
+ATOM   1678    C CYS A 136      11.610   4.112  -2.840  0.00  0.00           C 0
+ATOM   1674    N CYS A 136      11.859   2.938  -4.986  0.00  0.00           N 0
+ATOM   1690   CB LEU A 137      10.290   6.769  -0.795  0.00  0.00           C 0
+ATOM   1684    N LEU A 137      10.790   4.624  -1.936  0.58  1.09           N 0
+ATOM   1676   CA CYS A 136      10.981   3.141  -3.838  0.00  0.00           C 0
+TER
+END

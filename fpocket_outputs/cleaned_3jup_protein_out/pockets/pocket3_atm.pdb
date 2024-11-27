@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0835
+HEADER 1  - Drug Score                        : 0.0048
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8304
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6761
+HEADER 5  - Mean B-factor of pocket residues  : 0.2183
+HEADER 6  - Hydrophobicity Score              : 6.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.4171
+HEADER 10 - Pocket volume (convex hull)       : 5.7552
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7222
+ATOM   2663  CG1 VAL B  17      45.757   3.476  54.324  0.00  0.00           C 0
+ATOM   2661   CB VAL B  17      45.455   1.979  54.565  0.00  0.00           C 0
+ATOM   2613   CG ARG B  14      47.014  -0.685  49.402  0.00  0.00           C 0
+ATOM   2667  CG2 VAL B  17      46.597   1.271  55.279  0.00  0.00           C 0
+ATOM   2610   CB ARG B  14      45.503  -0.814  49.698  0.00  0.00           C 0
+ATOM   2616   CD ARG B  14      47.319  -0.087  48.053  0.00  0.00           C 0
+ATOM   2606   CA ARG B  14      45.204  -0.892  51.197  0.00  0.00           C 0
+ATOM   2604    N ARG B  14      45.750  -2.137  51.776  0.00  0.00           N 0
+ATOM   2609    O ARG B  14      43.292   0.531  51.707  0.65  1.07           O 0
+ATOM   2671    N ALA B  18      42.556   2.542  53.600  0.00  0.00           N 0
+ATOM   2677   CB ALA B  18      41.011   2.995  51.617  0.00  0.00           C 0
+ATOM   2594    C ASN B  13      45.788  -2.344  53.096  0.00  0.00           C 0
+ATOM   2595    O ASN B  13      45.513  -1.466  53.908  0.74  1.07           O 0
+ATOM   2596   CB ASN B  13      47.614  -3.984  53.851  0.00  0.00           C 0
+ATOM   2729  NE2 GLN B  21      44.392   6.883  53.726  0.76  7.66           N 0
+ATOM   2673   CA ALA B  18      41.485   3.425  53.068  0.00  0.00           C 0
+ATOM   2546  OD1 ASN B   9      50.482  -1.538  48.822  0.00  0.00           O 0
+ATOM   2538   CA ASN B   9      51.718  -3.550  50.420  0.00  0.00           C 0
+TER
+END

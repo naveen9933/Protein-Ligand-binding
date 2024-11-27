@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0272
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1527
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7543
+HEADER 5  - Mean B-factor of pocket residues  : 0.1164
+HEADER 6  - Hydrophobicity Score              : 47.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 169.8639
+HEADER 10 - Pocket volume (convex hull)       : 1.4570
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM    151  CE2 TYR A  12     -10.847   6.712  11.061  0.00  0.00           C 0
+ATOM   4322   CA PRO A 282     -13.214   2.845  12.090  0.00  0.00           C 0
+ATOM   4335    N ALA A 283     -13.341   5.068  13.029  0.82  1.09           N 0
+ATOM    147  CD2 TYR A  12     -11.326   7.948  10.641  0.00  0.00           C 0
+ATOM   4288    O LEU A 280     -11.841   1.186   8.678  0.00  0.00           O 0
+ATOM   1920  NH2 ARG A 124      -8.912   5.409   6.164  0.00  0.00           N 0
+ATOM   4289   CB LEU A 280     -11.245   1.159   5.977  0.00  0.00           C 0
+ATOM   1914   NE ARG A 124      -9.962   6.398   4.369  0.00  0.00           N 0
+ATOM   1132  CZ3 TRP A  73     -10.876   9.391   6.211  0.00  0.00           C 0
+ATOM   1128  CE3 TRP A  73      -9.844   8.825   6.958  0.00  0.00           C 0
+ATOM   4298  CD2 LEU A 280     -10.502   2.689   4.100  0.00  0.00           C 0
+ATOM   4285   CA LEU A 280     -10.207   1.690   6.980  0.00  0.00           C 0
+ATOM   4287    C LEU A 280     -10.656   1.419   8.415  0.00  0.00           C 0
+ATOM   4307    O LEU A 281     -10.790   3.543  10.964  0.76  1.07           O 0
+TER
+END

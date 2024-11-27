@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0727
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1589
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6197
+HEADER 5  - Mean B-factor of pocket residues  : 0.0992
+HEADER 6  - Hydrophobicity Score              : -2.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.6085
+HEADER 10 - Pocket volume (convex hull)       : 3.2681
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM    952   CG GLN A  57     -14.890  49.943  39.166  0.00  0.00           C 0
+ATOM   3618  CG1 VAL A 225     -20.794  52.540  33.668  0.00  0.00           C 0
+ATOM    889    O SER A  53     -14.172  52.646  38.600  0.00  0.00           O 0
+ATOM    957  NE2 GLN A  57     -13.640  49.103  37.277  0.00  0.00           N 0
+ATOM    935   CG GLN A  56     -18.738  53.998  38.777  0.00  0.00           C 0
+ATOM    932   CB GLN A  56     -17.253  54.197  39.066  0.00  0.00           C 0
+ATOM    886   CA SER A  53     -13.500  54.194  36.886  0.00  0.00           C 0
+ATOM    890   CB SER A  53     -13.076  53.404  35.647  0.00  0.00           C 0
+ATOM   3597   CA PRO A 224     -16.384  55.536  33.575  0.00  0.00           C 0
+ATOM   3561    O PRO A 221     -13.633  52.123  29.921  0.79  8.57           O 0
+ATOM   3591    O ALA A 223     -15.510  54.465  31.211  0.35  4.29           O 0
+ATOM   3616   CB VAL A 225     -20.405  53.134  32.322  0.00  0.00           C 0
+ATOM   3730   NZ LYS A 232     -16.020  53.503  28.964  0.39  4.37           N 0
+ATOM   3610    N VAL A 225     -18.583  54.608  33.129  0.63  2.19           N 0
+ATOM    893   OG SER A  53     -13.122  54.209  34.483  0.59  1.07           O 0
+TER
+END

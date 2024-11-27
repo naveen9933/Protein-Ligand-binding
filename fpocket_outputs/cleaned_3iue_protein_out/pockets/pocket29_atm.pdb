@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.0596
+HEADER 1  - Drug Score                        : 0.0073
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8977
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6305
+HEADER 5  - Mean B-factor of pocket residues  : 0.3279
+HEADER 6  - Hydrophobicity Score              : 71.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 127.9259
+HEADER 10 - Pocket volume (convex hull)       : 0.3435
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM    334    O ALA A  26      -9.626  16.255  13.800  0.68  2.14           O 0
+ATOM    402  CG2 THR A  30     -12.433  17.510  12.568  0.00  0.00           C 0
+ATOM    335   CB ALA A  26      -7.730  17.917  15.963  0.00  0.00           C 0
+ATOM    354  CD2 LEU A  27      -7.059  18.727   9.702  0.00  0.00           C 0
+ATOM    400  OG1 THR A  30     -11.344  17.149  10.416  0.62  7.50           O 0
+ATOM    333    C ALA A  26      -8.424  16.385  14.104  0.00  0.00           C 0
+ATOM    339    N LEU A  27      -7.439  16.454  13.199  0.00  0.00           N 0
+ATOM    341   CA LEU A  27      -7.689  16.343  11.763  0.00  0.00           C 0
+ATOM    348   CG LEU A  27      -6.105  18.116  10.714  0.00  0.00           C 0
+ATOM     58  CD2 PHE A   6      -5.621  22.932  10.186  0.00  0.00           C 0
+ATOM    285    O VAL A  23      -4.813  17.415  13.866  0.00  0.00           O 0
+ATOM    288  CG1 VAL A  23      -2.971  19.962  13.220  0.00  0.00           C 0
+ATOM     18  CD1 ILE A   3      -6.455  21.239  17.348  0.00  0.00           C 0
+ATOM     52   CB PHE A   6      -4.500  23.667  12.331  0.00  0.00           C 0
+TER
+END

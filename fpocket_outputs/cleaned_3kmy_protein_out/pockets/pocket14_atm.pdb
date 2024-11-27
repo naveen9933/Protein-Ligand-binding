@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0641
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0404
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5670
+HEADER 5  - Mean B-factor of pocket residues  : 0.3387
+HEADER 6  - Hydrophobicity Score              : 2.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 444.8447
+HEADER 10 - Pocket volume (convex hull)       : 50.0267
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0909
+ATOM   5237  CG2 THR A 390      17.908  17.556  30.934  0.00  0.00           C 0
+ATOM   5235  OG1 THR A 390      19.881  16.210  31.295  0.50  8.57           O 0
+ATOM   3758  NH2 ARG A 296      23.609  16.542  29.306  0.37  2.19           N 0
+ATOM   3755  NH1 ARG A 296      24.073  18.702  29.936  0.26  8.75           N 0
+ATOM   1246  OG1 THR A 133      18.362  19.866  24.914  0.00  0.00           O 0
+ATOM   1266  NE2 GLN A 134      22.457  16.885  24.440  0.56  7.66           N 0
+ATOM   5225   OG SER A 389      19.171  21.245  31.589  0.00  0.00           O 0
+ATOM   1248  CG2 THR A 133      19.923  21.534  24.146  0.00  0.00           C 0
+ATOM   1244   CB THR A 133      19.456  20.090  24.016  0.00  0.00           C 0
+ATOM   1207    O PRO A 131      14.894  15.439  20.907  0.00  0.00           O 0
+ATOM   1219   CA TYR A 132      17.407  16.624  21.246  0.00  0.00           C 0
+ATOM   1227  CD1 TYR A 132      17.573  13.589  22.315  0.00  0.00           C 0
+ATOM   1238    N THR A 133      18.470  18.455  22.441  0.54  1.09           N 0
+ATOM   1265  OE1 GLN A 134      20.874  16.986  22.853  0.68  1.07           O 0
+ATOM   1221    C TYR A 132      17.941  18.049  21.294  0.00  0.00           C 0
+ATOM   1240   CA THR A 133      19.004  19.803  22.571  0.00  0.00           C 0
+ATOM   1222    O TYR A 132      17.874  18.773  20.300  0.00  0.00           O 0
+ATOM   1206    C PRO A 131      15.439  15.984  19.948  0.00  0.00           C 0
+ATOM   1208   CB PRO A 131      13.725  17.144  18.496  0.00  0.00           C 0
+TER
+END

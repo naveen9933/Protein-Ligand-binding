@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.1000
+HEADER 1  - Drug Score                        : 0.0635
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1272
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7304
+HEADER 5  - Mean B-factor of pocket residues  : 0.2396
+HEADER 6  - Hydrophobicity Score              : 39.3000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 2.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 402.6743
+HEADER 10 - Pocket volume (convex hull)       : 15.2936
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   3182  CG1 VAL A 211      27.052   8.900 -16.360  0.00  0.00           C 0
+ATOM   3575   CB ALA A 242      32.438   5.639 -14.237  0.00  0.00           C 0
+ATOM   3156   CA ALA A 209      30.945   9.946 -13.583  0.00  0.00           C 0
+ATOM   3159    O ALA A 209      29.560   8.052 -12.973  0.00  0.00           O 0
+ATOM   3196   CB ALA A 212      29.080   5.109 -13.802  0.00  0.00           C 0
+ATOM   3095   CA ALA A 205      33.976  15.522 -12.734  0.00  0.00           C 0
+ATOM   3587   CG PRO A 243      36.242   9.216 -14.988  0.00  0.00           C 0
+ATOM   3098    O ALA A 205      32.615  13.537 -12.798  0.57  4.29           O 0
+ATOM   3150   CB ALA A 208      30.712  14.034 -15.471  0.00  0.00           C 0
+ATOM   3099   CB ALA A 205      35.430  15.366 -12.400  0.00  0.00           C 0
+ATOM   3154    N ALA A 209      30.721  11.370 -13.896  0.71  1.09           N 0
+ATOM   3590   CD PRO A 243      35.261   8.089 -15.329  0.00  0.00           C 0
+ATOM   3149    O ALA A 208      28.932  11.069 -15.203  0.00  0.00           O 0
+ATOM   3520  CG1 VAL A 238      28.230   1.917 -16.660  0.00  0.00           C 0
+ATOM   3192   CA ALA A 212      27.576   5.287 -14.164  0.00  0.00           C 0
+ATOM   3236   CB ALA A 215      24.930   4.150 -17.112  0.00  0.00           C 0
+ATOM   3148    C ALA A 208      29.704  11.821 -14.619  0.00  0.00           C 0
+ATOM   3569    N ALA A 242      34.041   4.206 -15.491  0.00  0.00           N 0
+ATOM   3563    C ALA A 241      34.604   3.989 -16.673  0.00  0.00           C 0
+ATOM   3564    O ALA A 241      34.999   4.898 -17.384  0.56  8.57           O 0
+ATOM   3571   CA ALA A 242      33.797   5.546 -14.955  0.00  0.00           C 0
+ATOM   3517    O VAL A 238      31.336   2.085 -15.791  0.73  2.14           O 0
+ATOM   3565   CB ALA A 241      33.828   2.298 -18.463  0.00  0.00           C 0
+TER
+END

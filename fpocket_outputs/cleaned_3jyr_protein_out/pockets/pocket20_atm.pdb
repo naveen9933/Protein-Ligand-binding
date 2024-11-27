@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0993
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0783
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7054
+HEADER 5  - Mean B-factor of pocket residues  : 0.1977
+HEADER 6  - Hydrophobicity Score              : -7.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.3545
+HEADER 10 - Pocket volume (convex hull)       : 3.6730
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    780   CG GLN A  49      21.202  -9.555  28.613  0.00  0.00           C 0
+ATOM    765   CG PRO A  48      17.205  -8.207  26.044  0.00  0.00           C 0
+ATOM    705    O GLU A  45      20.544  -7.737  25.757  0.46  2.14           O 0
+ATOM    784  OE1 GLN A  49      22.957 -10.307  27.149  0.00  0.00           O 0
+ATOM    702   CA GLU A  45      20.502  -7.074  23.448  0.00  0.00           C 0
+ATOM   5295   OH TYR A 341      20.024 -10.760  19.611  0.73  2.14           O 0
+ATOM   1031  NH2 ARG A  66      17.818  -8.815  20.313  0.48  1.09           N 0
+ATOM   1028  NH1 ARG A  66      15.990  -8.910  21.700  0.43  2.19           N 0
+ATOM    709   CG GLU A  45      21.472  -8.288  21.404  0.00  0.00           C 0
+ATOM    712   CD GLU A  45      22.641  -9.061  20.831  0.00  0.00           C 0
+ATOM    706   CB GLU A  45      21.740  -7.700  22.803  0.00  0.00           C 0
+ATOM    714  OE2 GLU A  45      22.380 -10.005  20.028  0.83  8.57           O 0
+ATOM    713  OE1 GLU A  45      23.804  -8.747  21.171  0.00  0.00           O 0
+TER
+END

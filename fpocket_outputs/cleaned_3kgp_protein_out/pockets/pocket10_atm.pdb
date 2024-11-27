@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0841
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9396
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5732
+HEADER 5  - Mean B-factor of pocket residues  : 0.2702
+HEADER 6  - Hydrophobicity Score              : 1.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.3338
+HEADER 10 - Pocket volume (convex hull)       : 7.5271
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0909
+ATOM   2690  OE1 GLU A 175     -38.087  80.108 -17.429  0.00  0.00           O 0
+ATOM   2622    O TYR A 171     -41.625  86.403 -17.937  0.42  5.36           O 0
+ATOM   3324  NH1 ARG A 217     -35.911  86.334 -21.741  0.57  3.28           N 0
+ATOM   3428   NZ LYS A 224     -39.993  87.847 -20.294  0.53  8.75           N 0
+ATOM   2689   CD GLU A 175     -38.517  80.602 -16.364  0.00  0.00           C 0
+ATOM   2643    O TYR A 172     -42.201  82.433 -15.447  0.00  0.00           O 0
+ATOM   2648  CD1 TYR A 172     -38.847  85.574 -15.514  0.00  0.00           C 0
+ATOM   2652  CE1 TYR A 172     -37.732  86.391 -15.578  0.00  0.00           C 0
+ATOM   2686   CG GLU A 175     -39.582  79.837 -15.588  0.00  0.00           C 0
+ATOM   2659    N GLY A 173     -43.905  83.722 -16.165  0.00  0.00           N 0
+ATOM   2661   CA GLY A 173     -44.820  82.597 -16.247  0.00  0.00           C 0
+ATOM   2591    O PRO A 170A    -44.092  85.600 -19.873  0.39  7.50           O 0
+ATOM   3312   CB ARG A 217     -35.007  86.884 -17.605  0.00  0.00           C 0
+ATOM   2642    C TYR A 172     -42.650  83.538 -15.763  0.00  0.00           C 0
+ATOM   2640   CA TYR A 172     -41.761  84.779 -15.711  0.00  0.00           C 0
+ATOM   2691  OE2 GLU A 175     -38.112  81.697 -15.919  0.00  0.00           O 0
+ATOM   3318   CD ARG A 217     -33.859  86.320 -19.796  0.00  0.00           C 0
+TER
+END

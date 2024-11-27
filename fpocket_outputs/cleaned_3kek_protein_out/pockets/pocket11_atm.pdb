@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.1336
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9569
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6137
+HEADER 5  - Mean B-factor of pocket residues  : 0.0073
+HEADER 6  - Hydrophobicity Score              : 24.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.0907
+HEADER 10 - Pocket volume (convex hull)       : 2.9471
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   1325   CB HIS A 187      51.633  37.064  11.977  0.00  0.00           C 0
+ATOM   1884  CD2 HIS A 226      45.700  34.660  13.085  0.00  0.00           C 0
+ATOM   1845  OE2 GLU A 223      49.314  32.801  13.488  0.48  5.36           O 0
+ATOM   1888  NE2 HIS A 226      45.301  34.914  14.375  0.00  0.00           N 0
+ATOM   1340    O ALA A 188      47.490  37.989   9.581  0.00  0.00           O 0
+ATOM   1970  CE1 HIS A 232      46.187  36.626  17.845  0.00  0.00           C 0
+ATOM   1886  CE1 HIS A 226      44.144  35.551  14.347  0.00  0.00           C 0
+ATOM   1883  ND1 HIS A 226      43.794  35.726  13.083  0.67  3.28           N 0
+ATOM   1314    O ALA A 186      52.245  34.577  13.945  0.59  6.43           O 0
+ATOM   1286  CD2 LEU A 184      53.921  37.484  17.992  0.00  0.00           C 0
+ATOM   1972  NE2 HIS A 232      45.961  35.411  17.378  0.71  5.47           N 0
+ATOM   1882   CG HIS A 226      44.748  35.162  12.262  0.00  0.00           C 0
+ATOM   1335    N ALA A 188      49.414  36.106  10.009  0.66  1.09           N 0
+ATOM   1321   CA HIS A 187      51.197  35.646  11.571  0.00  0.00           C 0
+ATOM   1844  OE1 GLU A 223      48.642  33.774  11.640  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0579
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0154
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6216
+HEADER 5  - Mean B-factor of pocket residues  : 0.5862
+HEADER 6  - Hydrophobicity Score              : 8.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 242.5610
+HEADER 10 - Pocket volume (convex hull)       : 5.6687
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   5040   CG LYS C  25      50.926  25.007  -8.221  0.00  0.00           C 0
+ATOM   5095  OD1 ASP C  29      54.643  18.372  -6.054  0.00  0.00           O 0
+ATOM   5037   CB LYS C  25      50.491  24.171  -7.043  0.00  0.00           C 0
+ATOM   5090    O ASP C  29      53.223  18.615 -10.503  0.00  0.00           O 0
+ATOM   5087   CA ASP C  29      53.076  17.774  -8.252  0.00  0.00           C 0
+ATOM   5117    O PHE C  31      50.413  21.472 -11.203  0.67  3.21           O 0
+ATOM   5159   CD PRO C  33      50.084  24.907 -11.976  0.00  0.00           C 0
+ATOM   5046   CE LYS C  25      52.674  26.645  -8.847  0.00  0.00           C 0
+ATOM   5140  CG1 VAL C  32      52.356  23.490 -15.226  0.00  0.00           C 0
+ATOM   5043   CD LYS C  25      51.742  26.189  -7.751  0.00  0.00           C 0
+ATOM   5084    O GLY C  28      50.544  19.001  -7.975  0.00  0.00           O 0
+ATOM   5144  CG2 VAL C  32      52.196  20.996 -14.953  0.00  0.00           C 0
+ATOM   5036    O LYS C  25      49.810  21.143  -6.031  0.59  7.50           O 0
+ATOM   5134   CA VAL C  32      50.521  22.543 -13.800  0.00  0.00           C 0
+TER
+END

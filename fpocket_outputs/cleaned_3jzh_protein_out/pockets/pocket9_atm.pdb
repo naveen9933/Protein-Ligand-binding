@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0270
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9964
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5535
+HEADER 5  - Mean B-factor of pocket residues  : 0.2363
+HEADER 6  - Hydrophobicity Score              : -8.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.8535
+HEADER 10 - Pocket volume (convex hull)       : 9.2406
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM   2380  OE1 GLU A 233      23.806   4.931  -2.126  0.26  5.36           O 0
+ATOM   3422   CD PRO A 297      19.025   8.596  -1.315  0.00  0.00           C 0
+ATOM   3463   CB SER A 300      17.203   4.081  -4.599  0.00  0.00           C 0
+ATOM   4193    O PRO A 345      16.486   1.942   0.936  0.00  0.00           O 0
+ATOM   3401  CD1 PHE A 296      22.470   8.299   2.394  0.00  0.00           C 0
+ATOM   2376   CG GLU A 233      24.197   6.909  -0.793  0.00  0.00           C 0
+ATOM   2373   CB GLU A 233      23.030   7.667  -1.417  0.00  0.00           C 0
+ATOM   2372    O GLU A 233      21.171   8.061  -3.696  0.30  1.07           O 0
+ATOM   3415    O PRO A 297      16.724   7.116   0.959  0.54  4.29           O 0
+ATOM   4194   CB PRO A 345      16.451   3.997   3.466  0.00  0.00           C 0
+ATOM   3457    N SER A 300      15.123   3.644  -3.330  0.00  0.00           N 0
+ATOM   2797   NZ LYS A 261      19.546   6.325  -6.219  0.38  7.66           N 0
+ATOM   3466   OG SER A 300      17.744   4.425  -5.851  0.68  5.36           O 0
+ATOM   3397   CB PHE A 296      20.124   9.163   2.623  0.00  0.00           C 0
+ATOM   3419   CG PRO A 297      18.159   8.281  -2.496  0.00  0.00           C 0
+ATOM   3416   CB PRO A 297      16.771   8.103  -1.984  0.00  0.00           C 0
+TER
+END

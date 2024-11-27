@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0661
+HEADER 1  - Drug Score                        : 0.0063
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0211
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6717
+HEADER 5  - Mean B-factor of pocket residues  : 0.2213
+HEADER 6  - Hydrophobicity Score              : 45.7778
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 356.0972
+HEADER 10 - Pocket volume (convex hull)       : 17.9513
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.1111
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4737
+ATOM   7852   CG GLU B 251      19.434  -3.801  45.265  0.00  0.00           C 0
+ATOM   7855   CD GLU B 251      20.242  -3.542  43.994  0.00  0.00           C 0
+ATOM   7849   CB GLU B 251      18.216  -2.855  45.456  0.00  0.00           C 0
+ATOM   7863    O LEU B 252      17.901   1.912  46.400  0.00  0.00           O 0
+ATOM   7856  OE1 GLU B 251      19.788  -2.797  43.098  0.00  0.00           O 0
+ATOM   7858    N LEU B 252      17.106  -0.588  47.551  0.68  2.19           N 0
+ATOM   7829    O LEU B 250      19.102  -4.495  48.597  0.50  5.36           O 0
+ATOM   7587  CD1 LEU B 232      19.457   0.348  52.264  0.00  0.00           C 0
+ATOM   7591  CD2 LEU B 232      18.084  -1.727  51.706  0.00  0.00           C 0
+ATOM   7864   CB LEU B 252      16.641   1.277  49.043  0.00  0.00           C 0
+ATOM   7845   CA GLU B 251      17.683  -2.812  46.900  0.00  0.00           C 0
+ATOM   7985   CB MET B 260      17.707   5.587  47.036  0.00  0.00           C 0
+ATOM   7535   CB ALA B 228      18.067   5.196  53.483  0.00  0.00           C 0
+ATOM   7984    O MET B 260      19.466   7.994  46.512  0.00  0.00           O 0
+ATOM   7988   CG MET B 260      16.763   6.127  48.099  0.00  0.00           C 0
+ATOM   7892   NE ARG B 253      18.985  -0.034  42.266  0.61  4.37           N 0
+ATOM   7873  CD2 LEU B 252      16.439   3.249  50.627  0.00  0.00           C 0
+ATOM   8012   CA LEU B 262      18.857  11.276  50.142  0.00  0.00           C 0
+ATOM   8025  CD2 LEU B 262      21.949  11.335  50.897  0.00  0.00           C 0
+ATOM   8000    O PRO B 261      17.156   9.448  48.793  0.76  3.21           O 0
+ATOM   8015    O LEU B 262      17.463  10.821  52.078  0.41  5.36           O 0
+TER
+END

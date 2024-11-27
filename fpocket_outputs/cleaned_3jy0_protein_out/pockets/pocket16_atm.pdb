@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0042
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8136
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4476
+HEADER 5  - Mean B-factor of pocket residues  : 0.2962
+HEADER 6  - Hydrophobicity Score              : 36.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 126.9264
+HEADER 10 - Pocket volume (convex hull)       : 1.7187
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   1646  NH2 ARG A 136     -55.702 -14.211  11.355  0.32  5.47           N 0
+ATOM   1697   CD GLN A 140     -56.854 -21.033  12.470  0.00  0.00           C 0
+ATOM   1747  CD2 LEU A 143     -53.725 -16.966   8.545  0.00  0.00           C 0
+ATOM   1694   CG GLN A 140     -55.365 -21.411  12.617  0.00  0.00           C 0
+ATOM   4345  ND1 HIS A 303     -57.607 -18.438   8.842  0.48  5.47           N 0
+ATOM   1699  NE2 GLN A 140     -57.362 -20.375  13.492  0.00  0.00           N 0
+ATOM   1685    N GLN A 140     -52.683 -20.800  11.824  0.59  1.09           N 0
+ATOM   1661    O ALA A 138     -50.613 -18.816  14.632  0.32  5.36           O 0
+ATOM   1668   CA LEU A 139     -50.742 -19.375  11.965  0.00  0.00           C 0
+ATOM   1681  CD2 LEU A 139     -50.230 -16.472  11.291  0.00  0.00           C 0
+ATOM   1630    O ARG A 136     -51.271 -15.341  15.888  0.59  6.43           O 0
+ATOM   1631   CB ARG A 136     -52.118 -13.132  14.067  0.00  0.00           C 0
+ATOM   1640   NE ARG A 136     -54.357 -12.745  12.536  0.48  1.09           N 0
+TER
+END

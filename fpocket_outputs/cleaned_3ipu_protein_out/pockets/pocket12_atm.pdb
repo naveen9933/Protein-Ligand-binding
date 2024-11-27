@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0450
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6849
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4234
+HEADER 5  - Mean B-factor of pocket residues  : 0.2632
+HEADER 6  - Hydrophobicity Score              : 9.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 183.7840
+HEADER 10 - Pocket volume (convex hull)       : 11.1081
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1905
+ATOM   6806  CD2 HIS B 390      17.686 -50.898  22.740  0.00  0.00           C 0
+ATOM   7028   CB PHE B 404      20.042 -48.987  25.567  0.00  0.00           C 0
+ATOM   6964   CA ARG B 401      15.632 -49.802  29.490  0.00  0.00           C 0
+ATOM   6867   OG SER B 394      16.862 -54.260  24.433  0.54  9.64           O 0
+ATOM   6909    O HIS B 397      17.756 -54.681  30.431  0.57  2.14           O 0
+ATOM   6924    O PRO B 398      14.113 -56.136  30.667  0.41  4.29           O 0
+ATOM   6962    N ARG B 401      15.575 -50.517  30.767  0.59  1.09           N 0
+ATOM   6955    O ASP B 400      17.751 -51.064  30.844  0.59  1.07           O 0
+ATOM   6847    O VAL B 393      20.025 -54.976  27.750  0.00  0.00           O 0
+ATOM   6860   CA SER B 394      18.054 -55.751  25.986  0.00  0.00           C 0
+ATOM   6968   CB ARG B 401      14.207 -49.527  29.017  0.00  0.00           C 0
+ATOM   6980  NH1 ARG B 401      10.419 -51.949  31.143  0.00  0.00           N 0
+ATOM   6979   CZ ARG B 401      10.583 -50.812  30.470  0.00  0.00           C 0
+ATOM   6810  NE2 HIS B 390      16.430 -50.353  22.841  0.59  5.47           N 0
+ATOM   6967    O ARG B 401      16.429 -47.746  28.492  0.50  1.07           O 0
+ATOM   6864   CB SER B 394      17.088 -55.630  24.795  0.00  0.00           C 0
+ATOM   6863    O SER B 394      17.240 -57.672  27.214  0.55  2.14           O 0
+ATOM   6850  CG1 VAL B 393      21.271 -52.342  27.376  0.00  0.00           C 0
+TER
+END

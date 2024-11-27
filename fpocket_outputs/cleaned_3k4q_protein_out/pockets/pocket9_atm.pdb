@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.2269
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8783
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6076
+HEADER 5  - Mean B-factor of pocket residues  : 0.1691
+HEADER 6  - Hydrophobicity Score              : -1.2727
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.2727
+HEADER 9  - Pocket volume (Monte Carlo)       : 302.3181
+HEADER 10 - Pocket volume (convex hull)       : 17.5491
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   2558   CE LYS A 172     -28.900   8.148  20.049  0.00  0.00           C 0
+ATOM   1939  CG1 VAL A 132     -27.052   1.981  17.234  0.00  0.00           C 0
+ATOM   2516   OG SER A 169     -31.216   4.229  15.459  0.59  5.36           O 0
+ATOM   2523    O SER A 170     -27.100   5.749  16.291  0.68  3.21           O 0
+ATOM   1971  CD1 PHE A 134     -28.437   2.623  25.055  0.00  0.00           C 0
+ATOM   4891   OG SER A 330     -29.555  -2.355  24.694  0.77  2.14           O 0
+ATOM   4843   CG PRO A 327     -30.141   0.139  26.731  0.00  0.00           C 0
+ATOM   4840   CB PRO A 327     -31.461  -0.541  26.848  0.00  0.00           C 0
+ATOM   4796    O ALA A 324     -31.526   5.000  27.292  0.42  7.50           O 0
+ATOM   1975  CE1 PHE A 134     -28.809   3.647  25.919  0.00  0.00           C 0
+ATOM   4781    O PRO A 323     -33.176   1.858  28.234  0.00  0.00           O 0
+ATOM   1967   CB PHE A 134     -27.034   0.625  24.431  0.00  0.00           C 0
+ATOM   1936    O VAL A 132     -27.487  -0.711  19.387  0.00  0.00           O 0
+ATOM   1963   CA PHE A 134     -26.019   1.079  23.406  0.00  0.00           C 0
+ATOM   1951    O PRO A 133     -25.563   1.492  20.711  0.00  0.00           O 0
+ATOM   2594  OD1 ASP A 174     -28.156   5.888  22.574  0.00  0.00           O 0
+ATOM   2543    N LYS A 172     -24.512   6.322  18.717  0.00  0.00           N 0
+ATOM   2595  OD2 ASP A 174     -26.313   4.745  22.880  0.63  1.07           O 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0253
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9940
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5267
+HEADER 5  - Mean B-factor of pocket residues  : 0.2041
+HEADER 6  - Hydrophobicity Score              : 22.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.9474
+HEADER 10 - Pocket volume (convex hull)       : 4.0880
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM   3247  NH1 ARG A 287      17.102  31.756   9.720  0.00  0.00           N 0
+ATOM   3070  OE1 GLU A 276      13.533  29.343  11.401  0.66  2.14           O 0
+ATOM   3066   CG GLU A 276      13.268  27.007  10.658  0.00  0.00           C 0
+ATOM   3069   CD GLU A 276      13.256  28.147  11.722  0.00  0.00           C 0
+ATOM   3293   CB ILE A 290      20.969  26.959   6.998  0.00  0.00           C 0
+ATOM   3295  CG1 ILE A 290      21.579  27.961   7.974  0.00  0.00           C 0
+ATOM   3287    N ILE A 290      19.797  28.902   5.806  0.45  1.09           N 0
+ATOM   3281  CE1 PHE A 289      15.333  29.113   6.008  0.00  0.00           C 0
+ATOM   3292    O ILE A 290      18.504  26.349   5.303  0.50  1.07           O 0
+ATOM   3063   CB GLU A 276      13.181  27.543   9.285  0.00  0.00           C 0
+ATOM   3330  OE1 GLN A 292      17.421  22.616   7.075  0.00  0.00           O 0
+ATOM   3008   CA ALA A 273      13.001  23.581   7.239  0.00  0.00           C 0
+ATOM   3002  OD1 ASN A 272      13.834  23.035  11.818  0.00  0.00           O 0
+ATOM   3285   CZ PHE A 289      15.250  27.999   5.198  0.00  0.00           C 0
+TER
+END

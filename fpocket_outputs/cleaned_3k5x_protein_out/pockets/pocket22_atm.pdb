@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0834
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0513
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5306
+HEADER 5  - Mean B-factor of pocket residues  : 0.2691
+HEADER 6  - Hydrophobicity Score              : 35.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.8013
+HEADER 10 - Pocket volume (convex hull)       : 1.6450
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3774   CB GLN A 251     -38.671  25.554   0.659  0.00  0.00           C 0
+ATOM   3266    O VAL A 218     -39.524  21.162  -2.447  0.33  4.29           O 0
+ATOM   3269  CG1 VAL A 218     -37.265  18.967  -2.407  0.00  0.00           C 0
+ATOM   4513  OD2 ASP A 301     -34.533  17.851   2.499  0.45  5.36           O 0
+ATOM   3768    N GLN A 251     -36.330  25.580  -0.078  0.61  1.09           N 0
+ATOM   3286   SG CYS A 219     -36.932  23.553  -2.759  0.00  0.00           S 0
+ATOM   3738    O VAL A 249     -34.280  22.923  -1.947  0.68  2.14           O 0
+ATOM   4508   CB ASP A 301     -34.335  16.860   0.349  0.00  0.00           C 0
+ATOM   4467    O THR A 298     -31.999  18.906  -0.796  0.00  0.00           O 0
+ATOM   4472  CG2 THR A 298     -31.980  22.116   0.189  0.00  0.00           C 0
+ATOM   3760  CD1 LEU A 250     -33.362  24.919   2.516  0.00  0.00           C 0
+ATOM   4470  OG1 THR A 298     -30.816  22.104   2.298  0.44  5.36           O 0
+TER
+END

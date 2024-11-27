@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.0164
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9480
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5161
+HEADER 5  - Mean B-factor of pocket residues  : 0.5936
+HEADER 6  - Hydrophobicity Score              : 16.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.6248
+HEADER 10 - Pocket volume (convex hull)       : 15.2532
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   6631   NE ARG D 103       5.343  53.301  63.262  0.52  5.47           N 0
+ATOM   6633   CZ ARG D 103       4.157  53.778  62.906  0.00  0.00           C 0
+ATOM   5097   OH TYR C 114       7.412  50.988  55.820  0.00  0.00           O 0
+ATOM   6637  NH2 ARG D 103       3.122  52.959  62.785  0.00  0.00           N 0
+ATOM   6610  OD1 ASN D  98       6.895  57.553  58.064  0.85  7.50           O 0
+ATOM   6927  CG1 VAL D 122       9.718  51.728  60.871  0.00  0.00           C 0
+ATOM   6634  NH1 ARG D 103       4.004  55.075  62.668  0.45  8.75           N 0
+ATOM   6628   CD ARG D 103       6.535  54.120  63.426  0.00  0.00           C 0
+ATOM   6683   OH TYR D 105      10.050  56.534  60.716  0.68  4.29           O 0
+ATOM   6604    C ASN D  98       6.490  58.185  60.928  0.00  0.00           C 0
+ATOM   6924    O VAL D 122       9.424  48.268  61.825  0.77  9.64           O 0
+ATOM   6625   CG ARG D 103       7.727  53.272  63.744  0.00  0.00           C 0
+ATOM   6949    N ASN D 124       7.837  49.154  65.909  0.71  6.56           N 0
+ATOM   6955   CB ASN D 124       5.491  49.605  66.490  0.00  0.00           C 0
+ATOM   6925   CB VAL D 122      10.474  50.585  60.190  0.00  0.00           C 0
+ATOM   1945    O ARG B  21       8.039  46.827  56.933  0.36  7.50           O 0
+TER
+END

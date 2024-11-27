@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : 0.1362
+HEADER 1  - Drug Score                        : 0.0108
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6756
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4584
+HEADER 5  - Mean B-factor of pocket residues  : 0.2798
+HEADER 6  - Hydrophobicity Score              : 22.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 143.9856
+HEADER 10 - Pocket volume (convex hull)       : 0.7653
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM    916   CE LYS A  68       2.669  13.187  36.737  0.00  0.00           C 0
+ATOM    910   CG LYS A  68       1.925  14.665  34.884  0.00  0.00           C 0
+ATOM    826  NH2 ARG A  62      -2.392  10.598  31.423  0.55  9.84           N 0
+ATOM    874  CG2 THR A  65      -3.205  14.424  32.834  0.00  0.00           C 0
+ATOM    323   OH TYR A  28       1.715   9.000  33.403  0.55  9.64           O 0
+ATOM    872  OG1 THR A  65      -1.359  15.789  33.711  0.00  0.00           O 0
+ATOM    993   OH TYR A  72       4.913  12.478  32.406  0.00  0.00           O 0
+ATOM    855   CB PRO A  64       1.723  15.443  29.253  0.00  0.00           C 0
+ATOM    851   CA PRO A  64       0.340  14.846  29.007  0.00  0.00           C 0
+ATOM    907   CB LYS A  68       2.342  15.509  33.711  0.00  0.00           C 0
+ATOM   3600   CZ PHE A 243       1.556  10.771  28.822  0.00  0.00           C 0
+ATOM    864    N THR A  65      -1.140  15.452  30.865  0.00  0.00           N 0
+ATOM    823  NH1 ARG A  62      -1.981  12.339  30.003  0.51  2.19           N 0
+TER
+END

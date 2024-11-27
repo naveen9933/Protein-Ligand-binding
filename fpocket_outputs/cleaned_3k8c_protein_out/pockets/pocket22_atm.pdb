@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : 0.0489
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9015
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6863
+HEADER 5  - Mean B-factor of pocket residues  : 0.2719
+HEADER 6  - Hydrophobicity Score              : 1.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 243.3100
+HEADER 10 - Pocket volume (convex hull)       : 15.6960
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   4503    O LYS B 144      35.126  29.849  27.074  0.74  2.14           O 0
+ATOM   4507   CG LYS B 144      39.351  30.566  26.191  0.00  0.00           C 0
+ATOM   4569   CB ALA B 147      35.990  29.554  30.659  0.00  0.00           C 0
+ATOM   4504   CB LYS B 144      37.954  30.153  25.786  0.00  0.00           C 0
+ATOM    733  OD1 ASP A  48      38.190  35.002  25.235  0.00  0.00           O 0
+ATOM    728    O ASP A  48      34.707  37.978  23.606  0.52  5.36           O 0
+ATOM    771   CB SER A  51      31.982  35.899  25.510  0.00  0.00           C 0
+ATOM    774   OG SER A  51      31.472  36.165  26.792  0.00  0.00           O 0
+ATOM   4510   CD LYS B 144      39.829  31.733  25.391  0.00  0.00           C 0
+ATOM   4513   CE LYS B 144      41.111  32.302  25.987  0.00  0.00           C 0
+ATOM    725   CA ASP A  48      36.160  36.047  23.556  0.00  0.00           C 0
+ATOM    729   CB ASP A  48      37.618  36.575  23.529  0.00  0.00           C 0
+ATOM    713    O PRO A  47      33.922  34.300  23.489  0.74  1.07           O 0
+ATOM   4567    C ALA B 147      33.480  29.708  30.660  0.00  0.00           C 0
+ATOM   4573    N ILE B 148      32.950  29.899  29.449  0.00  0.00           N 0
+ATOM   4568    O ALA B 147      33.054  30.261  31.665  0.64  6.43           O 0
+ATOM   4581  CG1 ILE B 148      32.514  31.528  27.027  0.00  0.00           C 0
+TER
+END

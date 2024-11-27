@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0748
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1284
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5941
+HEADER 5  - Mean B-factor of pocket residues  : 0.0463
+HEADER 6  - Hydrophobicity Score              : 28.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.0530
+HEADER 10 - Pocket volume (convex hull)       : 6.1912
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   2977    N GLY A 193     -23.604  88.481  -9.566  0.48  4.37           N 0
+ATOM    651  NE2 HIS A  57     -26.662  82.065  -8.052  0.73  4.37           N 0
+ATOM   2969   CG GLN A 192     -23.152  87.360 -13.068  0.00  0.00           C 0
+ATOM    423    O VAL A  41     -20.517  84.844  -5.958  0.00  0.00           O 0
+ATOM    443   SG CYS A  42     -23.062  83.692  -5.011  0.00  0.00           S 0
+ATOM    657    O CYS A  58     -21.463  79.091  -5.266  0.21  5.36           O 0
+ATOM    641    O HIS A  57     -24.535  78.412  -7.331  0.00  0.00           O 0
+ATOM    647  CD2 HIS A  57     -26.332  80.735  -8.105  0.00  0.00           C 0
+ATOM   2979   CA GLY A 193     -22.706  88.728  -8.451  0.00  0.00           C 0
+ATOM   2265   OH TYR A 151     -19.991  87.975 -10.695  0.00  0.00           O 0
+ATOM    654   CA CYS A  58     -23.711  79.877  -5.186  0.00  0.00           C 0
+ATOM   3002   CB SER A 195     -26.607  85.080  -6.296  0.00  0.00           C 0
+ATOM   3005   OG SER A 195     -27.065  85.281  -7.625  0.00  0.00           O 0
+ATOM   2962   CA GLN A 192     -24.640  88.945 -11.725  0.00  0.00           C 0
+TER
+END

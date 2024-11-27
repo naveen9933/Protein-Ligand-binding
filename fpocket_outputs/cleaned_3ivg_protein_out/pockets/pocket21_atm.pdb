@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0765
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8426
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5578
+HEADER 5  - Mean B-factor of pocket residues  : 0.2696
+HEADER 6  - Hydrophobicity Score              : -1.0909
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 2.2727
+HEADER 9  - Pocket volume (Monte Carlo)       : 364.9237
+HEADER 10 - Pocket volume (convex hull)       : 31.8522
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM   5847  OE1 GLN B 119      18.335  -5.027  23.749  0.33  9.64           O 0
+ATOM   6096   CB ALA B 137      14.190  -8.050  24.429  0.00  0.00           C 0
+ATOM   6050  CG2 THR B 134      18.242 -11.525  25.327  0.00  0.00           C 0
+ATOM   6030    O PRO B 133      18.181  -9.234  28.453  0.00  0.00           O 0
+ATOM   5915    N ALA B 125      18.940  -4.670  32.139  0.00  0.00           N 0
+ATOM   5917   CA ALA B 125      20.144  -5.454  32.425  0.00  0.00           C 0
+ATOM   5921   CB ALA B 125      21.373  -4.756  31.868  0.00  0.00           C 0
+ATOM   6031   CB PRO B 133      20.338 -10.932  29.888  0.00  0.00           C 0
+ATOM   5855    O PRO B 120      17.321  -1.652  26.092  0.64  8.57           O 0
+ATOM   5871    O GLY B 121      17.509  -1.491  29.218  0.00  0.00           O 0
+ATOM   5980    O GLY B 129      19.732  -9.718  33.148  0.65  2.14           O 0
+ATOM   5983   CA GLY B 130      20.600 -10.570  35.693  0.00  0.00           C 0
+ATOM   5987    O GLY B 130      21.369 -12.622  34.718  0.27  9.64           O 0
+ATOM   5920    O ALA B 125      21.080  -6.477  34.361  0.00  0.00           O 0
+ATOM   5862   CD PRO B 120      15.000  -4.453  25.326  0.00  0.00           C 0
+ATOM   5911   CB ALA B 124      16.287  -4.421  30.124  0.00  0.00           C 0
+ATOM   5909    C ALA B 124      17.759  -5.219  31.920  0.00  0.00           C 0
+ATOM   5873   CA PRO B 122      19.920  -0.357  30.443  0.00  0.00           C 0
+ATOM   5870    C GLY B 121      17.919  -0.356  28.895  0.00  0.00           C 0
+ATOM   5872    N PRO B 122      18.961   0.234  29.498  0.00  0.00           N 0
+ATOM   5859   CG PRO B 120      14.482  -4.537  26.723  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    43:
+HEADER 0  - Pocket Score                      : -0.0716
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1045
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6858
+HEADER 5  - Mean B-factor of pocket residues  : 0.2066
+HEADER 6  - Hydrophobicity Score              : 39.8750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 288.9250
+HEADER 10 - Pocket volume (convex hull)       : 7.4622
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   4075    O LYS A 317      46.509  27.196  35.620  0.00  0.00           O 0
+ATOM   4067   CD GLU A 316      49.982  23.976  36.694  0.00  0.00           C 0
+ATOM   4069  OE2 GLU A 316      50.698  23.296  35.927  0.57  7.50           O 0
+ATOM   4068  OE1 GLU A 316      50.359  25.048  37.211  0.71  3.21           O 0
+ATOM   4108  CE2 PHE A 318      45.893  22.531  34.779  0.00  0.00           C 0
+ATOM   4104  CD2 PHE A 318      45.022  23.543  34.379  0.00  0.00           C 0
+ATOM   4287    O CYS A 330      50.303  21.878  29.109  0.00  0.00           O 0
+ATOM   4064   CG GLU A 316      48.593  23.458  36.993  0.00  0.00           C 0
+ATOM   4272   CB VAL A 329      45.237  22.244  30.108  0.00  0.00           C 0
+ATOM   4252    O LEU A 328      43.835  23.916  26.933  0.70  5.36           O 0
+ATOM   4274  CG1 VAL A 329      44.290  23.356  30.545  0.00  0.00           C 0
+ATOM   4123   CD PRO A 319      43.650  27.549  32.191  0.00  0.00           C 0
+ATOM   4120   CG PRO A 319      42.849  27.961  30.977  0.00  0.00           C 0
+ATOM   4282    N CYS A 330      47.720  21.722  28.010  0.00  0.00           N 0
+ATOM   4268   CA VAL A 329      45.433  22.300  28.580  0.00  0.00           C 0
+ATOM   4305  NE1 TRP A 331      50.397  20.552  33.414  0.00  0.00           N 0
+ATOM   4307  CE2 TRP A 331      49.242  19.931  33.019  0.00  0.00           C 0
+ATOM   4310  CZ2 TRP A 331      47.956  19.981  33.569  0.00  0.00           C 0
+TER
+END

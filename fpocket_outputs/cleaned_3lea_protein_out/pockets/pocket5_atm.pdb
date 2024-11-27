@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0013
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8982
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6315
+HEADER 5  - Mean B-factor of pocket residues  : 0.0560
+HEADER 6  - Hydrophobicity Score              : 0.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 170.5960
+HEADER 10 - Pocket volume (convex hull)       : 2.4455
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM    654  NH1 ARG A 257      40.884  12.162  -9.501  0.68  5.47           N 0
+ATOM   2750   CB THR A 396      37.508  15.543 -12.600  0.00  0.00           C 0
+ATOM   2752  OG1 THR A 396      38.437  16.422 -11.984  0.71  5.36           O 0
+ATOM   2754  CG2 THR A 396      37.837  15.439 -14.074  0.00  0.00           C 0
+ATOM    657  NH2 ARG A 257      38.632  12.321  -9.844  0.59  4.37           N 0
+ATOM    524  CD2 TYR A 250      37.463  10.545 -15.630  0.00  0.00           C 0
+ATOM    528  CE2 TYR A 250      36.580  11.561 -15.265  0.00  0.00           C 0
+ATOM    512    N TYR A 250      40.164   6.778 -14.963  0.82  1.09           N 0
+ATOM    504   CB ASN A 249      43.192   5.852 -15.660  0.00  0.00           C 0
+ATOM    585  OE2 GLU A 253      45.185   9.059 -12.082  0.00  0.00           O 0
+ATOM    502    C ASN A 249      41.155   6.317 -14.208  0.00  0.00           C 0
+ATOM    503    O ASN A 249      41.346   6.684 -13.063  0.62  1.07           O 0
+ATOM    577   CB GLU A 253      41.896   8.902 -10.440  0.00  0.00           C 0
+ATOM    584  OE1 GLU A 253      44.261  10.574 -10.776  0.73  5.36           O 0
+ATOM    514   CA TYR A 250      39.218   7.796 -14.502  0.00  0.00           C 0
+ATOM    583   CD GLU A 253      44.293   9.432 -11.290  0.00  0.00           C 0
+ATOM    517    O TYR A 250      38.368   8.056 -12.288  0.52  1.07           O 0
+TER
+END

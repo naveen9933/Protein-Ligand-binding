@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.2158
+HEADER 1  - Drug Score                        : 0.0134
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.5859
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4204
+HEADER 5  - Mean B-factor of pocket residues  : 0.3786
+HEADER 6  - Hydrophobicity Score              : 24.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 118.9496
+HEADER 10 - Pocket volume (convex hull)       : 1.9118
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4583
+ATOM    528  CG2 THR A  37      -8.792  -8.743  38.005  0.00  0.00           C 0
+ATOM    482   CB ASP A  34      -8.474 -11.537  33.655  0.00  0.00           C 0
+ATOM   3954  CD1 ILE A 256      -8.587  -5.939  31.261  0.00  0.00           C 0
+ATOM   3858  CD2 LEU A 251      -5.200  -5.988  34.282  0.00  0.00           C 0
+ATOM    476    N ASP A  34      -9.219 -10.548  31.529  0.00  0.00           N 0
+ATOM    481    O ASP A  34     -11.174 -10.491  33.855  0.25  2.14           O 0
+ATOM   3945   CB ILE A 256     -10.454  -4.645  32.455  0.00  0.00           C 0
+ATOM    532    N ALA A  38     -12.330  -8.523  36.000  0.00  0.00           N 0
+ATOM    523    O THR A  37     -11.454  -7.674  37.867  0.17  4.29           O 0
+ATOM    534   CA ALA A  38     -12.964  -7.253  35.620  0.00  0.00           C 0
+ATOM   3939    N ILE A 256      -9.755  -3.199  34.392  0.72  4.37           N 0
+ATOM    524   CB THR A  37      -9.459  -9.981  37.334  0.00  0.00           C 0
+ATOM   3903    O ARG A 254      -5.746  -2.861  35.943  0.62  3.21           O 0
+ATOM    522    C THR A  37     -11.620  -8.624  37.121  0.00  0.00           C 0
+ATOM   3924   CA GLN A 255      -8.398  -2.007  35.979  0.00  0.00           C 0
+ATOM   3931   CG GLN A 255      -8.441  -1.630  38.486  0.00  0.00           C 0
+ATOM   3936  NE2 GLN A 255     -10.176  -2.860  39.670  0.21  9.84           N 0
+TER
+END

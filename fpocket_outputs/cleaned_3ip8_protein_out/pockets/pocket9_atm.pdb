@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0352
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9494
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6365
+HEADER 5  - Mean B-factor of pocket residues  : 0.5316
+HEADER 6  - Hydrophobicity Score              : 40.1111
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.3564
+HEADER 10 - Pocket volume (convex hull)       : 5.2388
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   3194    O ALA A 227      14.791  14.528  -1.493  0.00  0.00           O 0
+ATOM   3205   CB LYS A 228      18.780  14.111  -1.257  0.00  0.00           C 0
+ATOM   3208   CG LYS A 228      19.483  13.008  -0.483  0.00  0.00           C 0
+ATOM   3188    O GLY A 226      15.521  14.602  -4.708  0.00  0.00           O 0
+ATOM   3221    N ALA A 229      17.440  14.344   1.766  0.00  0.00           N 0
+ATOM   3352    O PHE A 237      18.164   9.156   2.646  0.63  1.07           O 0
+ATOM    312   OH TYR A  28      13.121  13.922   2.855  0.00  0.00           O 0
+ATOM   3357  CD1 PHE A 237      14.744  11.470   5.074  0.00  0.00           C 0
+ATOM   3333    O LEU A 236      14.379   6.937   3.590  0.00  0.00           O 0
+ATOM   3351    C PHE A 237      17.509   8.343   3.297  0.00  0.00           C 0
+ATOM   3373   CB ASP A 238      18.799   7.018   1.030  0.00  0.00           C 0
+ATOM   3217   NZ LYS A 228      20.882  10.382  -0.130  0.64  3.28           N 0
+ATOM   3201   CA LYS A 228      17.443  14.539  -0.653  0.00  0.00           C 0
+ATOM   3066  NE1 TRP A 217      11.574   8.716   1.932  0.40  5.47           N 0
+ATOM   3349   CA PHE A 237      16.379   8.800   4.213  0.00  0.00           C 0
+ATOM   3063  CD1 TRP A 217      11.713   9.846   2.712  0.00  0.00           C 0
+TER
+END

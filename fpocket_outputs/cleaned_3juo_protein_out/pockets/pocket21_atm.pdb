@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.1420
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0854
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6131
+HEADER 5  - Mean B-factor of pocket residues  : 0.2606
+HEADER 6  - Hydrophobicity Score              : -14.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 183.9148
+HEADER 10 - Pocket volume (convex hull)       : 1.5407
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0952
+ATOM   2263   CD ARG A 149      23.914   1.378  92.598  0.00  0.00           C 0
+ATOM   1739    O GLN A 119      29.319  -4.451  95.099  0.22  7.50           O 0
+ATOM   2260   CG ARG A 149      24.332   1.364  94.087  0.00  0.00           C 0
+ATOM   1790  NH1 ARG A 121      26.181  -7.116  90.922  0.66  8.75           N 0
+ATOM   2256    O ARG A 149      26.091   0.434  97.143  0.62  2.14           O 0
+ATOM   2277   CA SER A 150      28.529  -0.618  96.614  0.00  0.00           C 0
+ATOM   2275    N SER A 150      27.968   0.567  95.976  0.00  0.00           N 0
+ATOM   2281   CB SER A 150      29.822  -1.036  95.922  0.00  0.00           C 0
+ATOM   2257   CB ARG A 149      25.698   1.735  94.184  0.00  0.00           C 0
+ATOM   2212  OE1 GLU A 146      26.457   0.446  89.522  0.00  0.00           O 0
+ATOM   2204    O GLU A 146      29.131   1.187  93.136  0.53  2.14           O 0
+ATOM   1781   CG ARG A 121      28.999  -4.619  89.560  0.00  0.00           C 0
+ATOM   1777    O ARG A 121      30.332  -1.956  89.694  0.45  1.07           O 0
+ATOM   1784   CD ARG A 121      28.053  -5.808  89.166  0.00  0.00           C 0
+ATOM   1772    N ARG A 121      31.082  -3.671  91.696  0.20  1.09           N 0
+ATOM   2255    C ARG A 149      26.755   0.992  96.305  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0829
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.4604
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3548
+HEADER 5  - Mean B-factor of pocket residues  : 0.1142
+HEADER 6  - Hydrophobicity Score              : -17.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 100.7115
+HEADER 10 - Pocket volume (convex hull)       : 1.7783
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM    431  CG2 THR A  92      58.671  79.272   3.880  0.00  0.00           C 0
+ATOM   1979   CD ARG A 187      58.661  74.612   1.113  0.00  0.00           C 0
+ATOM   1544    O GLU A 159      63.725  75.662   2.173  0.52  8.57           O 0
+ATOM   1563   OG SER A 160      62.274  74.237   5.708  0.48  1.07           O 0
+ATOM   1985  NH1 ARG A 187      59.093  76.498  -0.942  0.52  6.56           N 0
+ATOM   2000   OG SER A 188      58.423  73.209   8.905  0.52  1.07           O 0
+ATOM    429  OG1 THR A  92      56.767  78.105   4.803  0.00  0.00           O 0
+ATOM    391    O PRO A  90      58.519  79.002   7.925  0.57  2.14           O 0
+ATOM   1997   CB SER A 188      59.770  73.134   8.462  0.00  0.00           C 0
+ATOM   1973   CB ARG A 187      58.814  73.276   3.197  0.00  0.00           C 0
+ATOM    398   CD PRO A  90      61.488  76.918   8.609  0.00  0.00           C 0
+ATOM   1991    N SER A 188      59.053  72.307   6.261  0.55  1.09           N 0
+ATOM    468  OE2 GLU A  94      55.646  75.146   4.539  0.42  2.14           O 0
+ATOM    392   CB PRO A  90      61.548  78.751   7.202  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0446
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0374
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7326
+HEADER 5  - Mean B-factor of pocket residues  : 0.3631
+HEADER 6  - Hydrophobicity Score              : -1.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 345.3524
+HEADER 10 - Pocket volume (convex hull)       : 20.1813
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   1514    N LEU A 320       6.227  31.792  17.089  0.00  0.00           N 0
+ATOM   1569   CZ ARG A 322       1.139  30.911  13.638  0.00  0.00           C 0
+ATOM   1520   CB LEU A 320       4.519  32.914  15.723  0.00  0.00           C 0
+ATOM   1570  NH1 ARG A 322       0.733  29.645  13.488  0.00  0.00           N 0
+ATOM   1567   NE ARG A 322       0.982  31.544  14.811  0.00  0.00           N 0
+ATOM   1564   CD ARG A 322       0.360  30.935  15.994  0.00  0.00           C 0
+ATOM   1501   CA PRO A 319       7.925  30.392  18.002  0.00  0.00           C 0
+ATOM   1477    O THR A 317      11.265  28.351  17.117  0.60  2.14           O 0
+ATOM   1505   CB PRO A 319       7.360  29.614  19.185  0.00  0.00           C 0
+ATOM   1469  NH2 ARG A 316       8.562  25.759  20.208  0.00  0.00           N 0
+ATOM   1519    O LEU A 320       4.163  31.965  18.881  0.54  2.14           O 0
+ATOM   1490    O PRO A 318       9.801  31.300  16.286  0.54  6.43           O 0
+ATOM   1482  CG2 THR A 317      11.151  29.037  13.435  0.00  0.00           C 0
+ATOM   1525  CD1 LEU A 320       4.373  33.075  13.211  0.00  0.00           C 0
+ATOM   1573  NH2 ARG A 322       1.715  31.532  12.609  0.00  0.00           N 0
+ATOM   1457   CG ARG A 316      12.509  25.021  18.372  0.00  0.00           C 0
+ATOM   1478   CB THR A 317      11.703  27.771  14.182  0.00  0.00           C 0
+ATOM   1480  OG1 THR A 317      12.264  26.860  13.226  0.00  0.00           O 0
+ATOM   1463   NE ARG A 316      10.539  24.863  19.633  0.00  0.00           N 0
+ATOM   1523   CG LEU A 320       5.263  33.311  14.435  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0485
+HEADER 1  - Drug Score                        : 0.0269
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8967
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6675
+HEADER 5  - Mean B-factor of pocket residues  : 0.1126
+HEADER 6  - Hydrophobicity Score              : -11.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 163.1117
+HEADER 10 - Pocket volume (convex hull)       : 1.0640
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.9500
+ATOM    686   CE LYS A  58      67.441  85.456  20.360  0.00  0.00           C 0
+ATOM    771  OE2 GLU A  62      65.103  86.394  15.408  0.73  6.43           O 0
+ATOM    766   CG GLU A  62      63.032  87.381  16.046  0.00  0.00           C 0
+ATOM    748  CD2 TYR A  61      62.903  91.441  19.055  0.00  0.00           C 0
+ATOM    676    O LYS A  58      62.090  86.500  19.229  0.00  0.00           O 0
+ATOM    673   CA LYS A  58      63.082  85.863  21.303  0.00  0.00           C 0
+ATOM    677   CB LYS A  58      64.339  85.008  21.089  0.00  0.00           C 0
+ATOM    742   CB TYR A  61      61.479  89.816  20.373  0.00  0.00           C 0
+ATOM    745   CG TYR A  61      62.158  91.162  20.195  0.00  0.00           C 0
+ATOM    680   CG LYS A  58      65.508  85.387  21.985  0.00  0.00           C 0
+ATOM    746  CD1 TYR A  61      62.119  92.123  21.205  0.00  0.00           C 0
+ATOM    664    O ASP A  57      60.950  87.223  22.415  0.67  5.36           O 0
+ATOM    665   CB ASP A  57      61.951  86.579  25.476  0.00  0.00           C 0
+ATOM    663    C ASP A  57      61.460  86.307  23.060  0.00  0.00           C 0
+ATOM    671    N LYS A  58      62.457  85.562  22.589  0.00  0.00           N 0
+TER
+END

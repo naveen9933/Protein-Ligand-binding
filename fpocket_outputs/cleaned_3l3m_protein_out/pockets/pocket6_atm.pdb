@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0327
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7571
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5532
+HEADER 5  - Mean B-factor of pocket residues  : 0.3072
+HEADER 6  - Hydrophobicity Score              : 29.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.5612
+HEADER 10 - Pocket volume (convex hull)       : 5.3649
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM    648    O LEU A  40      35.464  33.366  26.700  0.54  9.64           O 0
+ATOM   1759   CG GLU A 111      34.052  30.515  24.635  0.00  0.00           C 0
+ATOM   1803  CD2 TYR A 114      30.248  36.080  22.938  0.00  0.00           C 0
+ATOM   1755    O GLU A 111      32.034  31.040  21.986  0.00  0.00           O 0
+ATOM   1797   CB TYR A 114      29.528  33.686  22.571  0.00  0.00           C 0
+ATOM    600    O LEU A  37      31.309  35.269  27.087  0.44  2.14           O 0
+ATOM    620    O GLY A  38      34.334  37.748  26.664  0.00  0.00           O 0
+ATOM   1818   CB SER A 115      33.929  33.113  19.768  0.00  0.00           C 0
+ATOM   1764  OE2 GLU A 111      35.442  30.697  22.715  0.33  3.21           O 0
+ATOM   1879  NH1 ARG A 118      31.011  40.204  22.115  0.00  0.00           N 0
+ATOM   1870   CG ARG A 118      30.175  37.790  19.656  0.00  0.00           C 0
+ATOM   1867   CB ARG A 118      31.169  37.986  18.525  0.00  0.00           C 0
+ATOM   1807  CE2 TYR A 114      29.983  37.400  23.244  0.00  0.00           C 0
+ATOM    616   CA GLY A  38      31.959  37.897  26.523  0.00  0.00           C 0
+ATOM   1814   CA SER A 115      32.629  33.833  19.409  0.00  0.00           C 0
+ATOM   1812    N SER A 115      31.516  33.331  20.204  0.00  0.00           N 0
+TER
+END

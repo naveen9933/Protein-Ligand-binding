@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : -0.0582
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7364
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7113
+HEADER 5  - Mean B-factor of pocket residues  : 0.2845
+HEADER 6  - Hydrophobicity Score              : -8.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 164.7391
+HEADER 10 - Pocket volume (convex hull)       : 3.0274
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    969    O SER A  60      40.798   6.328  45.569  0.55  7.50           O 0
+ATOM    987   CD GLN A  61      46.039   7.355  46.372  0.00  0.00           C 0
+ATOM    989  NE2 GLN A  61      46.168   6.292  47.162  0.00  0.00           N 0
+ATOM    988  OE1 GLN A  61      46.520   7.401  45.237  0.00  0.00           O 0
+ATOM    926    O GLN A  57      42.328  10.645  43.710  0.64  2.14           O 0
+ATOM    930   CG GLN A  57      43.589  11.609  39.441  0.00  0.00           C 0
+ATOM    927   CB GLN A  57      43.405  12.088  40.882  0.00  0.00           C 0
+ATOM    970   CB SER A  60      40.159   7.654  42.732  0.00  0.00           C 0
+ATOM    975    N GLN A  61      41.753   8.361  45.462  0.00  0.00           N 0
+ATOM    981   CB GLN A  61      44.045   8.924  46.144  0.00  0.00           C 0
+ATOM    968    C SER A  60      40.811   7.482  45.139  0.00  0.00           C 0
+ATOM    977   CA GLN A  61      42.836   8.008  46.369  0.00  0.00           C 0
+ATOM    923   CA GLN A  57      42.099  11.597  41.510  0.00  0.00           C 0
+ATOM    973   OG SER A  60      39.830   8.726  41.864  0.88  5.36           O 0
+TER
+END

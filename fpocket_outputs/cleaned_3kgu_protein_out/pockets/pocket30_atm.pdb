@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.0700
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9235
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5006
+HEADER 5  - Mean B-factor of pocket residues  : 0.1474
+HEADER 6  - Hydrophobicity Score              : 32.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 171.1902
+HEADER 10 - Pocket volume (convex hull)       : 3.3186
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2006  CD1 ILE B  26      14.220  -2.873 -31.995  0.00  0.00           C 0
+ATOM   1971    O PRO B  24      11.815  -2.002 -28.650  0.52  1.07           O 0
+ATOM   2800   OH TYR B  78      13.757  -3.631 -25.292  0.54  3.21           O 0
+ATOM   1946  NH2 ARG B  21      17.848   0.047 -27.593  0.00  0.00           N 0
+ATOM   2873  CD2 LEU B  82      18.750  -3.862 -24.361  0.00  0.00           C 0
+ATOM   2795  CE1 TYR B  78      14.028  -5.980 -25.680  0.00  0.00           C 0
+ATOM   1996    O ILE B  26      14.135  -7.575 -29.048  0.38  5.36           O 0
+ATOM   1997   CB ILE B  26      13.784  -5.323 -31.330  0.00  0.00           C 0
+ATOM   1991    N ILE B  26      12.422  -5.427 -29.248  0.00  0.00           N 0
+ATOM   1940   NE ARG B  21      16.693  -0.219 -25.627  0.38  1.09           N 0
+ATOM   1965   OG SER B  23      12.979   0.619 -27.255  0.80  1.07           O 0
+ATOM   1962   CB SER B  23      12.454   1.599 -28.127  0.00  0.00           C 0
+TER
+END

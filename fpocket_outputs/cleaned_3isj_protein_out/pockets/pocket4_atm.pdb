@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : -0.0013
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7672
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4027
+HEADER 5  - Mean B-factor of pocket residues  : 0.0593
+HEADER 6  - Hydrophobicity Score              : 34.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 127.8389
+HEADER 10 - Pocket volume (convex hull)       : 3.1379
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1736    O GLN A 119      14.911  -5.091  15.959  0.15  7.50           O 0
+ATOM   2627  OD2 ASP A 174       9.961  -7.720  11.888  0.35  7.50           O 0
+ATOM   2642  CE1 PHE A 175       8.928  -4.594  17.133  0.00  0.00           C 0
+ATOM   2646   CZ PHE A 175       9.733  -3.527  17.209  0.00  0.00           C 0
+ATOM   2573   CA LEU A 171       9.133  -2.651  11.316  0.00  0.00           C 0
+ATOM   2571    N LEU A 171       9.468  -3.374  10.103  0.79  1.09           N 0
+ATOM   2031  CD1 LEU A 140      13.513  -1.131  11.681  0.00  0.00           C 0
+ATOM   1762    N GLY A 121      15.869  -6.531  12.375  0.23  1.09           N 0
+ATOM   2560   CB GLN A 170      10.931  -5.495   8.528  0.00  0.00           C 0
+ATOM   1723  CG1 VAL A 118      13.056  -1.190  15.752  0.00  0.00           C 0
+ATOM   2582  CD1 LEU A 171       9.522  -0.610  13.760  0.00  0.00           C 0
+ATOM   2622   CB ASP A 174       8.113  -7.010  13.192  0.00  0.00           C 0
+ATOM   2567  OE1 GLN A 170      13.459  -6.805   8.339  0.62  1.07           O 0
+ATOM   2507  CD2 LEU A 167      15.869  -4.087   8.014  0.00  0.00           C 0
+ATOM   1749   CA PRO A 120      16.047  -4.340  13.436  0.00  0.00           C 0
+TER
+END

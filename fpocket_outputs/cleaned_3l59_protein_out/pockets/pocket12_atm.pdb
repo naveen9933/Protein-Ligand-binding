@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0392
+HEADER 1  - Drug Score                        : 0.0825
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.7514
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4057
+HEADER 5  - Mean B-factor of pocket residues  : 0.2726
+HEADER 6  - Hydrophobicity Score              : -10.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 265.2672
+HEADER 10 - Pocket volume (convex hull)       : 16.0381
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.5769
+ATOM   5149    O SER A 389      17.809  19.783  33.603  0.51  8.57           O 0
+ATOM   3489  CE2 TYR A 283      17.121  20.615  39.559  0.00  0.00           C 0
+ATOM   5146   CA SER A 389      20.004  20.751  33.438  0.00  0.00           C 0
+ATOM   5150   CB SER A 389      19.552  21.878  32.502  0.00  0.00           C 0
+ATOM   3492   OH TYR A 283      14.974  21.569  39.139  0.00  0.00           O 0
+ATOM   3753   CG LYS A 300      22.272  23.872  42.619  0.00  0.00           C 0
+ATOM   3436  OE1 GLU A 280      19.821  19.995  44.500  0.64  2.14           O 0
+ATOM   3485  CD2 TYR A 283      17.894  19.577  40.070  0.00  0.00           C 0
+ATOM   3762   NZ LYS A 300      21.866  25.565  40.097  0.00  0.00           N 0
+ATOM   3478    O TYR A 283      19.299  17.004  38.579  0.39  2.14           O 0
+ATOM   5138    O SER A 388      22.268  20.493  35.011  0.68  2.14           O 0
+ATOM   5148    C SER A 389      19.005  19.595  33.393  0.00  0.00           C 0
+ATOM   3728   CB LYS A 299      23.128  23.727  37.636  0.00  0.00           C 0
+ATOM   3734   CD LYS A 299      22.660  26.140  37.098  0.00  0.00           C 0
+ATOM   3713   CB PRO A 298      22.451  18.392  39.074  0.00  0.00           C 0
+ATOM   3750   CB LYS A 300      23.454  22.920  42.816  0.00  0.00           C 0
+ATOM   3744    N LYS A 300      24.013  22.690  40.409  0.00  0.00           N 0
+ATOM   3722    N LYS A 299      23.573  21.322  37.718  0.69  1.09           N 0
+TER
+END

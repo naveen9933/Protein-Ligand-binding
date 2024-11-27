@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : -0.0278
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9119
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3933
+HEADER 5  - Mean B-factor of pocket residues  : 0.3010
+HEADER 6  - Hydrophobicity Score              : 20.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.2152
+HEADER 10 - Pocket volume (convex hull)       : 7.0269
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   2681   CB LEU A 170       8.179  12.898  20.714  0.00  0.00           C 0
+ATOM   2559  CD2 HIS A 161       6.676   8.736  22.925  0.00  0.00           C 0
+ATOM   2680    O LEU A 170       5.508  13.391  19.306  0.00  0.00           O 0
+ATOM   2487    O VAL A 157       9.218   8.003  18.473  0.00  0.00           O 0
+ATOM   2490  CG1 VAL A 157       9.483  10.829  17.332  0.00  0.00           C 0
+ATOM   2507   CG LYS A 158       4.741   7.798  16.202  0.00  0.00           C 0
+ATOM   2673  OD1 ASP A 169       3.099  10.300  23.803  0.00  0.00           O 0
+ATOM   2675    N LEU A 170       6.158  13.035  22.069  0.59  1.09           N 0
+ATOM   2513   CE LYS A 158       2.345   7.032  16.302  0.00  0.00           C 0
+ATOM   2503    O LYS A 158       7.040   5.403  18.953  0.00  0.00           O 0
+ATOM   2516   NZ LYS A 158       1.147   7.842  15.937  0.00  0.00           N 0
+ATOM   2500   CA LYS A 158       6.984   6.977  17.145  0.00  0.00           C 0
+TER
+END

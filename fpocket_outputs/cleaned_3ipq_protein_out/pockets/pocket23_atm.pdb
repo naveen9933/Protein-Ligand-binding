@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.1026
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.9607
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5173
+HEADER 5  - Mean B-factor of pocket residues  : 0.1904
+HEADER 6  - Hydrophobicity Score              : -16.3636
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Amino Acid based volume Score     : 3.6364
+HEADER 9  - Pocket volume (Monte Carlo)       : 343.0731
+HEADER 10 - Pocket volume (convex hull)       : 31.9363
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   6999    N SER C 419      25.499  31.307   1.014  0.00  0.00           N 0
+ATOM   7005   CB SER C 419      26.295  28.945   1.002  0.00  0.00           C 0
+ATOM   7001   CA SER C 419      25.094  29.902   1.079  0.00  0.00           C 0
+ATOM   6997   OG SER C 418      24.972  33.710  -1.761  0.00  0.00           O 0
+ATOM   6186   CG PRO C 370      26.674  31.419 -10.245  0.00  0.00           C 0
+ATOM   6189   CD PRO C 370      27.453  32.681 -10.005  0.00  0.00           C 0
+ATOM   4947  CG2 THR C 292      24.065  34.658  -8.468  0.00  0.00           C 0
+ATOM   4943   CB THR C 292      24.812  35.699  -7.679  0.00  0.00           C 0
+ATOM   7051   OG SER C 422      22.173  28.251  -0.417  0.63  6.43           O 0
+ATOM   6993    O SER C 418      23.476  31.980   0.315  0.64  1.07           O 0
+ATOM   7048   CB SER C 422      21.211  29.081  -1.035  0.00  0.00           C 0
+ATOM   6166   CD ARG C 369      28.712  36.710  -8.219  0.00  0.00           C 0
+ATOM   6949  NH1 ARG C 415      32.042  34.228  -5.055  0.65  3.28           N 0
+ATOM   6156   CA ARG C 369      29.440  34.886 -10.520  0.00  0.00           C 0
+ATOM   3106  CG2 THR A 416      30.843  29.773  -5.274  0.00  0.00           C 0
+ATOM   6172  NH1 ARG C 369      28.730  36.637  -5.406  0.65  4.37           N 0
+ATOM   6943   CD ARG C 415      30.778  34.869  -2.626  0.00  0.00           C 0
+ATOM   5005  OE2 GLU C 296      28.296  36.908  -2.563  0.00  0.00           O 0
+ATOM   6147    O ASP C 368      31.504  33.145 -10.227  0.46  5.36           O 0
+ATOM   6936    O ARG C 415      28.793  32.567   0.574  0.51  4.29           O 0
+ATOM   6994   CB SER C 418      25.791  34.082  -0.672  0.00  0.00           C 0
+ATOM   3104  OG1 THR A 416      31.316  31.725  -3.914  0.00  0.00           O 0
+ATOM   4942    O THR C 292      24.714  37.315  -4.957  0.48  2.14           O 0
+ATOM   3149   OG SER A 419      29.185  27.218  -2.023  0.42  7.50           O 0
+ATOM   3208  OE2 GLU A 423      25.133  23.938  -3.887  0.00  0.00           O 0
+ATOM   3146   CB SER A 419      28.945  26.295  -1.002  0.00  0.00           C 0
+TER
+END

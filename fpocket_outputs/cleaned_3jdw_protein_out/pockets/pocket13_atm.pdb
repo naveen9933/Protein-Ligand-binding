@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0649
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7828
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5339
+HEADER 5  - Mean B-factor of pocket residues  : 0.3155
+HEADER 6  - Hydrophobicity Score              : -3.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 238.8043
+HEADER 10 - Pocket volume (convex hull)       : 10.0714
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   1553  OE2 GLU A 159      69.694  76.280   1.412  0.00  0.00           O 0
+ATOM   7282   NZ LYS B 154      73.809  70.694   4.536  0.00  0.00           N 0
+ATOM   1426   CD LYS A 152      69.556  76.196   4.738  0.00  0.00           C 0
+ATOM   1423   CG LYS A 152      69.182  74.723   4.831  0.00  0.00           C 0
+ATOM   1420   CB LYS A 152      69.866  74.061   5.998  0.00  0.00           C 0
+ATOM   1419    O LYS A 152      70.409  71.225   5.031  0.00  0.00           O 0
+ATOM   7276   CD LYS B 154      73.066  69.730   2.464  0.00  0.00           C 0
+ATOM   1440    C TYR A 153      67.741  71.102   2.330  0.00  0.00           C 0
+ATOM   1475   NZ LYS A 154      70.694  73.809  -4.536  0.68  9.84           N 0
+ATOM   7230   CG LYS B 152      74.723  69.182  -4.831  0.00  0.00           C 0
+ATOM   7233   CD LYS B 152      76.196  69.556  -4.738  0.00  0.00           C 0
+ATOM   7360  OE2 GLU B 159      76.280  69.694  -1.412  0.00  0.00           O 0
+ATOM   7227   CB LYS B 152      74.061  69.866  -5.998  0.00  0.00           C 0
+ATOM   7226    O LYS B 152      71.225  70.409  -5.031  0.83  1.07           O 0
+ATOM   1463   CB LYS A 154      68.796  71.690  -0.671  0.00  0.00           C 0
+ATOM   1469   CD LYS A 154      69.730  73.066  -2.464  0.00  0.00           C 0
+ATOM   7270   CB LYS B 154      71.690  68.796   0.671  0.00  0.00           C 0
+ATOM   7247    C TYR B 153      71.102  67.741  -2.330  0.00  0.00           C 0
+TER
+END

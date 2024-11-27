@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0759
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0737
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5622
+HEADER 5  - Mean B-factor of pocket residues  : 0.1183
+HEADER 6  - Hydrophobicity Score              : 24.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.0064
+HEADER 10 - Pocket volume (convex hull)       : 7.5440
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   2108   CA GLU L 147      23.680  33.616  11.905  0.00  0.00           C 0
+ATOM   2149   NZ LYS L 149      23.545  34.807   6.804  0.00  0.00           N 0
+ATOM   2100  NH1 ARG L 146      20.603  27.802  11.084  0.00  0.00           N 0
+ATOM   2115   CG GLU L 147      22.640  35.380  10.404  0.00  0.00           C 0
+ATOM   2112   CB GLU L 147      22.840  34.891  11.829  0.00  0.00           C 0
+ATOM   2106    N GLU L 147      23.474  32.941  13.178  0.00  0.00           N 0
+ATOM   2126    O ALA L 148      26.053  33.408   7.814  0.00  0.00           O 0
+ATOM   2121    N ALA L 148      25.633  33.497  10.487  0.00  0.00           N 0
+ATOM   2087    O ARG L 146      24.875  31.286  12.686  0.48  5.36           O 0
+ATOM   2127   CB ALA L 148      27.940  32.757  10.396  0.00  0.00           C 0
+ATOM   2593  CD1 LEU L 179      28.180  26.942   8.878  0.00  0.00           C 0
+ATOM   2597  CD2 LEU L 179      29.600  28.755   8.171  0.00  0.00           C 0
+ATOM   2091   CG ARG L 146      22.843  29.016  13.755  0.00  0.00           C 0
+ATOM   2418  CG2 VAL L 167      26.155  25.815  10.126  0.00  0.00           C 0
+ATOM   2099   CZ ARG L 146      21.218  26.806  11.704  0.00  0.00           C 0
+TER
+END

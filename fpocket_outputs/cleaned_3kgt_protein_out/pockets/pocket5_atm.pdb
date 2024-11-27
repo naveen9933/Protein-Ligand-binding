@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1823
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.4820
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3848
+HEADER 5  - Mean B-factor of pocket residues  : 0.0238
+HEADER 6  - Hydrophobicity Score              : 22.6250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 76.8703
+HEADER 10 - Pocket volume (convex hull)       : 0.6013
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM   3284  CD2 LEU B 111      14.734  35.434  52.809  0.00  0.00           C 0
+ATOM   3351   CB TYR B 116      16.677  35.822  49.391  0.00  0.00           C 0
+ATOM   2756   CB THR B  75      11.908  32.062  51.750  0.00  0.00           C 0
+ATOM   3293    O SER B 112      11.867  37.440  48.213  0.55  2.14           O 0
+ATOM   2828  CD1 TRP B  79       8.830  34.863  50.305  0.00  0.00           C 0
+ATOM   3303    O PRO B 113      10.133  35.840  45.718  0.48  2.14           O 0
+ATOM   2964    N HIS B  88      11.104  31.699  44.995  0.53  1.09           N 0
+ATOM   2935   CB PRO B  86       7.538  33.258  47.269  0.00  0.00           C 0
+ATOM   2831  NE1 TRP B  79       9.823  35.788  50.537  0.60  3.28           N 0
+ATOM   2974  ND1 HIS B  88      13.707  33.467  45.590  0.34  1.09           N 0
+ATOM   2760  CG2 THR B  75      13.265  32.212  52.457  0.00  0.00           C 0
+ATOM   2969    O HIS B  88      10.290  29.966  47.065  0.00  0.00           O 0
+ATOM   2758  OG1 THR B  75      12.098  31.256  50.581  0.62  4.29           O 0
+ATOM   3357  CD2 TYR B 116      16.696  33.718  47.982  0.00  0.00           C 0
+ATOM   2970   CB HIS B  88      13.134  31.107  46.267  0.00  0.00           C 0
+TER
+END

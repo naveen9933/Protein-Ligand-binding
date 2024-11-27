@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0781
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7453
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4746
+HEADER 5  - Mean B-factor of pocket residues  : 0.4341
+HEADER 6  - Hydrophobicity Score              : 15.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.8002
+HEADER 10 - Pocket volume (convex hull)       : 9.6852
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   4459  OE1 GLN A 319      11.618   6.724   9.085  0.00  0.00           O 0
+ATOM    432   NZ LYS A  45      14.726   5.041   3.409  0.48  7.66           N 0
+ATOM   4323   OH TYR A 310      12.284   2.647   6.218  0.45  2.14           O 0
+ATOM   4460  NE2 GLN A 319      11.364   8.638   7.939  0.00  0.00           N 0
+ATOM    429   CE LYS A  45      13.761   5.680   2.445  0.00  0.00           C 0
+ATOM    343  CD2 LEU A  39       8.738   5.120   8.343  0.00  0.00           C 0
+ATOM   4392   NZ LYS A 315      15.332   5.953   8.230  0.64  4.37           N 0
+ATOM    324   CB ALA A  38       5.320   5.042   3.523  0.00  0.00           C 0
+ATOM   4524   NZ LYS A 323       5.821  10.108   6.884  0.00  0.00           N 0
+ATOM   4389   CE LYS A 315      15.844   7.357   8.329  0.00  0.00           C 0
+ATOM    323    O ALA A  38       8.096   3.192   3.502  0.00  0.00           O 0
+ATOM    374   CA GLY A  42      11.721   2.569   2.683  0.00  0.00           C 0
+ATOM    330   CA LEU A  39       8.162   2.834   6.258  0.00  0.00           C 0
+ATOM    337   CG LEU A  39       7.510   4.198   8.336  0.00  0.00           C 0
+ATOM    271    O THR A  35       4.519   3.896   6.902  0.00  0.00           O 0
+ATOM    322    C ALA A  38       7.040   3.293   4.140  0.00  0.00           C 0
+ATOM    328    N LEU A  39       6.969   3.137   5.471  0.00  0.00           N 0
+TER
+END

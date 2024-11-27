@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : -0.0411
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9480
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5161
+HEADER 5  - Mean B-factor of pocket residues  : 0.5936
+HEADER 6  - Hydrophobicity Score              : 16.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.5688
+HEADER 10 - Pocket volume (convex hull)       : 15.2531
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3143   NE ARG B 103      37.927  31.769  63.262  0.70  4.37           N 0
+ATOM   3146  NH1 ARG B 103      39.266  29.995  62.668  0.59  5.47           N 0
+ATOM   3140   CD ARG B 103      36.735  30.950  63.426  0.00  0.00           C 0
+ATOM   3122  OD1 ASN B  98      36.375  27.517  58.064  0.82  6.43           O 0
+ATOM   3145   CZ ARG B 103      39.113  31.292  62.906  0.00  0.00           C 0
+ATOM   3116    C ASN B  98      36.780  26.885  60.928  0.00  0.00           C 0
+ATOM   1609   OH TYR A 114      35.858  34.082  55.820  0.41  9.64           O 0
+ATOM   3149  NH2 ARG B 103      40.148  32.111  62.785  0.00  0.00           N 0
+ATOM   3436    O VAL B 122      33.846  36.802  61.825  0.00  0.00           O 0
+ATOM   3467   CB ASN B 124      37.779  35.465  66.490  0.00  0.00           C 0
+ATOM   3461    N ASN B 124      35.433  35.916  65.909  0.74  3.28           N 0
+ATOM   3137   CG ARG B 103      35.543  31.798  63.744  0.00  0.00           C 0
+ATOM   3439  CG1 VAL B 122      33.552  33.342  60.871  0.00  0.00           C 0
+ATOM   3195   OH TYR B 105      33.220  28.536  60.716  0.66  2.14           O 0
+ATOM   3437   CB VAL B 122      32.796  34.485  60.190  0.00  0.00           C 0
+ATOM   5433    O ARG D  21      35.231  38.243  56.933  0.48  8.57           O 0
+TER
+END

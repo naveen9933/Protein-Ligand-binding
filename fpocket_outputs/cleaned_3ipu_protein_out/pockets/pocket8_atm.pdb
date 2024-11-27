@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0023
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7011
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4958
+HEADER 5  - Mean B-factor of pocket residues  : 0.0643
+HEADER 6  - Hydrophobicity Score              : -6.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.4828
+HEADER 10 - Pocket volume (convex hull)       : 12.8008
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   1180   CB GLN A 280      13.692 -29.708  44.098  0.00  0.00           C 0
+ATOM   2742  NE2 GLN A 377      15.833 -35.224  42.032  0.00  0.00           N 0
+ATOM   2737   CG GLN A 377      18.141 -34.553  42.280  0.00  0.00           C 0
+ATOM   1179    O GLN A 280      16.455 -28.785  45.192  0.25  8.57           O 0
+ATOM   2691  OD2 ASP A 374      21.138 -33.814  45.010  0.00  0.00           O 0
+ATOM   1206  CD2 LEU A 281      19.294 -30.740  41.304  0.00  0.00           C 0
+ATOM   1134    O GLY A 277      14.818 -30.065  40.494  0.38  1.07           O 0
+ATOM   1210    N SER A 282      19.594 -27.054  44.384  0.00  0.00           N 0
+ATOM   2686   CB ASP A 374      22.888 -32.777  43.817  0.00  0.00           C 0
+ATOM   2740   CD GLN A 377      17.056 -35.597  42.397  0.00  0.00           C 0
+ATOM   2741  OE1 GLN A 377      17.310 -36.729  42.816  0.50  7.50           O 0
+ATOM   1178    C GLN A 280      15.920 -28.548  44.095  0.00  0.00           C 0
+ATOM   1191    N LEU A 281      16.616 -28.441  42.969  0.00  0.00           N 0
+ATOM   1216   CB SER A 282      21.478 -26.054  45.616  0.00  0.00           C 0
+ATOM   1271  OD2 ASP A 285      23.599 -29.576  42.593  0.38  1.07           O 0
+ATOM   1219   OG SER A 282      22.502 -26.287  44.692  0.00  0.00           O 0
+ATOM   2676  OE1 GLN A 373      25.429 -28.961  47.000  0.60  9.64           O 0
+ATOM   1193   CA LEU A 281      18.064 -28.339  43.007  0.00  0.00           C 0
+TER
+END

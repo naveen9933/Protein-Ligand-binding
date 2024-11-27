@@ -1,0 +1,92 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.3853
+HEADER 1  - Drug Score                        : 0.8232
+HEADER 2  - Number of alpha spheres           :   146
+HEADER 3  - Mean alpha-sphere radius          : 3.9588
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4769
+HEADER 5  - Mean B-factor of pocket residues  : 0.1622
+HEADER 6  - Hydrophobicity Score              : 50.0741
+HEADER 7  - Polarity Score                    :    15
+HEADER 8  - Amino Acid based volume Score     : 5.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 755.2764
+HEADER 10 - Pocket volume (convex hull)       : 282.1064
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 46.4375
+HEADER 13 - Number of apolar alpha sphere     :    64
+HEADER 14 - Proportion of apolar alpha sphere : 0.4384
+ATOM   2458   CD ARG A 160      19.830  13.198  80.902  0.00  0.00           C 0
+ATOM   3377  CD1 ILE B  62      20.694   8.994  80.400  0.00  0.00           C 0
+ATOM   3605  CZ3 TRP B  76      20.323  15.475  76.249  0.00  0.00           C 0
+ATOM   3236   CB LEU B  53      25.319   9.390  78.220  0.00  0.00           C 0
+ATOM   2500  CD1 LEU A 163      17.584  12.531  76.432  0.00  0.00           C 0
+ATOM   2504  CD2 LEU A 163      17.294  10.938  78.305  0.00  0.00           C 0
+ATOM   3607  CH2 TRP B  76      20.089  15.637  77.618  0.00  0.00           C 0
+ATOM   3373  CG2 ILE B  62      19.707   7.976  77.459  0.00  0.00           C 0
+ATOM   3368   CB ILE B  62      20.860   7.467  78.309  0.00  0.00           C 0
+ATOM   3245  CD2 LEU B  53      25.226  10.801  80.268  0.00  0.00           C 0
+ATOM   4667  OE2 GLU B 140      29.074  12.824  77.917  0.76  5.36           O 0
+ATOM   4773  NE2 GLN B 147      25.176  16.083  82.070  0.74  4.37           N 0
+ATOM   4701   CE MET B 142      27.943  12.552  82.420  0.00  0.00           C 0
+ATOM   4666  OE1 GLU B 140      29.110  12.915  75.758  0.00  0.00           O 0
+ATOM   3681  CE1 PHE B  81      23.293  18.292  77.789  0.00  0.00           C 0
+ATOM   3556  CE1 HIS B  73      20.226  12.848  73.736  0.00  0.00           C 0
+ATOM   2461   NE ARG A 160      21.178  13.072  81.501  0.67  4.37           N 0
+ATOM   4190   CZ PHE B 112      21.315  17.443  81.174  0.00  0.00           C 0
+ATOM   3618   OG SER B  77      23.068  17.572  72.656  0.44  1.07           O 0
+ATOM   3010  NH2 ARG B  38      24.339  20.414  71.836  0.45  2.19           N 0
+ATOM   3072  NH1 ARG B  41      27.393  15.953  68.582  0.42  4.37           N 0
+ATOM   3004   NE ARG B  38      25.212  20.380  69.726  0.53  1.09           N 0
+ATOM   3775  CH2 TRP B  86      30.955  15.517  74.096  0.00  0.00           C 0
+ATOM   3771  CZ2 TRP B  86      30.603  15.832  72.817  0.00  0.00           C 0
+ATOM   3726  NE1 TRP B  84      30.554  19.030  74.402  0.00  0.00           N 0
+ATOM   3731  CZ2 TRP B  84      30.825  19.099  76.873  0.00  0.00           C 0
+ATOM   4387  CE2 PHE B 124      31.439  14.962  78.407  0.00  0.00           C 0
+ATOM   3723  CD1 TRP B  84      29.812  19.789  73.505  0.00  0.00           C 0
+ATOM   2924    O THR B  33      29.656  20.039  67.033  0.27  4.29           O 0
+ATOM   3001   CD ARG B  38      25.892  21.014  68.584  0.00  0.00           C 0
+ATOM   3718    O TRP B  84      29.621  23.061  71.386  0.81  1.07           O 0
+ATOM   4315   OH TYR B 120      29.254  15.796  81.576  0.00  0.00           O 0
+ATOM   4312  CE2 TYR B 120      28.410  17.814  80.717  0.00  0.00           C 0
+ATOM   3230    N LEU B  53      25.116   8.060  76.158  0.00  0.00           N 0
+ATOM   3367    O ILE B  62      22.341   6.661  76.012  0.00  0.00           O 0
+ATOM   3078    N HIS B  42      23.385  13.247  63.045  0.47  1.09           N 0
+ATOM   3517  CD2 LEU B  70      22.131   9.068  68.400  0.00  0.00           C 0
+ATOM   3148  CE2 PHE B  45      25.968   9.600  65.212  0.00  0.00           C 0
+ATOM   3069   NE ARG B  41      26.626  14.566  66.906  0.42  1.09           N 0
+ATOM   3075  NH2 ARG B  41      25.681  14.534  69.006  0.34  3.28           N 0
+ATOM   3507    O LEU B  70      19.580  12.634  67.294  0.55  1.07           O 0
+ATOM   3554  CD2 HIS B  73      20.877  12.957  71.640  0.00  0.00           C 0
+ATOM   2884   OH TYR B  30      28.202  12.111  69.292  0.39  4.29           O 0
+ATOM   3565   CB ALA B  74      20.450  16.254  67.336  0.00  0.00           C 0
+ATOM   2994    O ARG B  38      22.894  17.426  65.282  0.36  1.07           O 0
+ATOM   3677  CD1 PHE B  81      23.394  19.212  76.715  0.00  0.00           C 0
+ATOM   3728  CE2 TRP B  84      30.343  19.528  75.661  0.00  0.00           C 0
+ATOM   3725  CD2 TRP B  84      29.393  20.567  75.542  0.00  0.00           C 0
+ATOM   3676   CG PHE B  81      24.290  20.261  76.804  0.00  0.00           C 0
+ATOM   3683  CE2 PHE B  81      24.868  19.522  79.020  0.00  0.00           C 0
+ATOM   3679  CD2 PHE B  81      25.011  20.404  77.966  0.00  0.00           C 0
+ATOM   3729  CE3 TRP B  84      28.974  21.225  76.699  0.00  0.00           C 0
+ATOM   3733  CZ3 TRP B  84      29.447  20.822  77.876  0.00  0.00           C 0
+ATOM   3722   CG TRP B  84      29.090  20.716  74.171  0.00  0.00           C 0
+ATOM   3673   CB PHE B  81      24.520  21.204  75.653  0.00  0.00           C 0
+ATOM   3735  CH2 TRP B  84      30.387  19.743  77.981  0.00  0.00           C 0
+ATOM   3685   CZ PHE B  81      24.033  18.493  78.928  0.00  0.00           C 0
+ATOM   3406  CD1 ILE B  64      21.097   9.730  72.568  0.00  0.00           C 0
+ATOM   3508   CB LEU B  70      20.695   9.699  66.411  0.00  0.00           C 0
+ATOM   3080   CA HIS B  42      22.823  11.888  62.882  0.00  0.00           C 0
+ATOM   3558  NE2 HIS B  73      21.270  13.090  72.941  0.83  8.75           N 0
+ATOM   3766  NE1 TRP B  86      31.398  17.134  70.810  0.53  1.09           N 0
+ATOM   3150   CZ PHE B  45      26.252   8.780  66.250  0.00  0.00           C 0
+ATOM   3223    N GLY B  52      25.053   7.772  72.487  0.67  1.09           N 0
+ATOM   3084   CB HIS B  42      21.349  11.821  63.279  0.00  0.00           C 0
+ATOM   4626  NE2 GLN B 138      27.274   8.923  70.878  0.69  5.47           N 0
+ATOM   4625  OE1 GLN B 138      29.159   9.584  71.910  0.47  3.21           O 0
+ATOM   3225   CA GLY B  52      24.568   8.150  73.800  0.00  0.00           C 0
+ATOM   3228    C GLY B  52      25.615   8.125  74.916  0.00  0.00           C 0
+ATOM   3229    O GLY B  52      26.829   8.189  74.693  0.00  0.00           O 0
+TER
+END

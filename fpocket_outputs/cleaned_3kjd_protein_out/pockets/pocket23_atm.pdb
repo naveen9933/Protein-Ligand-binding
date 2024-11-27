@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.1065
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9088
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5709
+HEADER 5  - Mean B-factor of pocket residues  : 0.4307
+HEADER 6  - Hydrophobicity Score              : 50.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 317.0002
+HEADER 10 - Pocket volume (convex hull)       : 21.3004
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3077
+ATOM   3666   SD MET A 456     -10.909  33.780  33.049  0.00  0.00           S 0
+ATOM   4348   CB ALA A 501     -12.604  35.491  29.618  0.00  0.00           C 0
+ATOM   3667   CE MET A 456      -9.294  33.103  32.566  0.00  0.00           C 0
+ATOM   5040   CB TYR A 552     -15.411  28.026  28.368  0.00  0.00           C 0
+ATOM   4333   CB GLU A 500     -17.471  33.662  29.789  0.00  0.00           C 0
+ATOM   4342    N ALA A 501     -14.847  35.015  30.417  0.79  5.47           N 0
+ATOM   5039    O TYR A 552     -17.677  29.463  30.057  0.59  2.14           O 0
+ATOM   4340  OE1 GLU A 500     -18.757  33.268  27.299  0.26  9.64           O 0
+ATOM   4329   CA GLU A 500     -16.868  34.034  31.162  0.00  0.00           C 0
+ATOM   4347    O ALA A 501     -15.106  37.298  28.698  0.43  8.57           O 0
+ATOM   4336   CG GLU A 500     -18.213  34.812  29.070  0.00  0.00           C 0
+ATOM   5057    N LEU A 554     -15.850  28.608  34.057  0.00  0.00           N 0
+ATOM   4313    O LEU A 499     -18.302  32.167  32.565  0.00  0.00           O 0
+ATOM   5038    C TYR A 552     -17.306  28.282  29.986  0.00  0.00           C 0
+ATOM   5066   CG LEU A 554     -13.964  30.902  35.144  0.00  0.00           C 0
+ATOM   5072  CD2 LEU A 554     -12.515  30.686  34.706  0.00  0.00           C 0
+ATOM   5048    O THR A 553     -15.627  26.581  33.110  0.50  8.57           O 0
+ATOM   5047    C THR A 553     -16.231  27.643  33.224  0.00  0.00           C 0
+ATOM   5059   CA LEU A 554     -14.743  28.423  34.971  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0847
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9615
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6010
+HEADER 5  - Mean B-factor of pocket residues  : 0.2000
+HEADER 6  - Hydrophobicity Score              : 27.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.6869
+HEADER 10 - Pocket volume (convex hull)       : 0.9106
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   2198   CB ARG B  41       9.281   2.301  34.263  0.00  0.00           C 0
+ATOM   2216    N TRP B  42      11.067   4.069  32.323  0.61  1.09           N 0
+ATOM   2201   CG ARG B  41       9.494   1.133  35.195  0.00  0.00           C 0
+ATOM   2210  NH1 ARG B  41      10.483  -1.931  34.059  0.00  0.00           N 0
+ATOM   2209   CZ ARG B  41       9.606  -1.445  33.179  0.00  0.00           C 0
+ATOM   2194   CA ARG B  41      10.288   3.411  34.512  0.00  0.00           C 0
+ATOM   2226  CD1 TRP B  42      14.362   4.007  31.872  0.00  0.00           C 0
+ATOM   2191    O GLY B  40      12.137   4.563  36.247  0.00  0.00           O 0
+ATOM   2229  NE1 TRP B  42      15.357   3.217  31.336  0.00  0.00           N 0
+ATOM   2221    O TRP B  42      10.914   2.890  29.892  0.36  5.36           O 0
+ATOM   2213  NH2 ARG B  41       9.626  -1.867  31.924  0.00  0.00           N 0
+ATOM   2231  CE2 TRP B  42      15.309   3.310  29.970  0.00  0.00           C 0
+ATOM   2234  CZ2 TRP B  42      16.105   2.704  29.000  0.00  0.00           C 0
+TER
+END

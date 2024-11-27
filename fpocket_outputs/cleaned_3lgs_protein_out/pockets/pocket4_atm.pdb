@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.1440
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.6880
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4222
+HEADER 5  - Mean B-factor of pocket residues  : 0.2921
+HEADER 6  - Hydrophobicity Score              : 47.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.0678
+HEADER 10 - Pocket volume (convex hull)       : 10.0588
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM   4259    O GLY B  57      -3.555  -3.149  25.083  0.59  2.14           O 0
+ATOM   4240   CB LEU B  56      -2.376   1.473  22.618  0.00  0.00           C 0
+ATOM   4234    N LEU B  56      -4.738   0.846  22.888  0.65  1.09           N 0
+ATOM   4211   CA SER B  54      -6.682  -0.489  26.542  0.00  0.00           C 0
+ATOM   4218   OG SER B  54      -6.544  -2.258  28.218  0.53  8.57           O 0
+ATOM   4209    N SER B  54      -7.862   0.013  27.285  0.70  1.09           N 0
+ATOM   4174    O THR B  51      -6.794   3.281  31.075  0.69  3.21           O 0
+ATOM   4231   CD PRO B  55      -6.712   2.249  25.343  0.00  0.00           C 0
+ATOM   4215   CB SER B  54      -6.438  -1.976  26.831  0.00  0.00           C 0
+ATOM   4294    O LEU B  60      -0.482  -2.972  29.560  0.12  8.57           O 0
+ATOM   4328   CB TRP B  62       1.258   1.106  26.996  0.00  0.00           C 0
+ATOM   4362    N LEU B  64      -1.943   5.337  29.115  0.66  3.28           N 0
+ATOM   4245  CD1 LEU B  56      -1.376   3.696  23.205  0.00  0.00           C 0
+ATOM   4368   CB LEU B  64      -3.231   5.997  27.115  0.00  0.00           C 0
+ATOM   4338  CE3 TRP B  62       1.196   0.479  23.738  0.00  0.00           C 0
+ATOM   4295   CB LEU B  60       0.105  -3.291  26.373  0.00  0.00           C 0
+ATOM   4350    C VAL B  63      -0.645   5.084  29.229  0.00  0.00           C 0
+ATOM   4327    O TRP B  62      -0.654   1.179  29.556  0.36  7.50           O 0
+ATOM   4243   CG LEU B  56      -2.635   2.986  22.706  0.00  0.00           C 0
+ATOM   4326    C TRP B  62       0.398   1.743  29.232  0.00  0.00           C 0
+ATOM   4175   CB THR B  51      -6.906   5.173  28.603  0.00  0.00           C 0
+TER
+END

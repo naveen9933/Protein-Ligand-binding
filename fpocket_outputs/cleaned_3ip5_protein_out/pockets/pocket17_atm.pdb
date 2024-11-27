@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0332
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8064
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5498
+HEADER 5  - Mean B-factor of pocket residues  : 0.1341
+HEADER 6  - Hydrophobicity Score              : -4.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.7060
+HEADER 10 - Pocket volume (convex hull)       : 10.7969
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   2322    O LYS A 160     -33.784   6.431  -0.439  0.61  4.29           O 0
+ATOM   2326   CG LYS A 160     -30.800   7.809  -1.142  0.00  0.00           C 0
+ATOM   2379   CB ALA A 164     -34.192   3.054  -1.501  0.00  0.00           C 0
+ATOM   2335   NZ LYS A 160     -28.689   7.124  -3.361  0.00  0.00           N 0
+ATOM   2341   CA ALA A 161     -33.005   5.610   2.083  0.00  0.00           C 0
+ATOM   2332   CE LYS A 160     -28.536   7.002  -1.891  0.00  0.00           C 0
+ATOM   2345   CB ALA A 161     -32.224   5.467   3.393  0.00  0.00           C 0
+ATOM   2329   CD LYS A 160     -29.307   8.115  -1.211  0.00  0.00           C 0
+ATOM   2279  OE1 GLU A 157     -27.062   9.624   1.995  0.67  4.29           O 0
+ATOM   2271    O GLU A 157     -31.191   8.914   3.148  0.53  2.14           O 0
+ATOM   1754    O ASP A 122     -26.336   6.420   5.226  0.38  5.36           O 0
+ATOM   1755   CB ASP A 122     -24.181   8.199   3.482  0.00  0.00           C 0
+ATOM   1804   CA GLY A 126     -29.540   4.690   5.823  0.00  0.00           C 0
+ATOM   1802    N GLY A 126     -29.218   6.051   6.223  0.63  1.09           N 0
+TER
+END

@@ -1,0 +1,65 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0661
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    68
+HEADER 3  - Mean alpha-sphere radius          : 3.9473
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4826
+HEADER 5  - Mean B-factor of pocket residues  : 0.4351
+HEADER 6  - Hydrophobicity Score              : 21.8667
+HEADER 7  - Polarity Score                    :    11
+HEADER 8  - Amino Acid based volume Score     : 4.2667
+HEADER 9  - Pocket volume (Monte Carlo)       : 569.5676
+HEADER 10 - Pocket volume (convex hull)       : 114.3262
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 19.9091
+HEADER 13 - Number of apolar alpha sphere     :    22
+HEADER 14 - Proportion of apolar alpha sphere : 0.3235
+ATOM   3784   CB LYS A 249      -9.606 -13.416  -3.406  0.00  0.00           C 0
+ATOM   4474  OD1 ASP A 292      -8.791 -11.649  -9.270  0.62  1.07           O 0
+ATOM   3790   CD LYS A 249      -9.919 -14.504  -5.584  0.00  0.00           C 0
+ATOM   3729  CD1 LEU A 246      -9.958  -9.133  -5.841  0.00  0.00           C 0
+ATOM   4497  OD1 ASP A 294      -7.373 -14.971  -8.387  0.70  3.21           O 0
+ATOM   4485   OG SER A 293      -4.245 -11.127  -9.444  0.00  0.00           O 0
+ATOM   3783    O LYS A 249      -7.752 -12.890  -1.255  0.00  3.21           O 0
+ATOM   2993    O HIS A 199       0.384 -11.286  -4.686  0.70  5.36           O 0
+ATOM   2872   CG GLU A 192      -1.388  -7.010  -7.447  0.00  0.00           C 0
+ATOM   3006   CA TYR A 200       1.424 -11.903  -7.245  0.00  0.00           C 0
+ATOM   2869   CB GLU A 192      -2.151  -6.528  -6.239  0.00  0.00           C 0
+ATOM   2967  CZ3 TRP A 197      -3.122  -5.938   0.965  0.00  0.00           C 0
+ATOM   3836   CB SER A 252      -5.005  -8.222   4.969  0.00  0.00           C 0
+ATOM   3830    N SER A 252      -6.017 -10.400   4.426  0.00  0.00           N 0
+ATOM   3828   OG SER A 251      -4.432 -12.565   3.295  0.00  0.00           O 0
+ATOM   3819    N SER A 251      -7.158 -11.831   2.236  0.00  0.00           N 0
+ATOM   2959  CD2 TRP A 197      -2.793  -7.024  -1.167  0.00  0.00           C 0
+ATOM   4476    N SER A 293      -6.771  -9.967 -10.403  0.00  0.00           N 0
+ATOM   4450    O LEU A 291      -7.359  -6.647  -9.880  0.54  2.14           O 0
+ATOM   4466   CA ASP A 292      -8.953  -8.917  -9.927  0.00  0.00           C 0
+ATOM   3802   CA ILE A 250      -8.545 -10.807   0.471  0.00  0.00           C 0
+ATOM   2960  NE1 TRP A 197      -4.445  -7.291  -2.695  0.71  7.66           N 0
+ATOM   3009    O TYR A 200       2.171 -13.814  -8.482  0.38  6.43           O 0
+ATOM   3004    N TYR A 200       1.663 -12.583  -5.992  0.00  0.00           N 0
+ATOM   3008    C TYR A 200       1.371 -12.877  -8.408  0.00  0.00           C 0
+ATOM   3035  OD1 ASN A 201      -2.095 -14.364  -9.671  0.00  0.00           O 0
+ATOM   2957  CD1 TRP A 197      -3.279  -7.868  -3.192  0.00  0.00           C 0
+ATOM   2969  CH2 TRP A 197      -4.467  -5.719   0.650  0.00  0.00           C 0
+ATOM   3811  CG2 ILE A 250      -8.265  -8.441   1.324  0.00  0.00           C 0
+ATOM   2965  CZ2 TRP A 197      -5.008  -6.123  -0.552  0.00  0.00           C 0
+ATOM   2956   CG TRP A 197      -2.238  -7.737  -2.288  0.00  0.00           C 0
+ATOM   2971    N MET A 198       1.600  -9.791  -0.931  0.50  5.47           N 0
+ATOM   2999  CD2 HIS A 199       0.029 -14.042  -0.717  0.00  0.00           C 0
+ATOM   2953   CB TRP A 197      -0.773  -8.210  -2.479  0.00  0.00           C 0
+ATOM   2962  CE2 TRP A 197      -4.167  -6.770  -1.456  0.00  0.00           C 0
+ATOM   3025    N ASN A 201       0.444 -12.596  -9.322  0.00  0.00           N 0
+ATOM   2963  CE3 TRP A 197      -2.274  -6.590   0.064  0.00  0.00           C 0
+ATOM   2949   CA TRP A 197       0.247  -7.785  -1.390  0.00  0.00           C 0
+ATOM   2877  OE2 GLU A 192      -3.024  -6.026  -8.875  0.67  1.07           O 0
+ATOM   2875   CD GLU A 192      -2.196  -6.942  -8.736  0.00  0.00           C 0
+ATOM   3808  CG1 ILE A 250      -9.043  -8.836  -0.987  0.00  0.00           C 0
+ATOM   2994   CB HIS A 199       0.406 -14.041  -3.284  0.00  0.00           C 0
+ATOM   2992    C HIS A 199       1.131 -12.229  -4.833  0.00  0.00           C 0
+TER
+END

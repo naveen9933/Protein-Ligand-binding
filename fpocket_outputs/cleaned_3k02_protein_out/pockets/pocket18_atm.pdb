@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0854
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.7630
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3816
+HEADER 5  - Mean B-factor of pocket residues  : 0.2293
+HEADER 6  - Hydrophobicity Score              : 16.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.0782
+HEADER 10 - Pocket volume (convex hull)       : 18.7097
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.2759
+ATOM   3919    O GLN A 283      -4.118   1.657  39.283  0.00  0.00           O 0
+ATOM   3927  OE1 GLN A 283      -4.038   4.414  37.491  0.00  0.00           O 0
+ATOM   5014   CD LYS A 354       2.518   4.067  38.135  0.00  0.00           C 0
+ATOM   5007    O LYS A 354       1.410   1.067  35.757  0.50  5.36           O 0
+ATOM   3933   CA GLY A 284      -4.447   0.898  36.683  0.00  0.00           C 0
+ATOM   5046  CG2 VAL A 356      -1.393  -2.542  36.102  0.00  0.00           C 0
+ATOM   3947   OG SER A 285      -2.825   2.074  32.012  0.34  2.14           O 0
+ATOM   4970   CB ALA A 351      -0.355   6.663  30.860  0.00  0.00           C 0
+ATOM   3826   CA PRO A 275      -5.897   8.268  32.775  0.00  0.00           C 0
+ATOM   3830   CB PRO A 275      -5.295   8.311  34.192  0.00  0.00           C 0
+ATOM   3928  NE2 GLN A 283      -5.289   4.922  35.680  0.79  2.19           N 0
+ATOM   3839    N VAL A 276      -7.297   6.278  32.599  0.50  1.09           N 0
+ATOM   5008   CB LYS A 354       1.823   4.037  35.738  0.00  0.00           C 0
+ATOM   5011   CG LYS A 354       2.327   4.892  36.859  0.00  0.00           C 0
+ATOM   3833   CG PRO A 275      -4.594   9.627  34.275  0.00  0.00           C 0
+ATOM   1728    O LEU A 135      -4.852   3.760  29.408  0.33  2.14           O 0
+ATOM   4966   CA ALA A 351       0.859   6.312  31.668  0.00  0.00           C 0
+ATOM   4954    O PRO A 350       3.198   6.503  33.132  0.65  5.36           O 0
+ATOM   4969    O ALA A 351       1.131   3.902  32.014  0.00  0.00           O 0
+ATOM   3938    N SER A 285      -3.928   0.610  34.349  0.41  1.09           N 0
+TER
+END

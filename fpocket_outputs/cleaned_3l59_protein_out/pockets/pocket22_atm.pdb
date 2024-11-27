@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0643
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9413
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5281
+HEADER 5  - Mean B-factor of pocket residues  : 0.5845
+HEADER 6  - Hydrophobicity Score              : -13.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 336.5379
+HEADER 10 - Pocket volume (convex hull)       : 19.2353
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   4595  OD1 ASN A 354      19.209   1.731  55.711  0.00  0.00           O 0
+ATOM   5938   CG GLU A 441      14.618   3.828  49.923  0.00  0.00           C 0
+ATOM   5912    N MET A 440      18.814   6.079  51.900  0.35  1.09           N 0
+ATOM   4585    N ASN A 354      20.258  -0.317  53.354  0.00  0.00           N 0
+ATOM   5900    N ASP A 439      18.759   5.878  54.711  0.45  2.19           N 0
+ATOM   4581  CG2 THR A 353      17.475  -1.591  54.418  0.00  0.00           C 0
+ATOM   5925   CE MET A 440      21.345   2.101  50.791  0.00  0.00           C 0
+ATOM   5910  OD1 ASP A 439      15.960   7.222  56.289  0.00  0.00           O 0
+ATOM   5902   CA ASP A 439      17.768   6.690  54.006  0.00  0.00           C 0
+ATOM   5935   CB GLU A 441      14.409   5.338  49.899  0.00  0.00           C 0
+ATOM   4579  OG1 THR A 353      16.895  -3.338  52.882  0.00  0.00           O 0
+ATOM   5943  OE2 GLU A 441      15.671   2.414  48.341  0.00  0.00           O 0
+ATOM   4573   CA THR A 353      19.100  -2.324  52.632  0.00  0.00           C 0
+ATOM   5954  OD1 ASP A 442      13.342   9.795  52.115  0.46  7.50           O 0
+ATOM   5955  OD2 ASP A 442      15.004   9.389  53.443  0.76  7.50           O 0
+ATOM   5918   CB MET A 440      20.002   5.076  50.015  0.00  0.00           C 0
+ATOM   5929    N GLU A 441      16.760   6.040  50.089  0.00  0.00           N 0
+TER
+END

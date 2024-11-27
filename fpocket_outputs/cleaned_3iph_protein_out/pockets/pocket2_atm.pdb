@@ -1,0 +1,49 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.1619
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.9432
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6772
+HEADER 5  - Mean B-factor of pocket residues  : 0.5102
+HEADER 6  - Hydrophobicity Score              : 37.8750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 385.7516
+HEADER 10 - Pocket volume (convex hull)       : 19.6947
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.1935
+ATOM   3165    O TYR A 200      39.457  13.906  50.196  0.68  3.21           O 0
+ATOM   3155  CD2 HIS A 199      36.518  10.583  50.268  0.00  0.00           C 0
+ATOM   3159  NE2 HIS A 199      36.058  11.880  50.264  0.00  0.00           N 0
+ATOM   3176  CE2 TYR A 200      41.654  12.975  45.880  0.00  0.00           C 0
+ATOM   3178   CZ TYR A 200      41.018  14.175  45.608  0.00  0.00           C 0
+ATOM   3179   OH TYR A 200      40.480  14.349  44.357  0.00  0.00           O 0
+ATOM   3108    O TRP A 197      45.021   5.566  51.476  0.00  0.00           O 0
+ATOM   3992   CB SER A 252      45.813   2.355  49.758  0.00  0.00           C 0
+ATOM   3986    N SER A 252      44.609   2.527  51.877  0.62  1.09           N 0
+ATOM   3984   OG SER A 251      41.732   4.456  52.831  0.69  5.36           O 0
+ATOM   3131    C MET A 198      42.212   8.531  50.537  0.00  0.00           C 0
+ATOM   3144    N HIS A 199      40.969   8.611  50.998  0.65  1.09           N 0
+ATOM   3129   CA MET A 198      43.112   7.560  51.260  0.00  0.00           C 0
+ATOM   3146   CA HIS A 199      40.067   9.633  50.528  0.00  0.00           C 0
+ATOM   3172  CD2 TYR A 200      42.190  12.765  47.127  0.00  0.00           C 0
+ATOM   3132    O MET A 198      42.634   9.188  49.584  0.00  0.00           O 0
+ATOM   3100  ND2 ASN A 196      43.466   7.202  46.208  0.48  7.66           N 0
+ATOM   3980    O SER A 251      43.231   0.949  52.657  0.00  0.00           O 0
+ATOM   3979    C SER A 251      43.724   2.070  52.756  0.00  0.00           C 0
+ATOM   3157  CE1 HIS A 199      36.946  12.655  50.864  0.00  0.00           C 0
+ATOM   2358  CD1 ILE A 147      38.247  18.451  48.280  0.00  0.00           C 0
+ATOM   3174  CE1 TYR A 200      40.917  15.174  46.576  0.00  0.00           C 0
+ATOM   3094    O ASN A 196      45.809   5.515  47.845  0.50  2.14           O 0
+ATOM   3099  OD1 ASN A 196      43.629   5.319  44.950  0.00  0.00           O 0
+ATOM   3160    N TYR A 200      41.099  11.796  50.093  0.00  0.00           N 0
+ATOM   3153   CG HIS A 199      37.726  10.588  50.886  0.00  0.00           C 0
+ATOM   3988   CA SER A 252      45.101   1.606  50.866  0.00  0.00           C 0
+TER
+END

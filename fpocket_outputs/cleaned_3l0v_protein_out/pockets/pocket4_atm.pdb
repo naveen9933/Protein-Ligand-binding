@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0081
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.8708
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5977
+HEADER 5  - Mean B-factor of pocket residues  : 0.1976
+HEADER 6  - Hydrophobicity Score              : 11.4545
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0909
+HEADER 9  - Pocket volume (Monte Carlo)       : 332.7045
+HEADER 10 - Pocket volume (convex hull)       : 31.6233
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   3739    O GLU A 468       7.365  36.140  32.873  0.00  0.00           O 0
+ATOM   3748  OE2 GLU A 468       7.303  34.977  27.761  0.77  6.43           O 0
+ATOM   3743   CG GLU A 468       8.350  35.616  29.797  0.00  0.00           C 0
+ATOM   2245   CD PRO A 366       2.998  31.951  29.849  0.00  0.00           C 0
+ATOM   2242   CG PRO A 366       1.829  32.746  29.352  0.00  0.00           C 0
+ATOM   2238    O PRO A 366       3.570  33.351  26.600  0.46  3.21           O 0
+ATOM   3793  NE2 GLN A 471       3.004  33.420  38.979  0.00  0.00           N 0
+ATOM   1807    O LYS A 331      -0.836  32.722  35.239  0.55  7.50           O 0
+ATOM   3754    O CYS A 469       6.366  32.427  35.811  0.60  6.43           O 0
+ATOM   1840    N CYS A 333       2.579  29.455  34.098  0.55  3.28           N 0
+ATOM   1826   CA VAL A 332       0.322  30.356  34.206  0.00  0.00           C 0
+ATOM   1828    C VAL A 332       1.562  30.000  33.409  0.00  0.00           C 0
+ATOM   1824    N VAL A 332      -0.567  31.297  33.488  0.00  0.00           N 0
+ATOM   1829    O VAL A 332       1.555  30.094  32.185  0.00  0.00           O 0
+ATOM   3788   CG GLN A 471       5.303  33.340  39.684  0.00  0.00           C 0
+ATOM   1796    O SER A 330      -0.906  34.132  30.799  0.00  0.00           O 0
+ATOM   3755   CB CYS A 469       6.259  32.918  32.971  0.00  0.00           C 0
+ATOM   3764    O PHE A 470       8.574  33.936  38.048  0.54  4.29           O 0
+ATOM     97   CE LYS A 222      10.101  37.696  38.381  0.00  0.00           C 0
+ATOM   3722    O GLN A 467      10.388  37.080  34.402  0.73  2.14           O 0
+ATOM   1806    C LYS A 331      -1.078  32.401  34.073  0.00  0.00           C 0
+ATOM   3751   CA CYS A 469       7.169  33.657  33.951  0.00  0.00           C 0
+ATOM   3753    C CYS A 469       7.368  32.842  35.230  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0783
+HEADER 1  - Drug Score                        : 0.0040
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.5854
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4252
+HEADER 5  - Mean B-factor of pocket residues  : 0.1538
+HEADER 6  - Hydrophobicity Score              : 59.1250
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 78.4245
+HEADER 10 - Pocket volume (convex hull)       : 0.6640
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM   7426  CD1 ILE B 148      19.085  52.381  52.768  0.00  0.00           C 0
+ATOM   7507  CG2 VAL B 154      22.131  58.794  52.419  0.00  0.00           C 0
+ATOM   7478   CD PRO B 152      17.875  56.656  54.647  0.00  0.00           C 0
+ATOM   8216  CD1 LEU B 201      23.704  55.992  54.447  0.00  0.00           C 0
+ATOM   7500    O VAL B 154      21.410  58.084  49.252  0.78  3.21           O 0
+ATOM   7537  CG2 VAL B 156      25.686  56.095  51.601  0.00  0.00           C 0
+ATOM   7389    O VAL B 146      23.444  54.669  47.866  0.00  0.00           O 0
+ATOM   7419  CG1 ILE B 148      18.810  52.633  51.299  0.00  0.00           C 0
+ATOM   7411    N ILE B 148      18.682  54.409  48.980  0.55  2.19           N 0
+ATOM   7402   CA SER B 147      20.674  54.556  47.604  0.00  0.00           C 0
+ATOM   8160   CZ PHE B 197      23.189  51.765  52.409  0.00  0.00           C 0
+ATOM   7471    O PRO B 152      18.194  58.626  51.639  0.30  2.14           O 0
+ATOM   7417   CB ILE B 148      17.599  53.534  51.029  0.00  0.00           C 0
+TER
+END

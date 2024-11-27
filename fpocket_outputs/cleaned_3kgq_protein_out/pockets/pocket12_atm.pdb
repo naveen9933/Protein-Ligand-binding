@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0174
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0179
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5502
+HEADER 5  - Mean B-factor of pocket residues  : 0.2571
+HEADER 6  - Hydrophobicity Score              : 32.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.1633
+HEADER 10 - Pocket volume (convex hull)       : 3.2113
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   3780  CG1 ILE A 247       5.703  -5.504   7.274  0.00  0.00           C 0
+ATOM   3774   CA ILE A 247       7.491  -7.197   7.959  0.00  0.00           C 0
+ATOM   3763    O THR A 246       7.124  -8.903  10.092  0.59  4.29           O 0
+ATOM   3777    O ILE A 247       7.275  -8.490   5.942  0.00  0.00           O 0
+ATOM   3660   CE LYS A 239       3.673 -10.739  13.739  0.00  0.00           C 0
+ATOM   4203   CB THR A 274      -3.592  -7.998  12.478  0.00  0.00           C 0
+ATOM   4207  CG2 THR A 274      -3.039  -7.761  13.884  0.00  0.00           C 0
+ATOM   3024    O SER A 199       0.408  -6.180  13.142  0.33  3.21           O 0
+ATOM   3663   NZ LYS A 239       3.746 -11.628  12.541  0.00  0.00           N 0
+ATOM   4202    O THR A 274      -3.658  -7.619   9.517  0.36  5.36           O 0
+ATOM   3058  CD1 LEU A 201       4.877  -5.584  11.122  0.00  0.00           C 0
+ATOM   3062  CD2 LEU A 201       4.254  -6.921  13.167  0.00  0.00           C 0
+ATOM   3025   CB SER A 199       0.969  -5.158  10.407  0.00  0.00           C 0
+ATOM   3028   OG SER A 199       0.504  -5.532   9.128  0.00  0.00           O 0
+TER
+END

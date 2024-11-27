@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0760
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0582
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6971
+HEADER 5  - Mean B-factor of pocket residues  : 0.7430
+HEADER 6  - Hydrophobicity Score              : 3.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 162.3539
+HEADER 10 - Pocket volume (convex hull)       : 2.8683
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM     83   CD ARG A  14      62.036  -5.735  60.837  0.00  0.00           C 0
+ATOM      5   CA ASN A   9      59.929  -2.717  55.531  0.00  0.00           C 0
+ATOM     89  NH1 ARG A  14      62.801  -4.009  58.644  0.00  0.00           N 0
+ATOM     13  OD1 ASN A   9      58.994  -5.339  54.784  0.00  0.00           O 0
+ATOM     80   CG ARG A  14      61.346  -5.133  62.085  0.00  0.00           C 0
+ATOM     71    N ARG A  14      60.022  -1.683  61.950  0.62  1.09           N 0
+ATOM     22    O THR A  10      61.252  -0.821  59.174  0.41  1.07           O 0
+ATOM     63   CB ASN A  13      58.129   0.195  60.067  0.00  0.00           C 0
+ATOM     61    C ASN A  13      58.891  -1.013  62.110  0.00  0.00           C 0
+ATOM     62    O ASN A  13      57.934  -1.452  62.754  0.60  2.14           O 0
+ATOM    134  CG2 VAL A  17      55.495  -3.211  63.286  0.00  0.00           C 0
+ATOM      1    N ASN A   9      58.669  -1.908  55.389  0.42  7.66           N 0
+ATOM    130  CG1 VAL A  17      56.022  -5.289  64.549  0.00  0.00           C 0
+ATOM    128   CB VAL A  17      56.360  -3.825  64.351  0.00  0.00           C 0
+ATOM     77   CB ARG A  14      61.525  -3.615  62.167  0.00  0.00           C 0
+ATOM     73   CA ARG A  14      60.342  -2.845  62.774  0.00  0.00           C 0
+TER
+END

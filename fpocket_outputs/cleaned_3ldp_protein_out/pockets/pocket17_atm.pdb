@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0956
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8892
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5992
+HEADER 5  - Mean B-factor of pocket residues  : 0.2011
+HEADER 6  - Hydrophobicity Score              : 32.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 264.2654
+HEADER 10 - Pocket volume (convex hull)       : 5.5772
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   1834  OE2 GLU A 144      42.558   8.442   2.316  0.00  0.00           O 0
+ATOM   2534  CG2 ILE A 190      40.681   6.327  -2.431  0.00  0.00           C 0
+ATOM    717  NH1 ARG A  74      44.201   0.525   2.897  0.00  0.00           N 0
+ATOM   1888   CE MET A 148      40.537   2.758   4.001  0.00  0.00           C 0
+ATOM   1825    O GLU A 144      38.391   4.533   1.973  0.59  3.21           O 0
+ATOM   1775  CE1 PHE A 140      42.639   4.435   5.729  0.00  0.00           C 0
+ATOM   1740   CE LYS A 138      46.225   6.016   6.193  0.00  0.00           C 0
+ATOM   1743   NZ LYS A 138      47.136   5.003   5.578  0.33  8.75           N 0
+ATOM   1826   CB GLU A 144      39.490   7.367   2.704  0.00  0.00           C 0
+ATOM   1875    N MET A 148      37.045   2.212   0.048  0.00  0.00           N 0
+ATOM   1869    C ALA A 147      36.786   2.625  -1.198  0.00  0.00           C 0
+ATOM   1935  OG1 THR A 151      38.936   0.254  -3.675  0.59  8.57           O 0
+ATOM   1870    O ALA A 147      36.929   1.904  -2.181  0.00  0.00           O 0
+ATOM   1871   CB ALA A 147      37.580   4.911  -1.604  0.00  0.00           C 0
+ATOM   1884   CG MET A 148      39.041   1.364   2.129  0.00  0.00           C 0
+ATOM   1877   CA MET A 148      37.374   0.799   0.318  0.00  0.00           C 0
+TER
+END

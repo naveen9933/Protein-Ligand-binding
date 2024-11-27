@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0407
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8408
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5599
+HEADER 5  - Mean B-factor of pocket residues  : 0.4835
+HEADER 6  - Hydrophobicity Score              : 7.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.0205
+HEADER 10 - Pocket volume (convex hull)       : 7.2121
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   3575   CD ARG A 261      11.288  -2.215  20.128  0.00  0.00           C 0
+ATOM   3708   NZ LYS A 268      10.335  -5.006  26.825  0.00  0.00           N 0
+ATOM   3633  OE1 GLU A 264      13.315  -2.676  23.346  0.00  0.00           O 0
+ATOM   3581  NH1 ARG A 261       8.654  -1.216  19.572  0.00  0.00           N 0
+ATOM   4709    O LEU A 330       7.464  -3.681  19.169  0.79  6.43           O 0
+ATOM   3580   CZ ARG A 261       9.663  -0.365  19.835  0.00  0.00           C 0
+ATOM   3578   NE ARG A 261      10.898  -0.811  20.052  0.38  8.75           N 0
+ATOM   3645  ND1 HIS A 265       9.044 -10.891  24.260  0.00  0.00           N 0
+ATOM   3640    O HIS A 265      11.847 -10.943  25.895  0.50  1.07           O 0
+ATOM   3705   CE LYS A 268      10.847  -5.735  28.054  0.00  0.00           C 0
+ATOM   3696   CB LYS A 268      12.310  -8.748  28.761  0.00  0.00           C 0
+ATOM   3637   CA HIS A 265      11.664  -9.239  24.224  0.00  0.00           C 0
+ATOM   4719  CD2 LEU A 330       7.215  -8.173  21.301  0.00  0.00           C 0
+ATOM   3641   CB HIS A 265      10.897  -9.741  22.991  0.00  0.00           C 0
+ATOM   3568    O ARG A 261      12.045  -6.606  21.279  0.54  2.14           O 0
+ATOM   4710   CB LEU A 330       7.780  -6.836  19.278  0.00  0.00           C 0
+ATOM   3635    N HIS A 265      12.621  -8.165  23.838  0.00  0.00           N 0
+TER
+END

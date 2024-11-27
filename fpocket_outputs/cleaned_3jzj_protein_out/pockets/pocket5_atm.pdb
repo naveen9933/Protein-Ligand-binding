@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0297
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9685
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5638
+HEADER 5  - Mean B-factor of pocket residues  : 0.1561
+HEADER 6  - Hydrophobicity Score              : 16.5000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 2.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.7055
+HEADER 10 - Pocket volume (convex hull)       : 12.9218
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   3875   CB ALA A 278      -9.455   5.685  40.575  0.00  0.00           C 0
+ATOM   3920   CB GLN A 283      -6.120   4.149  39.211  0.00  0.00           C 0
+ATOM   3923   CG GLN A 283      -6.371   4.676  37.813  0.00  0.00           C 0
+ATOM   2021    O GLY A 153     -10.191   8.471  38.458  0.44  8.57           O 0
+ATOM   1991   CB VAL A 151     -11.329  15.013  32.677  0.00  0.00           C 0
+ATOM   3821   CB ALA A 274      -7.702  12.063  31.516  0.00  0.00           C 0
+ATOM   1990    O VAL A 151     -12.182  14.546  35.566  0.10  3.21           O 0
+ATOM   1993  CG1 VAL A 151     -11.055  13.707  32.187  0.00  0.00           C 0
+ATOM   2005    O PRO A 152     -11.792  10.737  35.274  0.00  0.00           O 0
+ATOM   2017   CA GLY A 153     -10.826  10.703  37.903  0.00  0.00           C 0
+ATOM   3836   CD PRO A 275      -5.482  10.580  33.440  0.00  0.00           C 0
+ATOM   3829    O PRO A 275      -8.272   8.225  33.137  0.42  2.14           O 0
+ATOM   3830   CB PRO A 275      -5.264   8.324  34.183  0.00  0.00           C 0
+ATOM   3833   CG PRO A 275      -4.581   9.639  34.240  0.00  0.00           C 0
+ATOM   3844    O VAL A 276      -8.089   5.984  35.188  0.55  1.07           O 0
+ATOM   3926   CD GLN A 283      -5.113   4.697  36.969  0.00  0.00           C 0
+ATOM   3927  OE1 GLN A 283      -4.044   4.375  37.463  0.00  0.00           O 0
+TER
+END

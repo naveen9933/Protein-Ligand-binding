@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.0243
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0459
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6846
+HEADER 5  - Mean B-factor of pocket residues  : 0.1526
+HEADER 6  - Hydrophobicity Score              : -4.4286
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 242.9907
+HEADER 10 - Pocket volume (convex hull)       : 7.1753
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM   7287   CG GLN B 134      20.727  28.370  57.142  0.00  0.00           C 0
+ATOM   9712  CG2 THR B 292      16.079  32.329  62.378  0.00  0.00           C 0
+ATOM   7292  NE2 GLN B 134      21.257  28.328  59.509  0.45  4.37           N 0
+ATOM   9710  OG1 THR B 292      18.086  33.328  61.482  0.58  9.64           O 0
+ATOM   9784  NH2 ARG B 296      19.593  28.391  63.620  0.58  1.09           N 0
+ATOM   9730    N ASN B 294      12.266  31.897  62.715  0.60  1.09           N 0
+ATOM   9722   CB THR B 293      11.505  32.212  59.852  0.00  0.00           C 0
+ATOM   9741  ND2 ASN B 294      11.246  27.934  63.139  0.56  4.37           N 0
+ATOM   9739   CG ASN B 294      11.044  29.240  63.264  0.00  0.00           C 0
+ATOM   9716    N THR B 293      13.687  33.217  60.457  0.59  1.09           N 0
+ATOM   9736   CB ASN B 294      11.986  29.972  64.203  0.00  0.00           C 0
+ATOM   9704   CA THR B 292      15.961  34.084  60.562  0.00  0.00           C 0
+ATOM   9701    O GLY B 291      16.984  34.780  58.059  0.00  0.00           O 0
+ATOM  11212   OG SER B 386      13.717  26.754  64.947  0.60  5.36           O 0
+ATOM   9775   CD ARG B 296      17.027  29.311  64.386  0.00  0.00           C 0
+ATOM   9778   NE ARG B 296      17.499  27.929  64.456  0.00  0.00           N 0
+ATOM   9780   CZ ARG B 296      18.707  27.520  64.081  0.00  0.00           C 0
+TER
+END

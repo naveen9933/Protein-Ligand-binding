@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0110
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9931
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7216
+HEADER 5  - Mean B-factor of pocket residues  : 0.2062
+HEADER 6  - Hydrophobicity Score              : 9.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 242.3873
+HEADER 10 - Pocket volume (convex hull)       : 7.0180
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0526
+ATOM   1469    N VAL A 154      22.826 -15.353  15.944  0.00  0.00           N 0
+ATOM   1493  OG1 THR A 155      20.574 -13.899  11.355  0.00  0.00           O 0
+ATOM   1459    C ASN A 153      23.539 -16.472  16.007  0.00  0.00           C 0
+ATOM   1460    O ASN A 153      23.053 -17.591  15.855  0.00  0.00           O 0
+ATOM   1404    N PRO A 149      27.697  -9.669  13.421  0.74  1.09           N 0
+ATOM   1380   CB SER A 147      23.055 -10.704  11.821  0.00  0.00           C 0
+ATOM   1412   CG PRO A 149      28.502  -8.966  11.346  0.00  0.00           C 0
+ATOM   1405   CA PRO A 149      28.810 -10.552  13.058  0.00  0.00           C 0
+ATOM   1390    O ILE A 148      27.063 -10.851  15.224  0.55  2.14           O 0
+ATOM   1465  OD1 ASN A 153      27.932 -16.583  15.606  0.48  7.50           O 0
+ATOM   1408    O PRO A 149      29.952 -12.211  14.372  0.00  0.00           O 0
+ATOM   1389    C ILE A 148      26.906  -9.885  14.482  0.00  0.00           C 0
+ATOM   1445    O PRO A 152      25.138 -13.655  16.980  0.43  1.07           O 0
+ATOM   1457   CA ASN A 153      25.023 -16.280  16.293  0.00  0.00           C 0
+ATOM   1471   CA VAL A 154      21.396 -15.358  15.679  0.00  0.00           C 0
+ATOM   1485    N THR A 155      19.840 -14.264  14.197  0.00  0.00           N 0
+ATOM   1474    O VAL A 154      21.805 -13.251  14.600  0.00  0.00           O 0
+ATOM   1383   OG SER A 147      21.957 -11.462  11.343  0.43  5.36           O 0
+ATOM   1473    C VAL A 154      21.028 -14.188  14.777  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0038
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8829
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4928
+HEADER 5  - Mean B-factor of pocket residues  : 0.2805
+HEADER 6  - Hydrophobicity Score              : 7.6667
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 348.5153
+HEADER 10 - Pocket volume (convex hull)       : 35.1742
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2308
+ATOM    367  CE2 TYR A 238      27.989   9.254 -26.184  0.00  0.00           C 0
+ATOM    280  NH1 ARG A 234      21.638   7.564 -23.194  0.41  3.28           N 0
+ATOM   1336    O ALA A 301      20.933   4.241 -26.581  0.82  9.64           O 0
+ATOM    274   CD ARG A 234      24.117   6.417 -22.492  0.00  0.00           C 0
+ATOM    370   OH TYR A 238      27.450   9.752 -28.458  0.00  0.00           O 0
+ATOM    261  NE2 HIS A 233      24.985   3.110 -25.560  0.58  3.28           N 0
+ATOM   1485  OD1 ASP A 310      22.116  12.324 -24.991  0.19  6.43           O 0
+ATOM    369   CZ TYR A 238      28.269   9.916 -27.371  0.00  0.00           C 0
+ATOM   2637   NZ LYS A 388      24.379  14.383 -24.058  0.67  9.84           N 0
+ATOM    277   NE ARG A 234      22.893   5.677 -22.789  0.00  0.00           N 0
+ATOM    279   CZ ARG A 234      21.736   6.243 -23.107  0.00  0.00           C 0
+ATOM   1957  CE2 TYR A 340      28.621  12.692 -22.709  0.00  0.00           C 0
+ATOM   2634   CE LYS A 388      24.928  15.154 -22.907  0.00  0.00           C 0
+ATOM   1960   OH TYR A 340      29.780  14.742 -22.337  0.43  6.43           O 0
+ATOM   2682    O GLY A 391      26.946  18.643 -23.719  0.28  7.50           O 0
+ATOM    271   CG ARG A 234      25.323   5.627 -22.881  0.00  0.00           C 0
+ATOM    257  CD2 HIS A 233      26.325   2.861 -25.688  0.00  0.00           C 0
+ATOM    264   CA ARG A 234      27.867   5.749 -22.988  0.00  0.00           C 0
+ATOM    339   CD ARG A 237      30.236   6.693 -28.617  0.00  0.00           C 0
+ATOM    365  CE1 TYR A 238      29.375  10.747 -27.459  0.00  0.00           C 0
+ATOM   1946    O TYR A 340      25.526   9.668 -21.511  0.74  2.14           O 0
+ATOM   1953  CD2 TYR A 340      28.209  11.436 -22.255  0.00  0.00           C 0
+ATOM    361  CD1 TYR A 238      30.191  10.931 -26.343  0.00  0.00           C 0
+TER
+END

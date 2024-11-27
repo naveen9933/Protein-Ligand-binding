@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0766
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0412
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5056
+HEADER 5  - Mean B-factor of pocket residues  : 0.1114
+HEADER 6  - Hydrophobicity Score              : 26.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.3888
+HEADER 10 - Pocket volume (convex hull)       : 4.4113
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2667  CG2 THR A1126      48.094 -13.161 -24.245  0.00  0.00           C 0
+ATOM   2696  NH1 ARG A1128      49.037 -16.059 -29.297  0.64  6.56           N 0
+ATOM   2856   OH TYR A1139      44.783 -10.820 -26.107  0.60  8.57           O 0
+ATOM   2472  CD2 LEU A1108      52.241 -12.858 -26.160  0.00  0.00           C 0
+ATOM   1234  NH1 ARG A1027      47.242  -7.285 -28.791  0.00  0.00           N 0
+ATOM   2665  OG1 THR A1126      49.148 -11.038 -23.691  0.88  3.21           O 0
+ATOM   2432   CB SER A1106      51.564  -8.583 -23.730  0.00  0.00           C 0
+ATOM   1198  ND2 ASN A1025      50.042  -5.483 -26.997  0.26  5.47           N 0
+ATOM   2389  CD1 LEU A1103      46.980  -6.840 -24.388  0.00  0.00           C 0
+ATOM   2431    O SER A1106      54.189 -10.212 -24.372  0.28  5.36           O 0
+ATOM   1237  NH2 ARG A1027      45.354  -8.115 -27.805  0.54  6.56           N 0
+ATOM   2851  CE1 TYR A1139      46.116 -10.272 -24.228  0.00  0.00           C 0
+ATOM   2426    N SER A1106      53.651  -7.402 -24.179  0.38  2.19           N 0
+TER
+END

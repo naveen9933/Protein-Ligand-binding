@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0539
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8765
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5449
+HEADER 5  - Mean B-factor of pocket residues  : 0.2162
+HEADER 6  - Hydrophobicity Score              : -18.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.1770
+HEADER 10 - Pocket volume (convex hull)       : 1.1638
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   1120   CG LYS A 313      18.914  15.028  40.694  0.00  0.00           C 0
+ATOM   1123   CD LYS A 313      20.266  14.577  41.145  0.00  0.00           C 0
+ATOM   1149    N PRO A 315      20.037  20.791  42.357  0.00  0.00           N 0
+ATOM   1137    C HIS A 314      19.395  19.831  43.053  0.00  0.00           C 0
+ATOM   1221   CG GLN A 319      22.674  14.042  45.645  0.00  0.00           C 0
+ATOM   1225  OE1 GLN A 319      20.679  14.602  44.402  0.70  2.14           O 0
+ATOM   2494   NZ LYS A 397      24.297  19.676  46.585  0.00  0.00           N 0
+ATOM   1129   NZ LYS A 313      22.561  14.045  40.400  0.13  5.47           N 0
+ATOM   1138    O HIS A 314      19.789  19.410  44.143  0.50  3.21           O 0
+ATOM   1150   CA PRO A 315      21.316  21.340  42.850  0.00  0.00           C 0
+ATOM   1157   CG PRO A 315      20.934  22.002  40.593  0.00  0.00           C 0
+ATOM   1126   CE LYS A 313      21.212  14.468  39.955  0.00  0.00           C 0
+ATOM   1218   CB GLN A 319      22.657  15.187  46.703  0.00  0.00           C 0
+ATOM   1135   CA HIS A 314      18.119  19.246  42.450  0.00  0.00           C 0
+ATOM   1160   CD PRO A 315      19.715  21.288  41.003  0.00  0.00           C 0
+ATOM   1116    O LYS A 313      16.711  17.254  41.115  0.69  5.36           O 0
+TER
+END

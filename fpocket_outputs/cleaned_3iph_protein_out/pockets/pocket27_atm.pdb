@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0670
+HEADER 1  - Drug Score                        : 0.0075
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9084
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4979
+HEADER 5  - Mean B-factor of pocket residues  : 0.2173
+HEADER 6  - Hydrophobicity Score              : 51.6000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 174.5097
+HEADER 10 - Pocket volume (convex hull)       : 1.7634
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8235
+ATOM   4158    N THR A 263      63.137   2.457  55.108  0.59  3.28           N 0
+ATOM   4163    O THR A 263      63.259   5.039  56.441  0.00  0.00           O 0
+ATOM   4164   CB THR A 263      65.416   2.934  56.089  0.00  0.00           C 0
+ATOM   4201   SD MET A 265      64.809   8.900  54.843  0.00  0.00           S 0
+ATOM   4154  CD2 LEU A 262      60.983   3.084  50.970  0.00  0.00           C 0
+ATOM   3678   CG LYS A 233      62.621   7.444  48.144  0.00  0.00           C 0
+ATOM   4202   CE MET A 265      63.090   9.231  54.715  0.00  0.00           C 0
+ATOM   4150  CD1 LEU A 262      59.281   4.828  51.688  0.00  0.00           C 0
+ATOM   3684   CE LYS A 233      63.243   5.206  47.365  0.00  0.00           C 0
+ATOM   3675   CB LYS A 233      62.884   8.927  48.116  0.00  0.00           C 0
+ATOM   3674    O LYS A 233      62.621  11.291  50.383  0.43  2.14           O 0
+ATOM   3740  CD1 LEU A 236      58.571   8.129  52.862  0.00  0.00           C 0
+ATOM   4145   CB LEU A 262      60.525   3.431  53.410  0.00  0.00           C 0
+ATOM   3671   CA LYS A 233      61.783   9.712  48.835  0.00  0.00           C 0
+ATOM   3735   CB LEU A 236      59.976  10.160  53.321  0.00  0.00           C 0
+TER
+END

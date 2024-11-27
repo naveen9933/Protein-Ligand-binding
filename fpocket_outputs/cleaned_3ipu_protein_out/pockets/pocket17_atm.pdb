@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0645
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0589
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6156
+HEADER 5  - Mean B-factor of pocket residues  : 0.1995
+HEADER 6  - Hydrophobicity Score              : 39.8889
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.0009
+HEADER 10 - Pocket volume (convex hull)       : 6.2249
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1380   CA THR A 292      26.897 -24.386  30.382  0.00  0.00           C 0
+ATOM   1424  CG2 ILE A 295      26.888 -23.380  24.716  0.00  0.00           C 0
+ATOM   1383    O THR A 292      26.296 -25.208  28.212  0.62  1.07           O 0
+ATOM   1361    O LYS A 291      26.595 -21.622  30.265  0.56  1.07           O 0
+ATOM   1386  OG1 THR A 292      28.648 -24.958  32.005  0.00  0.00           O 0
+ATOM   1388  CG2 THR A 292      28.527 -26.301  30.043  0.00  0.00           C 0
+ATOM   3823    O ILE A 442      29.213 -18.585  30.658  0.62  6.43           O 0
+ATOM   3438   OG SER A 418      29.424 -25.849  24.935  0.37  4.29           O 0
+ATOM   1365   CG LYS A 291      28.029 -20.711  33.223  0.00  0.00           C 0
+ATOM   1371   CE LYS A 291      30.406 -20.278  33.987  0.00  0.00           C 0
+ATOM   3839   CA TRP A 443      30.328 -17.112  28.605  0.00  0.00           C 0
+ATOM   3847  CD1 TRP A 443      28.166 -18.700  27.300  0.00  0.00           C 0
+ATOM   3842    O TRP A 443      32.646 -17.499  28.340  0.00  0.00           O 0
+ATOM   3492   OG SER A 422      33.834 -23.395  24.576  0.00  0.00           O 0
+ATOM   3477  ND1 HIS A 421      29.873 -20.655  23.393  0.00  0.00           N 0
+ATOM   3480  CE1 HIS A 421      29.344 -19.500  23.757  0.00  0.00           C 0
+ATOM   3485   CA SER A 422      34.199 -21.279  23.472  0.00  0.00           C 0
+ATOM   3538  CG2 VAL A 425      31.986 -17.062  23.774  0.00  0.00           C 0
+ATOM   3489   CB SER A 422      34.787 -22.380  24.366  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0662
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0611
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6411
+HEADER 5  - Mean B-factor of pocket residues  : 0.1658
+HEADER 6  - Hydrophobicity Score              : -2.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 314.3066
+HEADER 10 - Pocket volume (convex hull)       : 5.7591
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   1008   CG ARG A1013      47.847   4.818 -23.633  0.00  0.00           C 0
+ATOM   1014   NE ARG A1013      46.045   6.236 -24.378  0.74  3.28           N 0
+ATOM   1085   OG SER A1017      52.619   5.132 -27.339  0.00  0.00           O 0
+ATOM   1183   CB ALA A1024      49.045   2.244 -26.064  0.00  0.00           C 0
+ATOM   1029   CB LYS A1014      51.623   9.076 -22.596  0.00  0.00           C 0
+ATOM   1032   CG LYS A1014      52.387   9.940 -23.668  0.00  0.00           C 0
+ATOM   1020  NH2 ARG A1013      44.552   7.915 -24.860  0.00  0.00           N 0
+ATOM   1035   CD LYS A1014      52.336  11.468 -23.353  0.00  0.00           C 0
+ATOM   1011   CD ARG A1013      46.473   4.866 -24.170  0.00  0.00           C 0
+ATOM    950    O THR A1010      48.400   8.569 -20.900  0.66  5.36           O 0
+ATOM    951   CB THR A1010      45.428   9.379 -21.069  0.00  0.00           C 0
+ATOM    953  OG1 THR A1010      45.315  10.511 -20.221  0.00  0.00           O 0
+ATOM   1023    N LYS A1014      50.610   6.843 -22.163  0.00  0.00           N 0
+ATOM   1025   CA LYS A1014      51.705   7.563 -22.842  0.00  0.00           C 0
+ATOM   1082   CB SER A1017      52.519   4.858 -25.948  0.00  0.00           C 0
+ATOM   1152    O ASN A1022      52.522   3.962 -30.613  0.38  9.64           O 0
+ATOM   1177    N ALA A1024      50.797   1.646 -27.589  0.54  3.28           N 0
+TER
+END

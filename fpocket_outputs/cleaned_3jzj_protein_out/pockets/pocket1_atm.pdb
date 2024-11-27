@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     1:
+HEADER 0  - Pocket Score                      : 0.1008
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.5089
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.2726
+HEADER 5  - Mean B-factor of pocket residues  : 0.3827
+HEADER 6  - Hydrophobicity Score              : 33.5455
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4545
+HEADER 9  - Pocket volume (Monte Carlo)       : 168.1815
+HEADER 10 - Pocket volume (convex hull)       : 12.6399
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6842
+ATOM   5039    O VAL A 356       0.550  -4.394  32.481  0.37  1.07           O 0
+ATOM   2581   OH TYR A 189      -3.526  -5.603  33.624  0.62  5.36           O 0
+ATOM   3954   CB PRO A 286      -3.619  -3.588  30.265  0.00  0.00           C 0
+ATOM   5080   NE ARG A 358      -0.152  -8.551  28.478  0.00  0.00           N 0
+ATOM   5071   CB ARG A 358       0.434  -9.656  31.305  0.00  0.00           C 0
+ATOM   2629  OD1 ASP A 194      -3.215  -8.581  36.872  0.31  7.50           O 0
+ATOM   2642  CD1 LEU A 195      -5.186 -11.061  32.830  0.00  0.00           C 0
+ATOM   5100   CD PRO A 359       0.776 -11.958  33.519  0.00  0.00           C 0
+ATOM   5239   CZ PHE A 368      -5.079  -9.499  27.904  0.00  0.00           C 0
+ATOM   5237  CE2 PHE A 368      -4.694 -10.565  27.132  0.00  0.00           C 0
+ATOM   5077   CD ARG A 358       0.188  -9.922  28.893  0.00  0.00           C 0
+ATOM   5067   CA ARG A 358       1.355  -9.333  32.475  0.00  0.00           C 0
+ATOM   5177    O GLY A 364      -3.194 -14.391  28.028  0.00  0.00           O 0
+ATOM   2500  CD1 LEU A 185      -5.703  -6.572  30.830  0.00  0.00           C 0
+ATOM   5213  CD1 LEU A 367      -3.412 -14.928  31.776  0.00  0.00           C 0
+ATOM   5093    O PRO A 359       2.188 -13.127  30.488  0.65  1.07           O 0
+ATOM   5173   CA GLY A 364      -1.027 -15.377  28.222  0.00  0.00           C 0
+TER
+END

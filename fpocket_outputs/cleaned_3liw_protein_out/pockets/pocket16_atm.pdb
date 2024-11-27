@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.1046
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.1255
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5921
+HEADER 5  - Mean B-factor of pocket residues  : 0.3281
+HEADER 6  - Hydrophobicity Score              : 17.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 319.3086
+HEADER 10 - Pocket volume (convex hull)       : 9.3815
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2083
+ATOM   2745   NZ LYS A 186      13.319  29.803  42.154  0.00  0.00           N 0
+ATOM   2699   OH TYR A 185      11.051  30.235  39.362  0.00  0.00           O 0
+ATOM   2299  OE1 GLU A 159       5.967  25.974  40.013  0.00  0.00           O 0
+ATOM   2300  OE2 GLU A 159       5.829  28.152  39.746  0.48  9.64           O 0
+ATOM   2298   CD GLU A 159       6.119  27.012  39.328  0.00  0.00           C 0
+ATOM   2292   CB GLU A 159       7.997  26.146  37.898  0.00  0.00           C 0
+ATOM   2282  CD2 LEU A 158      12.883  25.890  36.960  0.00  0.00           C 0
+ATOM   2780  OE2 GLU A 188      15.153  25.901  40.077  0.67  7.50           O 0
+ATOM     66  NE2 GLN A  20      13.466  20.932  41.820  0.00  0.00           N 0
+ATOM     50    C GLY A  19      14.780  21.394  38.700  0.00  0.00           C 0
+ATOM   2263   CE MET A 157       8.172  20.426  37.599  0.00  0.00           C 0
+ATOM     51    O GLY A  19      15.148  21.500  39.866  0.48  8.57           O 0
+ATOM   2286    N GLU A 159       9.786  25.197  36.535  0.67  2.19           N 0
+ATOM     58   CB GLN A  20      12.309  19.575  39.768  0.00  0.00           C 0
+ATOM     61   CG GLN A  20      12.168  18.990  41.162  0.00  0.00           C 0
+ATOM   2779  OE1 GLU A 188      14.305  27.913  39.864  0.45  4.29           O 0
+ATOM   2291    O GLU A 159      10.102  27.990  37.026  0.00  0.00           O 0
+ATOM   2255    O MET A 157      12.211  21.173  36.313  0.88  1.07           O 0
+ATOM   2269   CA LEU A 158      11.397  23.680  35.544  0.00  0.00           C 0
+TER
+END

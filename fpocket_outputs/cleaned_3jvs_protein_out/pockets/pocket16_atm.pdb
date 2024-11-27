@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0412
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8929
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5512
+HEADER 5  - Mean B-factor of pocket residues  : 0.3292
+HEADER 6  - Hydrophobicity Score              : -24.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 230.0495
+HEADER 10 - Pocket volume (convex hull)       : 1.7864
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM   2701   CG ARG A 182       0.780  -8.368  40.328  0.00  0.00           C 0
+ATOM   2423   CG ASN A 165      -0.411  -6.683  34.369  0.00  0.00           C 0
+ATOM   2425  ND2 ASN A 165      -0.114  -7.668  33.532  0.00  3.28           N 0
+ATOM   2704   CD ARG A 182      -0.501  -8.631  41.114  0.00  0.00           C 0
+ATOM   2420   CB ASN A 165       0.620  -6.368  35.433  0.00  0.00           C 0
+ATOM   2710  NH1 ARG A 182      -3.318  -8.571  41.158  0.00  0.00           N 0
+ATOM   2707   NE ARG A 182      -1.321  -7.429  41.248  0.59  4.37           N 0
+ATOM   2419    O ASN A 165       3.188  -7.806  34.624  0.00  0.00           O 0
+ATOM   2709   CZ ARG A 182      -2.651  -7.429  41.265  0.00  0.00           C 0
+ATOM   2424  OD1 ASN A 165      -1.461  -6.045  34.299  0.55  7.50           O 0
+ATOM   2713  NH2 ARG A 182      -3.316  -6.288  41.388  0.00  0.00           N 0
+ATOM   2730  OE2 GLU A 183      -2.305  -3.139  38.158  0.00  0.00           O 0
+ATOM   2725   CG GLU A 183      -0.271  -4.064  38.974  0.00  0.00           C 0
+ATOM   2697    O ARG A 182       2.512  -6.383  38.134  0.50  2.14           O 0
+TER
+END

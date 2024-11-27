@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.1168
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9441
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6764
+HEADER 5  - Mean B-factor of pocket residues  : 0.2221
+HEADER 6  - Hydrophobicity Score              : 0.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.8519
+HEADER 10 - Pocket volume (convex hull)       : 17.2384
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM   7684    O ASP D  48      15.821  14.523 -23.738  0.64  4.29           O 0
+ATOM   7689  OD1 ASP D  48      18.613  10.731 -24.697  0.00  0.00           O 0
+ATOM   7727   CB SER D  51      18.075  17.037 -25.701  0.00  0.00           C 0
+ATOM   7681   CA ASP D  48      17.501  12.876 -23.301  0.00  0.00           C 0
+ATOM   7685   CB ASP D  48      16.969  11.446 -23.103  0.00  0.00           C 0
+ATOM   7669    O PRO D  47      19.118  15.157 -23.318  0.83  1.07           O 0
+ATOM   7730   OG SER D  51      17.998  17.542 -27.013  0.00  0.00           O 0
+ATOM   6833    O LYS C 144      23.951  13.784 -26.369  0.65  1.07           O 0
+ATOM   7670   CB PRO D  47      21.864  13.580 -22.540  0.00  0.00           C 0
+ATOM   6899   CB ALA C 147      24.565  12.341 -29.794  0.00  0.00           C 0
+ATOM   6837   CG LYS C 144      22.996   9.678 -25.084  0.00  0.00           C 0
+ATOM   6834   CB LYS C 144      23.416  11.092 -24.736  0.00  0.00           C 0
+ATOM   6897    C ALA C 147      24.572  14.874 -30.087  0.00  0.00           C 0
+ATOM   6903    N ILE C 148      24.211  15.500 -28.957  0.00  0.00           N 0
+ATOM   6898    O ALA C 147      24.263  15.275 -31.209  0.00  0.00           O 0
+ATOM   6911  CG1 ILE C 148      22.177  16.354 -26.825  0.00  0.00           C 0
+ATOM   6830   CA LYS C 144      24.561  11.589 -25.628  0.00  0.00           C 0
+ATOM   6905   CA ILE C 148      23.531  16.829 -28.943  0.00  0.00           C 0
+ATOM   6956   OG SER C 151      21.613  18.000 -32.077  0.00  0.00           O 0
+TER
+END

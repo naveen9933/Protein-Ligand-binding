@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0094
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8159
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6250
+HEADER 5  - Mean B-factor of pocket residues  : 0.3029
+HEADER 6  - Hydrophobicity Score              : -15.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 230.4056
+HEADER 10 - Pocket volume (convex hull)       : 3.4052
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   6757   CE LYS B 122      76.870  60.680 -32.852  0.00  0.00           C 0
+ATOM   6678    O ASP B 118      75.716  62.902 -29.758  0.64  1.07           O 0
+ATOM   6679   CB ASP B 118      78.558  64.581 -29.531  0.00  0.00           C 0
+ATOM   6738   NZ LYS B 121      73.239  67.833 -33.362  0.00  0.00           N 0
+ATOM   6735   CE LYS B 121      72.512  66.834 -32.523  0.00  0.00           C 0
+ATOM   6742    N LYS B 122      72.444  61.686 -30.185  0.00  0.00           N 0
+ATOM   6724    C LYS B 121      71.539  62.651 -30.015  0.00  0.00           C 0
+ATOM   6726   CB LYS B 121      72.654  64.901 -29.953  0.00  0.00           C 0
+ATOM   6751   CG LYS B 122      74.482  60.598 -32.026  0.00  0.00           C 0
+ATOM   6725    O LYS B 121      70.414  62.606 -30.510  0.32  8.57           O 0
+ATOM   6744   CA LYS B 122      72.171  60.505 -31.004  0.00  0.00           C 0
+ATOM   6796   CB ALA B 125      68.240  60.857 -33.057  0.00  0.00           C 0
+ATOM   6732   CD LYS B 121      72.492  67.222 -31.045  0.00  0.00           C 0
+ATOM   6675   CA ASP B 118      77.161  64.622 -28.881  0.00  0.00           C 0
+TER
+END

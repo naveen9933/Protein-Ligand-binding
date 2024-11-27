@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.1070
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1387
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5738
+HEADER 5  - Mean B-factor of pocket residues  : 0.6469
+HEADER 6  - Hydrophobicity Score              : -9.8889
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 339.9618
+HEADER 10 - Pocket volume (convex hull)       : 13.9027
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   2099  OE1 GLU A 134      27.926  34.650   5.256  0.00  0.00           O 0
+ATOM   1908   OG SER A 121      32.706  41.848   7.641  0.00  0.00           O 0
+ATOM   1905   CB SER A 121      31.362  41.860   8.089  0.00  0.00           C 0
+ATOM   1899    N SER A 121      31.732  40.104   9.770  0.43  3.28           N 0
+ATOM   2092   CB GLU A 134      27.567  32.089   6.078  0.00  0.00           C 0
+ATOM   2110   CG LYS A 135      28.943  33.093  11.008  0.00  0.00           C 0
+ATOM   2160   NZ LYS A 137      32.339  30.442   7.662  0.69  3.28           N 0
+ATOM   2101    N LYS A 135      28.015  31.056   9.012  0.00  0.00           N 0
+ATOM   2043  CG1 VAL A 131      26.839  37.406   8.729  0.00  0.00           C 0
+ATOM   1904    O SER A 121      28.870  41.349   9.385  0.63  3.21           O 0
+ATOM   1932  OD1 ASP A 123      27.582  43.531   6.251  0.73  4.29           O 0
+ATOM   2047  CG2 VAL A 131      25.034  38.367   7.288  0.00  0.00           C 0
+ATOM   1974   NZ LYS A 126      26.314  36.482   2.370  0.00  0.00           N 0
+ATOM   1962   CB LYS A 126      24.270  40.118   4.148  0.00  0.00           C 0
+ATOM   1954   OG SER A 125      26.278  43.209   3.125  0.57  6.43           O 0
+ATOM   1894   CA GLY A 120      32.844  38.293  10.927  0.00  0.00           C 0
+ATOM   2116   CE LYS A 135      29.066  35.225  12.338  0.00  0.00           C 0
+ATOM   2040    O VAL A 131      26.431  34.146   8.656  0.00  0.00           O 0
+ATOM   1968   CD LYS A 126      24.617  38.297   2.469  0.00  0.00           C 0
+TER
+END

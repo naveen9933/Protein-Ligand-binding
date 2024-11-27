@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : 0.0003
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8469
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5275
+HEADER 5  - Mean B-factor of pocket residues  : 0.3300
+HEADER 6  - Hydrophobicity Score              : -29.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 123.6390
+HEADER 10 - Pocket volume (convex hull)       : 1.0711
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   1720  OE1 GLU A 165      14.369  17.068   6.443  0.58  9.64           O 0
+ATOM   1713   CB GLU A 165      15.890  14.763   7.405  0.00  0.00           C 0
+ATOM   1727    O SER A 166      20.382  16.847   9.557  0.31  7.50           O 0
+ATOM   1722    N SER A 166      18.648  14.741   9.120  0.67  5.47           N 0
+ATOM   1335  OE1 GLU A 138      12.991  16.012   9.474  0.57  1.07           O 0
+ATOM   1288   CD LYS A 136      15.975  18.613  14.129  0.00  0.00           C 0
+ATOM   1739   CB ASP A 167      19.994  18.995  12.419  0.00  0.00           C 0
+ATOM   1726    C SER A 166      20.019  16.219  10.553  0.00  0.00           C 0
+ATOM   1285   CG LYS A 136      17.066  17.572  14.368  0.00  0.00           C 0
+ATOM   1331   CG GLU A 138      12.987  14.460  11.276  0.00  0.00           C 0
+ATOM   1712    O GLU A 165      17.175  13.212   9.861  0.83  1.07           O 0
+ATOM   1711    C GLU A 165      17.640  13.891   8.948  0.00  0.00           C 0
+ATOM   1724   CA SER A 166      19.273  14.899  10.424  0.00  0.00           C 0
+TER
+END

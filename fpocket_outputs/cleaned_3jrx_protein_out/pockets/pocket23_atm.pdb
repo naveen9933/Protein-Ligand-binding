@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0670
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7754
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5113
+HEADER 5  - Mean B-factor of pocket residues  : 0.5794
+HEADER 6  - Hydrophobicity Score              : 19.1250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 143.2352
+HEADER 10 - Pocket volume (convex hull)       : 2.8121
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM   2851   CG PRO A 425      -8.259   1.532 -15.943  0.00  0.00           C 0
+ATOM   2695   CG GLU A 410      -4.710   6.202 -17.425  0.00  0.00           C 0
+ATOM   2698   CD GLU A 410      -3.931   5.191 -18.258  0.00  0.00           C 0
+ATOM   2700  OE2 GLU A 410      -4.156   5.136 -19.491  0.00  0.00           O 0
+ATOM   2699  OE1 GLU A 410      -3.102   4.445 -17.684  0.00  0.00           O 0
+ATOM   2678  CG1 VAL A 409      -8.349   6.259 -15.588  0.00  0.00           C 0
+ATOM   2821    O SER A 423     -11.178   5.121 -16.804  0.00  0.00           O 0
+ATOM   2825   OG SER A 423     -11.471   3.540 -19.529  0.00  0.00           O 0
+ATOM   2691    O GLU A 410      -6.196   8.776 -17.353  0.64  4.29           O 0
+ATOM   2769   NZ LYS A 420      -7.884   6.872 -23.648  0.73  8.75           N 0
+ATOM   2816    N SER A 423     -12.338   6.452 -18.744  0.67  2.19           N 0
+ATOM   2717  CE3 TRP A 411      -8.875  10.681 -19.138  0.00  0.00           C 0
+ATOM   2721  CZ3 TRP A 411      -9.601  10.604 -20.318  0.00  0.00           C 0
+ATOM   2778    O ARG A 421     -12.373   8.251 -22.177  0.70  1.07           O 0
+ATOM   2805  CG1 ILE A 422     -11.329   8.921 -17.124  0.00  0.00           C 0
+ATOM   2799   CA ILE A 422     -12.342   8.783 -19.431  0.00  0.00           C 0
+TER
+END

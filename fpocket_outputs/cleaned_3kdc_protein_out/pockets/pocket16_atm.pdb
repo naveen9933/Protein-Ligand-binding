@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0878
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9653
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6217
+HEADER 5  - Mean B-factor of pocket residues  : 0.4325
+HEADER 6  - Hydrophobicity Score              : 18.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 6.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 369.8573
+HEADER 10 - Pocket volume (convex hull)       : 13.4088
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM   1708   CD ARG B   8      22.418  30.455  23.892  0.00  0.00           C 0
+ATOM   1702   CB ARG B   8      20.554  31.800  24.824  0.00  0.00           C 0
+ATOM   1745  CD1 LEU B  10      22.178  30.540  28.482  0.00  0.00           C 0
+ATOM   1714  NH1 ARG B   8      25.086  30.940  23.053  0.00  0.00           N 0
+ATOM   1376  NH2 ARG A  87      21.076  33.576  20.583  0.40  9.84           N 0
+ATOM   1696    N ARG B   8      20.297  34.224  24.455  0.57  1.09           N 0
+ATOM   1705   CG ARG B   8      21.294  31.415  23.572  0.00  0.00           C 0
+ATOM   1680   CB LYS B   7      21.325  36.948  25.290  0.00  0.00           C 0
+ATOM   1689   CE LYS B   7      21.741  37.403  28.571  0.00  0.00           C 0
+ATOM   1676   CA LYS B   7      20.490  36.619  24.048  0.00  0.00           C 0
+ATOM   1655    O TRP B   6      20.936  38.530  22.032  0.33  4.29           O 0
+ATOM   1701    O ARG B   8      19.045  33.548  26.891  0.45  2.14           O 0
+ATOM   1692   NZ LYS B   7      20.491  37.304  29.394  0.00  0.00           N 0
+ATOM   1740   CB LEU B  10      19.898  30.537  29.491  0.00  0.00           C 0
+ATOM   1928  OE1 GLU B  21      23.017  29.514  32.081  0.00  0.00           O 0
+ATOM   1739    O LEU B  10      17.903  31.946  31.304  0.63  9.64           O 0
+TER
+END

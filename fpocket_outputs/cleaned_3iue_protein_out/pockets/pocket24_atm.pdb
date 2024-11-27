@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0505
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6017
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4041
+HEADER 5  - Mean B-factor of pocket residues  : 0.1734
+HEADER 6  - Hydrophobicity Score              : -11.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 87.2596
+HEADER 10 - Pocket volume (convex hull)       : 0.9483
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   4602   CA ARG B  25     -11.443   0.318  16.222  0.00  0.00           C 0
+ATOM   4609   CG ARG B  25     -10.588   1.639  14.128  0.00  0.00           C 0
+ATOM   4662   CG ARG B  28     -11.336   4.568  18.825  0.00  0.00           C 0
+ATOM   6391   NE ARG B 151      -5.257   1.464  16.108  0.72  6.56           N 0
+ATOM   6397  NH2 ARG B 151      -6.633   0.289  14.703  0.65  2.19           N 0
+ATOM   6382   CB ARG B 151      -5.183   1.158  19.232  0.00  0.00           C 0
+ATOM   4600    N ARG B  25     -11.275  -0.932  16.983  0.00  0.00           N 0
+ATOM   4598   OG SER B  24      -9.586  -1.476  20.183  0.57  1.07           O 0
+ATOM   4665   CD ARG B  28     -10.507   5.025  20.011  0.00  0.00           C 0
+ATOM   6381    O ARG B 151      -6.780   1.703  21.566  0.55  3.21           O 0
+ATOM   4659   CB ARG B  28     -12.022   3.236  19.104  0.00  0.00           C 0
+ATOM   4594    O SER B  24     -12.128  -0.047  18.859  0.00  0.00           O 0
+TER
+END

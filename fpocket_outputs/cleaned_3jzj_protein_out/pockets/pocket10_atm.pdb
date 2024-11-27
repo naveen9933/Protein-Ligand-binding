@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0284
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8037
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4951
+HEADER 5  - Mean B-factor of pocket residues  : 0.1592
+HEADER 6  - Hydrophobicity Score              : 12.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 261.6640
+HEADER 10 - Pocket volume (convex hull)       : 5.2283
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0769
+ATOM   2099   CB LYS A 159     -21.571   7.394  37.949  0.00  0.00           C 0
+ATOM   3087   OG SER A 223     -25.207   3.896  35.210  0.00  0.00           O 0
+ATOM   2111   NZ LYS A 159     -23.616   4.320  39.378  0.69  5.47           N 0
+ATOM   3084   CB SER A 223     -26.459   3.681  35.867  0.00  0.00           C 0
+ATOM   2149    N ALA A 163     -24.315  11.696  34.098  0.00  0.00           N 0
+ATOM   2151   CA ALA A 163     -25.674  12.174  34.309  0.00  0.00           C 0
+ATOM   3083    O SER A 223     -27.835   5.454  34.001  0.00  0.00           O 0
+ATOM   2155   CB ALA A 163     -26.063  12.001  35.749  0.00  0.00           C 0
+ATOM   3111    N ALA A 225     -25.075   5.562  32.240  0.00  0.00           N 0
+ATOM   2199   CB THR A 166     -27.608  12.219  29.955  0.00  0.00           C 0
+ATOM   2201  OG1 THR A 166     -26.635  11.211  29.632  0.68  2.14           O 0
+ATOM   3095   CB LYS A 224     -28.535   5.398  31.072  0.00  0.00           C 0
+ATOM   2203  CG2 THR A 166     -28.942  11.868  29.239  0.00  0.00           C 0
+ATOM   3113   CA ALA A 225     -23.808   6.316  32.139  0.00  0.00           C 0
+ATOM   3117   CB ALA A 225     -22.933   6.097  33.379  0.00  0.00           C 0
+ATOM   3094    O LYS A 224     -26.008   6.586  30.484  0.68  3.21           O 0
+ATOM   2098    O LYS A 159     -22.809  10.050  36.325  0.70  2.14           O 0
+ATOM   2144    O ALA A 162     -24.437  11.958  31.867  0.60  1.07           O 0
+TER
+END

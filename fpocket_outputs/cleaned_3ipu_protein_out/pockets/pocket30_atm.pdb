@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.1402
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9685
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5107
+HEADER 5  - Mean B-factor of pocket residues  : 0.3959
+HEADER 6  - Hydrophobicity Score              : 55.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 152.2669
+HEADER 10 - Pocket volume (convex hull)       : 1.5149
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM   3488    O SER A 422      35.814 -19.522  23.221  0.68  7.50           O 0
+ATOM   3879   CB VAL A 445      37.539 -17.326  30.874  0.00  0.00           C 0
+ATOM   3842    O TRP A 443      32.646 -17.499  28.340  0.00  0.00           O 0
+ATOM   3489   CB SER A 422      34.787 -22.380  24.366  0.00  0.00           C 0
+ATOM   3534  CG1 VAL A 425      33.764 -16.006  25.238  0.00  0.00           C 0
+ATOM   3873    N VAL A 445      35.467 -16.009  30.439  0.72  1.09           N 0
+ATOM   3485   CA SER A 422      34.199 -21.279  23.472  0.00  0.00           C 0
+ATOM   3603   CD ARG A 429      38.284 -13.570  26.108  0.00  0.00           C 0
+ATOM   3881  CG1 VAL A 445      38.423 -16.251  30.270  0.00  0.00           C 0
+ATOM   3552  CD1 PHE A 426      40.535 -16.741  24.666  0.00  0.00           C 0
+ATOM   3548   CB PHE A 426      38.800 -17.415  22.981  0.00  0.00           C 0
+ATOM   3542    N PHE A 426      36.493 -16.564  22.801  0.00  0.00           N 0
+ATOM   3544   CA PHE A 426      37.899 -16.184  22.955  0.00  0.00           C 0
+TER
+END

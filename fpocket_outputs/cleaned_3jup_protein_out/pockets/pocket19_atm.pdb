@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0833
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9382
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5887
+HEADER 5  - Mean B-factor of pocket residues  : 0.2422
+HEADER 6  - Hydrophobicity Score              : 1.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 168.1323
+HEADER 10 - Pocket volume (convex hull)       : 2.4866
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM   2660    O VAL B  17      42.810   3.736  55.483  0.00  0.00           O 0
+ATOM   3891  OE1 GLU B  93      45.801   5.472  62.322  0.00  0.00           O 0
+ATOM   2663  CG1 VAL B  17      45.757   3.476  54.324  0.00  0.00           C 0
+ATOM   3892  OE2 GLU B  93      44.706   7.327  61.858  0.71  9.64           O 0
+ATOM   2703   CD ARG B  20      43.666   3.196  61.002  0.00  0.00           C 0
+ATOM   2709  NH1 ARG B  20      44.688   0.638  60.004  0.79  3.28           N 0
+ATOM   2667  CG2 VAL B  17      46.597   1.271  55.279  0.00  0.00           C 0
+ATOM   2700   CG ARG B  20      42.447   3.855  60.372  0.00  0.00           C 0
+ATOM   2657   CA VAL B  17      44.147   1.795  55.351  0.00  0.00           C 0
+ATOM   2697   CB ARG B  20      42.050   3.267  59.000  0.00  0.00           C 0
+ATOM   2724   CG GLN B  21      43.146   8.210  55.393  0.00  0.00           C 0
+ATOM   2729  NE2 GLN B  21      44.392   6.883  53.726  0.76  7.66           N 0
+ATOM   2715    N GLN B  21      41.207   5.639  57.096  0.00  0.00           N 0
+ATOM   2721   CB GLN B  21      42.175   7.118  55.434  0.00  0.00           C 0
+ATOM   2717   CA GLN B  21      41.342   7.024  56.721  0.00  0.00           C 0
+ATOM   2774   CD ARG B  24      42.471  10.191  61.286  0.00  0.00           C 0
+TER
+END

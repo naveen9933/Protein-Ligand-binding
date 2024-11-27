@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0860
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0820
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5792
+HEADER 5  - Mean B-factor of pocket residues  : 0.5531
+HEADER 6  - Hydrophobicity Score              : -10.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 321.4094
+HEADER 10 - Pocket volume (convex hull)       : 10.1446
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   1954  OD1 ASP A 123       4.313  78.448   6.233  0.00  0.00           O 0
+ATOM   1930   OG SER A 121       5.229  75.883   7.661  0.00  0.00           O 0
+ATOM   1927   CB SER A 121       4.696  74.655   8.129  0.00  0.00           C 0
+ATOM   1990   CD LYS A 126      -0.219  78.312   3.710  0.00  0.00           C 0
+ATOM   1996   NZ LYS A 126      -1.947  76.537   3.491  0.79  7.66           N 0
+ATOM   2065  CG1 VAL A 131      -1.203  76.919   8.845  0.00  0.00           C 0
+ATOM   2121  OE1 GLU A 134      -3.242  74.867   4.617  0.00  0.00           O 0
+ATOM   1926    O SER A 121       2.896  76.497   9.515  0.65  1.07           O 0
+ATOM   2132   CG LYS A 135      -3.836  72.687  11.296  0.00  0.00           C 0
+ATOM   2182   NZ LYS A 137      -5.017  68.802   7.161  0.78  9.84           N 0
+ATOM   2125   CA LYS A 135      -5.960  71.938  10.066  0.00  0.00           C 0
+ATOM   2123    N LYS A 135      -6.151  72.913   9.002  0.00  0.00           N 0
+ATOM   2114   CB GLU A 134      -5.481  73.873   6.105  0.00  0.00           C 0
+ATOM   1916   CA GLY A 120       2.492  72.059  11.566  0.00  0.00           C 0
+ATOM   2138   CE LYS A 135      -2.015  74.223  12.140  0.00  0.00           C 0
+ATOM   2062    O VAL A 131      -4.671  75.745   8.555  0.00  0.00           O 0
+ATOM   1921    N SER A 121       3.576  73.599  10.047  0.50  6.56           N 0
+TER
+END

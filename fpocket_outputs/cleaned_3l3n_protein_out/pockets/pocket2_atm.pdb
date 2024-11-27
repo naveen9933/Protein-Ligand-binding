@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0328
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0194
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6625
+HEADER 5  - Mean B-factor of pocket residues  : 0.4660
+HEADER 6  - Hydrophobicity Score              : 13.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 329.7023
+HEADER 10 - Pocket volume (convex hull)       : 8.7376
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.5000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   4719    N PRO A 333      25.867   6.479 128.950  0.00  0.00           N 0
+ATOM   4730   CD PRO A 333      24.814   5.628 129.545  0.00  0.00           C 0
+ATOM   4727   CG PRO A 333      23.905   6.628 130.233  0.00  0.00           C 0
+ATOM   4694    O VAL A 331      25.627   5.400 125.167  0.35  5.36           O 0
+ATOM   4411  NH2 ARG A 313      24.682  14.465 125.924  0.00  0.00           N 0
+ATOM   4723    O PRO A 333      27.411   9.596 129.491  0.00  0.00           O 0
+ATOM   4801   CG GLN A 337      28.225  12.142 131.814  0.00  0.00           C 0
+ATOM   4806  NE2 GLN A 337      26.564  11.133 133.278  0.59  5.47           N 0
+ATOM   4724   CB PRO A 333      24.834   7.749 130.611  0.00  0.00           C 0
+ATOM   4778  CD1 TRP A 336      26.039  10.053 125.795  0.00  0.00           C 0
+ATOM   4781  NE1 TRP A 336      25.678   9.574 124.562  0.39  2.19           N 0
+ATOM   4493   NZ LYS A 317      22.626  12.106 123.616  0.00  0.00           N 0
+ATOM   4720   CA PRO A 333      25.736   7.867 129.389  0.00  0.00           C 0
+ATOM   4773    O TRP A 336      29.898  13.834 127.697  0.18  8.57           O 0
+ATOM   4794   CA GLN A 337      30.142  12.891 130.314  0.00  0.00           C 0
+ATOM   4408  NH1 ARG A 313      26.516  15.832 126.214  0.00  0.00           N 0
+ATOM   4772    C TRP A 336      29.522  12.688 127.963  0.00  0.00           C 0
+ATOM   4774   CB TRP A 336      27.430  11.988 126.767  0.00  0.00           C 0
+TER
+END

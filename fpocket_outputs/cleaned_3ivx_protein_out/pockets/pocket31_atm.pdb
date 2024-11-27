@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.1496
+HEADER 1  - Drug Score                        : 0.0083
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.1102
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5350
+HEADER 5  - Mean B-factor of pocket residues  : 0.2522
+HEADER 6  - Hydrophobicity Score              : 49.6364
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3636
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.6173
+HEADER 10 - Pocket volume (convex hull)       : 7.0152
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3846
+ATOM   4858    N THR B  39      -2.344 -10.583  29.843  0.65  1.09           N 0
+ATOM   4848    O PRO B  38      -1.681  -9.036  31.333  0.41  9.64           O 0
+ATOM   4862    C THR B  39      -1.559 -12.895  29.996  0.00  0.00           C 0
+ATOM   4881   CG MET B  40       1.720 -14.467  30.092  0.00  0.00           C 0
+ATOM   4847    C PRO B  38      -2.146  -9.331  30.231  0.00  0.00           C 0
+ATOM   4863    O THR B  39      -1.655 -12.943  28.775  0.66  4.29           O 0
+ATOM   4849   CB PRO B  38      -1.189  -7.588  28.725  0.00  0.00           C 0
+ATOM   6483  CE1 PHE B 157       1.548  -4.900  30.954  0.00  0.00           C 0
+ATOM   6224  CG2 VAL B 143       3.988  -5.786  27.469  0.00  0.00           C 0
+ATOM   6597  NE2 GLN B 164       5.081  -7.199  33.509  0.73  9.84           N 0
+ATOM   6479  CD1 PHE B 157       1.435  -4.902  32.351  0.00  0.00           C 0
+ATOM   6280  CD1 LEU B 146      -0.015  -8.336  24.841  0.00  0.00           C 0
+ATOM   6204  CG1 VAL B 142       4.851  -9.526  25.217  0.00  0.00           C 0
+ATOM   5280    O PHE B  67       0.856 -14.563  26.760  0.71  3.21           O 0
+ATOM   5369  OE1 GLN B  72       5.883 -12.050  27.872  0.61  4.29           O 0
+ATOM   6208  CG2 VAL B 142       3.652 -10.369  23.155  0.00  0.00           C 0
+ATOM   5287  CD2 PHE B  67       1.636 -13.673  23.205  0.00  0.00           C 0
+ATOM   5370  NE2 GLN B  72       6.124 -12.694  30.020  0.79  2.19           N 0
+ATOM   4860   CA THR B  39      -2.114 -11.716  30.759  0.00  0.00           C 0
+ATOM   6155  CG1 VAL B 139       7.138  -7.577  29.490  0.00  0.00           C 0
+TER
+END

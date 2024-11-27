@@ -1,0 +1,63 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.2118
+HEADER 1  - Drug Score                        : 0.1996
+HEADER 2  - Number of alpha spheres           :    72
+HEADER 3  - Mean alpha-sphere radius          : 3.8372
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4218
+HEADER 5  - Mean B-factor of pocket residues  : 0.1358
+HEADER 6  - Hydrophobicity Score              : 26.6250
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.0625
+HEADER 9  - Pocket volume (Monte Carlo)       : 738.7028
+HEADER 10 - Pocket volume (convex hull)       : 231.8522
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 34.7442
+HEADER 13 - Number of apolar alpha sphere     :    43
+HEADER 14 - Proportion of apolar alpha sphere : 0.5972
+ATOM   3976   OG SER A 477       9.795  21.707  39.861  0.49  5.36           O 0
+ATOM   4033   CD LYS A 480      13.939  24.329  41.351  0.00  0.00           C 0
+ATOM   4017  CD2 LEU A 479      13.146  19.965  37.640  0.00  0.00           C 0
+ATOM    514   CG GLU A 257      11.642  25.983  34.121  0.00  0.00           C 0
+ATOM    518  OE1 GLU A 257       9.687  27.095  35.147  0.52  4.29           O 0
+ATOM   3942    O PHE A 475       6.901  26.009  39.838  0.43  8.57           O 0
+ATOM   4027   CB LYS A 480      11.779  24.047  42.608  0.00  0.00           C 0
+ATOM   4062    O THR A 482       9.026  26.374  46.809  0.79  6.43           O 0
+ATOM   3300   CG MET A 432       9.469  29.702  45.148  0.00  0.00           C 0
+ATOM   3304   CE MET A 432      10.432  30.999  47.352  0.00  0.00           C 0
+ATOM    312  CD1 LEU A 244      13.794  28.583  49.600  0.00  0.00           C 0
+ATOM    444    O GLU A 253      15.482  28.718  35.850  0.47  4.29           O 0
+ATOM    443    C GLU A 253      15.898  29.356  36.838  0.00  0.00           C 0
+ATOM   4036   CE LYS A 480      15.314  25.035  41.376  0.00  0.00           C 0
+ATOM    445   CB GLU A 253      17.586  28.278  38.324  0.00  0.00           C 0
+ATOM   4023   CA LYS A 480      11.589  22.750  43.428  0.00  0.00           C 0
+ATOM   4057    N THR A 482       9.137  23.577  47.204  0.00  0.00           N 0
+ATOM   4065  OG1 THR A 482      10.354  23.596  49.749  0.00  0.00           O 0
+ATOM   4063   CB THR A 482       9.941  24.822  49.172  0.00  0.00           C 0
+ATOM   4043    N ASN A 481      10.117  21.941  45.170  0.57  1.09           N 0
+ATOM    454    N MET A 254      15.082  30.042  37.630  0.00  0.00           N 0
+ATOM   4007    O LEU A 479      13.523  20.808  43.373  0.00  0.00           O 0
+ATOM   4053  OD1 ASN A 481      10.370  20.311  47.549  0.00  0.00           O 0
+ATOM   4030   CG LYS A 480      13.231  24.560  42.605  0.00  0.00           C 0
+ATOM    466   SD MET A 254      11.565  31.078  40.888  0.00  0.00           S 0
+ATOM   4026    O LYS A 480       9.302  23.351  43.643  0.72  1.07           O 0
+ATOM   3931    O CYS A 474       5.492  28.540  41.471  0.65  5.36           O 0
+ATOM    456   CA MET A 254      13.672  30.112  37.293  0.00  0.00           C 0
+ATOM   3297   CB MET A 432      10.077  30.821  44.314  0.00  0.00           C 0
+ATOM   3291    N MET A 432       8.239  31.777  42.915  0.00  0.00           N 0
+ATOM   3273   CB ARG A 431       6.962  32.545  40.143  0.00  0.00           C 0
+ATOM    511   CB GLU A 257      12.766  27.068  34.142  0.00  0.00           C 0
+ATOM   3959   CA ALA A 476       6.273  24.538  42.049  0.00  0.00           C 0
+ATOM    403   CB ALA A 250      16.281  30.372  43.422  0.00  0.00           C 0
+ATOM   4039   NZ LYS A 480      16.286  24.488  42.403  0.00  0.00           N 0
+ATOM    361  ND2 ASN A 247      19.017  30.167  46.614  0.00  0.00           N 0
+ATOM    306    O LEU A 244      14.693  32.364  48.206  0.24  3.21           O 0
+ATOM    467   CE MET A 254      12.850  31.701  42.069  0.00  0.00           C 0
+ATOM    463   CG MET A 254      12.559  30.069  39.697  0.00  0.00           C 0
+ATOM   3285  NH1 ARG A 431       7.235  29.890  36.373  0.54  1.09           N 0
+ATOM   3276   CG ARG A 431       6.255  31.873  39.000  0.00  0.00           C 0
+TER
+END

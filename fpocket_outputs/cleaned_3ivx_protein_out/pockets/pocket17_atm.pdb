@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0490
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9785
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6450
+HEADER 5  - Mean B-factor of pocket residues  : 0.4335
+HEADER 6  - Hydrophobicity Score              : 34.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.0653
+HEADER 10 - Pocket volume (convex hull)       : 8.6288
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   4299   CA ALA B   2     -17.281  -5.746   7.345  0.00  0.00           C 0
+ATOM   4315  CG1 ILE B   3     -16.342  -3.094  11.480  0.00  0.00           C 0
+ATOM   4307    N ILE B   3     -17.037  -5.389   9.747  0.41  2.19           N 0
+ATOM   4295    N ALA B   2     -16.345  -5.602   6.191  0.00  0.00           N 0
+ATOM   4577    O ASP B  22     -12.868  -2.725  14.654  0.78  1.07           O 0
+ATOM   4578   CB ASP B  22     -11.719  -5.041  12.694  0.00  0.00           C 0
+ATOM   4582  OD1 ASP B  22      -9.929  -4.445  11.189  0.67  6.43           O 0
+ATOM   4626   NE ARG B  25      -9.372   0.706  12.195  0.71  1.09           N 0
+ATOM   4623   CD ARG B  25     -10.434   1.622  12.623  0.00  0.00           C 0
+ATOM   4322  CD1 ILE B   3     -16.978  -1.868  12.077  0.00  0.00           C 0
+ATOM   4635    N ALA B  26     -13.709  -0.150  15.721  0.00  0.00           N 0
+ATOM   4574   CA ASP B  22     -11.121  -4.064  13.726  0.00  0.00           C 0
+ATOM   4301    C ALA B   2     -16.552  -6.005   8.669  0.00  0.00           C 0
+ATOM   4302    O ALA B   2     -15.581  -6.757   8.715  0.10  5.36           O 0
+ATOM   4581   CG ASP B  22     -10.848  -5.244  11.456  0.00  0.00           C 0
+ATOM   4583  OD2 ASP B  22     -11.092  -6.234  10.739  0.62  4.29           O 0
+ATOM   4699  CD1 LEU B  29     -14.388   4.113  13.402  0.00  0.00           C 0
+ATOM   4637   CA ALA B  26     -15.181   0.021  15.660  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0388
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7921
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5436
+HEADER 5  - Mean B-factor of pocket residues  : 0.1791
+HEADER 6  - Hydrophobicity Score              : 2.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 220.4049
+HEADER 10 - Pocket volume (convex hull)       : 7.3343
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2526   CG PRO A 172      21.069  -8.183  29.955  0.00  0.00           C 0
+ATOM   3116  OD1 ASP A 209      25.051 -11.292  33.317  0.00  0.00           O 0
+ATOM   3060  CD1 LEU A 206      24.074  -5.760  28.296  0.00  0.00           C 0
+ATOM   3087    O TRP A 208      23.250  -7.010  33.573  0.00  0.00           O 0
+ATOM   3086    C TRP A 208      23.854  -7.488  34.535  0.00  0.00           C 0
+ATOM   3054    O LEU A 206      27.704  -4.977  32.413  0.38  8.57           O 0
+ATOM   3084   CA TRP A 208      24.727  -6.606  35.436  0.00  0.00           C 0
+ATOM   3055   CB LEU A 206      25.497  -4.867  30.150  0.00  0.00           C 0
+ATOM   3106    N ASP A 209      23.799  -8.780  34.848  0.00  0.00           N 0
+ATOM   3223   CD GLU A 217      28.347  -9.085  38.830  0.00  0.00           C 0
+ATOM   3225  OE2 GLU A 217      29.409  -9.732  38.943  0.00  0.00           O 0
+ATOM   3117  OD2 ASP A 209      24.847 -12.705  34.987  0.00  0.00           O 0
+ATOM   3224  OE1 GLU A 217      27.220  -9.578  39.059  0.67  5.36           O 0
+ATOM   3220   CG GLU A 217      28.435  -7.632  38.395  0.00  0.00           C 0
+ATOM   3072    O PRO A 207      26.898  -5.074  36.179  0.47  5.36           O 0
+TER
+END

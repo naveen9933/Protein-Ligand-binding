@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.1213
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9655
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6145
+HEADER 5  - Mean B-factor of pocket residues  : 0.1333
+HEADER 6  - Hydrophobicity Score              : 2.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.7120
+HEADER 10 - Pocket volume (convex hull)       : 9.3897
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   8071  NH2 ARG B 267       4.835  -0.995  44.596  0.54  4.37           N 0
+ATOM   6509  OE1 GLU B 159       1.938  -0.663  43.663  0.50  7.50           O 0
+ATOM   8339   CB ALA B 284       5.260   2.719  48.299  0.00  0.00           C 0
+ATOM   8068  NH1 ARG B 267       5.143   1.281  44.808  0.41  3.28           N 0
+ATOM   6922   CB PRO B 185      -2.198  -1.756  44.904  0.00  0.00           C 0
+ATOM   6931    N THR B 186      -0.428  -4.518  44.187  0.63  2.19           N 0
+ATOM   6976   NE ARG B 188       1.473  -6.614  49.267  0.00  0.00           N 0
+ATOM   6936    O THR B 186      -1.555  -6.097  46.303  0.14  4.29           O 0
+ATOM   8333    N ALA B 284       6.421   0.561  48.186  0.00  0.00           N 0
+ATOM   6982  NH2 ARG B 188       3.539  -6.089  48.406  0.70  1.09           N 0
+ATOM   6939  OG1 THR B 186       2.015  -5.812  43.703  0.65  2.14           O 0
+ATOM   8305    O ASN B 282       6.299  -4.217  47.162  0.45  3.21           O 0
+ATOM   6937   CB THR B 186       1.102  -6.370  44.651  0.00  0.00           C 0
+ATOM   8322  CG1 ILE B 283       5.687  -1.650  50.511  0.00  0.00           C 0
+ATOM   8316   CA ILE B 283       7.003  -1.785  48.298  0.00  0.00           C 0
+ATOM   8329  CD1 ILE B 283       5.372  -2.358  51.857  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0692
+HEADER 1  - Drug Score                        : 0.0037
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8725
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5721
+HEADER 5  - Mean B-factor of pocket residues  : 0.0968
+HEADER 6  - Hydrophobicity Score              : 16.9091
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6364
+HEADER 9  - Pocket volume (Monte Carlo)       : 271.2972
+HEADER 10 - Pocket volume (convex hull)       : 13.1996
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5600
+ATOM   2577  CD2 LEU A 190      28.166  -5.574  29.181  0.00  0.00           C 0
+ATOM   1828   CD ARG A 142      27.344  -0.388  27.390  0.00  0.00           C 0
+ATOM   1822   CB ARG A 142      25.190  -0.005  28.679  0.00  0.00           C 0
+ATOM   6178  OD2 ASP B 182      28.064   2.552  30.144  0.00  0.00           O 0
+ATOM   2518  NE2 GLN A 186      30.866  -2.146  27.919  0.00  0.00           N 0
+ATOM   1768    C HIS A 139      24.721  -4.348  23.910  0.00  0.00           C 0
+ATOM   1792    N ARG A 141      22.231  -1.837  25.141  0.63  1.09           N 0
+ATOM   1797    O ARG A 141      21.447  -1.794  28.280  0.29  5.36           O 0
+ATOM   2573  CD1 LEU A 190      27.294  -4.206  27.280  0.00  0.00           C 0
+ATOM   1825   CG ARG A 142      25.887  -0.819  27.558  0.00  0.00           C 0
+ATOM   1749    O PHE A 138      22.476  -6.834  25.593  0.00  0.00           O 0
+ATOM   2014  CG2 VAL A 153      22.139  -6.675  30.118  0.00  0.00           C 0
+ATOM   1860   CA PRO A 144      24.248   1.068  34.791  0.00  0.00           C 0
+ATOM   1949   CB ASP A 149      21.838  -3.169  34.854  0.00  0.00           C 0
+ATOM   1845    O ILE A 143      21.894   0.069  33.870  0.00  0.00           O 0
+ATOM   1840    N ILE A 143      22.440   0.338  30.859  0.64  3.28           N 0
+ATOM   1844    C ILE A 143      22.434   0.928  33.196  0.00  0.00           C 0
+ATOM   1859    N PRO A 144      23.547   1.567  33.602  0.69  1.09           N 0
+ATOM   1864   CB PRO A 144      25.656   1.651  34.639  0.00  0.00           C 0
+ATOM   1818   CA ARG A 142      23.710  -0.310  28.876  0.00  0.00           C 0
+ATOM   1948    O ASP A 149      20.352  -4.563  32.204  0.75  1.07           O 0
+TER
+END

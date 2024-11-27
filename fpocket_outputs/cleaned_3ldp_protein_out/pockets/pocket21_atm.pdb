@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.1282
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.8275
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4775
+HEADER 5  - Mean B-factor of pocket residues  : 0.4393
+HEADER 6  - Hydrophobicity Score              : -13.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 233.5162
+HEADER 10 - Pocket volume (convex hull)       : 12.5395
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1424   NZ LYS A 118      39.107   6.691  20.311  0.55  6.56           N 0
+ATOM    939  OE2 GLU A  89      37.401   1.823  21.738  0.47  3.21           O 0
+ATOM   1406    N LYS A 118      36.182   5.963  16.472  0.55  1.09           N 0
+ATOM    937   CD GLU A  89      38.197   1.148  21.039  0.00  0.00           C 0
+ATOM   1614    O GLN A 129      39.425   5.459  14.637  0.65  4.29           O 0
+ATOM   1412   CB LYS A 118      37.803   7.540  17.460  0.00  0.00           C 0
+ATOM    930    O GLU A  89      37.194   1.471  15.961  0.55  1.07           O 0
+ATOM   1376    O PRO A 116      34.040   3.055  18.824  0.69  4.29           O 0
+ATOM    938  OE1 GLU A  89      39.436   1.364  20.952  0.00  0.00           O 0
+ATOM    950  OD1 ASN A  90      40.963   0.605  15.648  0.65  5.36           O 0
+ATOM   1642    N ASP A 131      42.871   2.109  14.711  0.71  3.28           N 0
+ATOM   1623  NE2 GLN A 129      42.095   8.943  17.185  0.81  6.56           N 0
+ATOM   1719  OG1 THR A 137      46.140   6.015  16.276  0.66  9.64           O 0
+ATOM   1628   CA VAL A 130      41.358   3.735  13.713  0.00  0.00           C 0
+ATOM    931   CB GLU A  89      37.850   0.278  18.795  0.00  0.00           C 0
+ATOM   1648   CB ASP A 131      44.165   0.675  16.184  0.00  0.00           C 0
+ATOM    951  ND2 ASN A  90      40.837  -1.284  16.883  0.22  5.47           N 0
+ATOM   1653  OD2 ASP A 131      45.558  -0.775  17.445  0.59  3.21           O 0
+ATOM   1618   CG GLN A 129      42.135   8.064  14.927  0.00  0.00           C 0
+ATOM   1630    C VAL A 130      42.787   3.234  13.999  0.00  0.00           C 0
+TER
+END

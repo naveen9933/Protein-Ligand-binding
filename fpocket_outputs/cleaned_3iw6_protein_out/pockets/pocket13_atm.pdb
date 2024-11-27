@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0239
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6000
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3623
+HEADER 5  - Mean B-factor of pocket residues  : 0.5274
+HEADER 6  - Hydrophobicity Score              : 34.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 124.4920
+HEADER 10 - Pocket volume (convex hull)       : 2.5299
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   4033  OE1 GLN A 264     -14.470  37.945 -16.395  0.36  7.50           O 0
+ATOM   3992    O LEU A 262     -18.696  34.883 -18.547  0.45  3.21           O 0
+ATOM   3964    O GLN A 260     -16.191  34.908 -21.519  0.57  7.50           O 0
+ATOM   3945    O ILE A 259     -16.216  31.818 -19.260  0.63  4.29           O 0
+ATOM   3680    O PRO A 242     -12.503  33.129 -13.984  0.57  2.14           O 0
+ATOM   3752  CD1 LEU A 247     -10.984  32.931 -17.791  0.00  0.00           C 0
+ATOM   4029   CG GLN A 264     -16.283  37.152 -15.040  0.00  0.00           C 0
+ATOM   3961   CA GLN A 260     -14.603  33.154 -21.161  0.00  0.00           C 0
+ATOM   3968   CG GLN A 260     -12.131  33.472 -21.608  0.00  0.00           C 0
+ATOM   3973  NE2 GLN A 260     -10.607  35.345 -21.807  0.00  0.00           N 0
+ATOM   3951  CG2 ILE A 259     -14.001  30.048 -17.881  0.00  0.00           C 0
+ATOM   3668   CB THR A 241     -17.144  32.467 -13.370  0.00  0.00           C 0
+ATOM   3670  OG1 THR A 241     -17.153  33.851 -12.990  0.63  1.07           O 0
+TER
+END

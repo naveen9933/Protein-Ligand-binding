@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0348
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6622
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4334
+HEADER 5  - Mean B-factor of pocket residues  : 0.4196
+HEADER 6  - Hydrophobicity Score              : -6.4286
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 134.3431
+HEADER 10 - Pocket volume (convex hull)       : 2.9692
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0526
+ATOM   8269    N LEU B 280       9.472 -12.665  44.170  0.83  3.28           N 0
+ATOM   6529   NZ LYS B 160       5.271 -11.772  41.013  0.45  5.47           N 0
+ATOM   8231    O ARG B 278       9.840 -16.697  42.299  0.60  5.36           O 0
+ATOM   7084   OG SER B 196       4.404 -16.034  41.655  0.65  3.21           O 0
+ATOM   8278   CG LEU B 280      10.399 -11.302  41.521  0.00  0.00           C 0
+ATOM   7112   NE ARG B 198       8.097 -17.766  38.747  0.39  3.28           N 0
+ATOM   8244  NH1 ARG B 278      14.561 -13.549  39.884  0.71  3.28           N 0
+ATOM   8232   CB ARG B 278      12.847 -16.999  41.504  0.00  0.00           C 0
+ATOM   8235   CG ARG B 278      13.675 -15.774  41.808  0.00  0.00           C 0
+ATOM   8284  CD2 LEU B 280      11.793 -11.744  41.797  0.00  0.00           C 0
+ATOM   7118  NH2 ARG B 198       9.413 -16.703  37.186  0.59  4.37           N 0
+ATOM   7115  NH1 ARG B 198      10.395 -18.011  38.793  0.44  6.56           N 0
+ATOM   6012  OE1 GLU B 128      13.500 -11.685  38.645  0.42  2.14           O 0
+ATOM   8280  CD1 LEU B 280      10.370 -10.277  40.357  0.00  0.00           C 0
+ATOM   7114   CZ ARG B 198       9.302 -17.497  38.247  0.00  0.00           C 0
+ATOM   6543  OD1 ASP B 161       6.981  -9.940  38.201  0.31  9.64           O 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.0200
+HEADER 1  - Drug Score                        : 0.0044
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7394
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4866
+HEADER 5  - Mean B-factor of pocket residues  : 0.1557
+HEADER 6  - Hydrophobicity Score              : 22.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 232.0929
+HEADER 10 - Pocket volume (convex hull)       : 8.1211
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM   5554    O LYS A 411      17.886  -3.853  39.119  0.61  3.21           O 0
+ATOM   3041    O ILE A 254      15.793  -0.295  39.212  0.60  3.21           O 0
+ATOM   5561   CD LYS A 411      13.730  -3.468  38.546  0.00  0.00           C 0
+ATOM   3027   CB PRO A 253      18.561  -1.253  42.673  0.00  0.00           C 0
+ATOM   5567   NZ LYS A 411      11.789  -2.009  39.102  0.00  0.00           N 0
+ATOM   5564   CE LYS A 411      13.113  -2.084  38.418  0.00  0.00           C 0
+ATOM   3057   CA ARG A 255      15.592   2.348  40.034  0.00  0.00           C 0
+ATOM   3060    O ARG A 255      13.244   1.842  39.878  0.46  5.36           O 0
+ATOM   6014  OE1 GLU A 441      14.207   3.518  47.516  0.00  0.00           O 0
+ATOM   4600   SD MET A 349      18.718   2.049  46.363  0.00  0.00           S 0
+ATOM   3026    O PRO A 253      19.672   0.708  40.390  0.44  3.21           O 0
+ATOM   3061   CB ARG A 255      15.839   3.835  40.267  0.00  0.00           C 0
+ATOM   3064   CG ARG A 255      14.796   4.470  41.169  0.00  0.00           C 0
+ATOM   3230  CD1 ILE A 263      17.319   5.661  44.255  0.00  0.00           C 0
+ATOM   3223  CG1 ILE A 263      18.401   6.069  43.263  0.00  0.00           C 0
+ATOM   3221   CB ILE A 263      19.819   5.999  43.837  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0059
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6059
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4222
+HEADER 5  - Mean B-factor of pocket residues  : 0.2839
+HEADER 6  - Hydrophobicity Score              : 33.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 121.8505
+HEADER 10 - Pocket volume (convex hull)       : 3.4497
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   3548   CB ALA B  74      20.344  15.616  67.094  0.00  0.00           C 0
+ATOM   3544   CA ALA B  74      19.870  15.700  68.567  0.00  0.00           C 0
+ATOM   3490    O LEU B  70      19.418  12.237  67.194  0.56  2.14           O 0
+ATOM   3064  NH2 ARG B  41      25.755  13.540  68.554  0.04  7.66           N 0
+ATOM   3067    N HIS B  42      23.159  12.717  62.764  0.53  1.09           N 0
+ATOM   3491   CB LEU B  70      20.517   9.193  66.360  0.00  0.00           C 0
+ATOM   3542    N ALA B  74      19.034  14.523  68.888  0.00  0.00           N 0
+ATOM   3137  CE2 PHE B  45      25.720   9.160  65.324  0.00  0.00           C 0
+ATOM   3058   NE ARG B  41      26.774  13.915  66.533  0.00  0.00           N 0
+ATOM   3049   CB ARG B  41      25.502  14.627  64.064  0.00  0.00           C 0
+ATOM   3537  CD2 HIS B  73      20.317  12.250  72.136  0.00  0.00           C 0
+ATOM   3601   OG SER B  77      22.494  16.924  72.680  0.54  7.50           O 0
+ATOM   3598   CB SER B  77      21.253  17.026  72.100  0.00  0.00           C 0
+ATOM   3500  CD2 LEU B  70      22.037   8.715  68.413  0.00  0.00           C 0
+ATOM   3069   CA HIS B  42      22.604  11.379  62.749  0.00  0.00           C 0
+ATOM   3073   CB HIS B  42      21.113  11.348  63.138  0.00  0.00           C 0
+TER
+END

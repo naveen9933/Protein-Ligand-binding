@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0407
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0770
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7102
+HEADER 5  - Mean B-factor of pocket residues  : 0.3027
+HEADER 6  - Hydrophobicity Score              : 5.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.7187
+HEADER 10 - Pocket volume (convex hull)       : 8.0800
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   2029   CG PRO A1082      24.019 -10.664  -3.600  0.00  0.00           C 0
+ATOM   2032   CD PRO A1082      24.141 -11.740  -4.647  0.00  0.00           C 0
+ATOM   1926    O TYR A1073      31.025 -14.160  -5.462  0.09  9.64           O 0
+ATOM   2009    O GLY A1080      26.294 -15.114  -4.839  0.41  1.07           O 0
+ATOM   1931  CD1 TYR A1073      27.010 -12.446  -7.393  0.00  0.00           C 0
+ATOM   1935  CE1 TYR A1073      25.848 -11.939  -7.885  0.00  0.00           C 0
+ATOM   2022   CA PRO A1082      23.322 -12.711  -2.562  0.00  0.00           C 0
+ATOM   1997  OG1 THR A1079      28.025 -16.994  -1.440  0.00  0.00           O 0
+ATOM   2026   CB PRO A1082      23.477 -11.201  -2.384  0.00  0.00           C 0
+ATOM   2085   NZ LYS A1085      25.067 -15.482   1.114  0.00  0.00           N 0
+ATOM   2021    N PRO A1082      23.642 -12.939  -3.967  0.00  0.00           N 0
+ATOM   1923   CA TYR A1073      30.012 -13.181  -7.435  0.00  0.00           C 0
+ATOM   1335   CB PRO A1034      32.973  -9.012  -5.397  0.00  0.00           C 0
+ATOM   1334    O PRO A1034      32.005  -6.124  -5.597  0.44  7.50           O 0
+ATOM   1910    O VAL A1072      30.471 -10.687  -8.483  0.56  5.36           O 0
+ATOM   1331   CA PRO A1034      32.604  -8.187  -6.611  0.00  0.00           C 0
+ATOM   1925    C TYR A1073      31.186 -13.680  -6.609  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : -0.0704
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8894
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4638
+HEADER 5  - Mean B-factor of pocket residues  : 0.1573
+HEADER 6  - Hydrophobicity Score              : 18.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.3985
+HEADER 10 - Pocket volume (convex hull)       : 3.2870
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM   9866   CB ASN A 616      13.474  56.747 -25.811  0.00  0.00           C 0
+ATOM  10520   OG SER A 657       8.884  62.330 -22.778  0.00  0.00           O 0
+ATOM   9942  OE1 GLN A 620      15.746  59.977 -24.926  0.58  7.50           O 0
+ATOM   9871  ND2 ASN A 616      12.014  57.452 -27.563  0.00  0.00           N 0
+ATOM   9814   CZ PHE A 613       8.962  58.463 -20.720  0.00  0.00           C 0
+ATOM   9880   CB PHE A 617      14.006  55.310 -20.739  0.00  0.00           C 0
+ATOM   9801    O PHE A 613      11.620  54.842 -23.164  0.00  0.00           O 0
+ATOM   9874    N PHE A 617      14.463  55.545 -23.102  0.74  1.09           N 0
+ATOM   9806  CD1 PHE A 613       8.300  57.720 -22.969  0.00  0.00           C 0
+ATOM  10516    O SER A 657       6.299  61.510 -23.953  0.69  6.43           O 0
+ATOM   9730   CG PRO A 608       5.897  57.547 -26.706  0.00  0.00           C 0
+ATOM   9810  CE1 PHE A 613       8.512  58.763 -22.063  0.00  0.00           C 0
+ATOM   9876   CA PHE A 617      14.972  55.798 -21.791  0.00  0.00           C 0
+ATOM   9886  CD2 PHE A 617      13.918  56.746 -18.693  0.00  0.00           C 0
+TER
+END

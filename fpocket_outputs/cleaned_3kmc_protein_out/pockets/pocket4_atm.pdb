@@ -1,0 +1,49 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0215
+HEADER 1  - Drug Score                        : 0.0077
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 3.8672
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6315
+HEADER 5  - Mean B-factor of pocket residues  : 0.2485
+HEADER 6  - Hydrophobicity Score              : 20.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 342.1847
+HEADER 10 - Pocket volume (convex hull)       : 41.8957
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.2000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM   1892   CB GLU B 427      58.355  17.902  51.765  0.00  0.00           C 0
+ATOM   1933   NZ LYS B 432      58.788  21.849  46.341  0.44  8.75           N 0
+ATOM   1889   CA GLU B 427      59.261  19.092  52.144  0.00  0.00           C 0
+ATOM   1887    N GLU B 427      60.297  19.301  51.127  0.52  2.19           N 0
+ATOM   2044  NE2 HIS B 444      53.003  20.413  51.632  0.76  7.66           N 0
+ATOM   2043  CE1 HIS B 444      53.849  19.671  52.349  0.00  0.00           C 0
+ATOM   2012    N SER B 441      49.615  25.285  49.130  0.52  1.09           N 0
+ATOM   2002    O ALA B 439      50.086  25.713  45.536  0.00  0.00           O 0
+ATOM   2006   CA VAL B 440      51.161  26.722  47.935  0.00  0.00           C 0
+ATOM   2018   OG SER B 441      49.721  22.940  50.653  0.66  7.50           O 0
+ATOM   2017   CB SER B 441      48.478  23.345  50.102  0.00  0.00           C 0
+ATOM   2074  ND2 ASN B 447      54.462  25.778  51.372  0.77  2.19           N 0
+ATOM   2042  CD2 HIS B 444      53.170  21.717  52.036  0.00  0.00           C 0
+ATOM   2073  OD1 ASN B 447      52.414  25.251  52.127  0.00  0.00           O 0
+ATOM   1976  CD2 TYR B 436      56.134  26.309  43.924  0.00  0.00           C 0
+ATOM   1993    O ILE B 438      52.759  27.151  44.195  0.00  0.00           O 0
+ATOM   1930   CG LYS B 432      57.610  24.595  47.149  0.00  0.00           C 0
+ATOM   1996  CG2 ILE B 438      51.743  24.490  41.907  0.00  0.00           C 0
+ATOM   1978  CE2 TYR B 436      56.668  25.245  43.200  0.00  0.00           C 0
+ATOM   2009   CB VAL B 440      52.347  27.273  48.780  0.00  0.00           C 0
+ATOM   2040   CG HIS B 444      54.115  21.707  53.009  0.00  0.00           C 0
+ATOM   1921   CA GLY B 431      58.446  23.152  51.768  0.00  0.00           C 0
+ATOM   2041  ND1 HIS B 444      54.546  20.409  53.201  0.00  0.00           N 0
+ATOM   1994   CB ILE B 438      52.981  25.382  41.624  0.00  0.00           C 0
+ATOM   1997  CD1 ILE B 438      54.052  23.754  39.879  0.00  0.00           C 0
+ATOM   1924    N LYS B 432      57.933  24.809  50.086  0.00  0.00           N 0
+ATOM   2010  CG1 VAL B 440      53.672  27.110  48.037  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.1694
+HEADER 1  - Drug Score                        : 0.3292
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1274
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5675
+HEADER 5  - Mean B-factor of pocket residues  : 0.2501
+HEADER 6  - Hydrophobicity Score              : 38.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 356.8745
+HEADER 10 - Pocket volume (convex hull)       : 23.3339
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7000
+ATOM   1371   CG GLN A  92      -9.363   5.445  10.962  0.00  0.00           C 0
+ATOM   1376  NE2 GLN A  92      -7.529   4.003  11.448  0.66  7.66           N 0
+ATOM   1979   CZ PHE A 131      -5.835   9.303  15.086  0.00  0.00           C 0
+ATOM   1823  CG1 VAL A 121      -9.199   5.520  15.925  0.00  0.00           C 0
+ATOM   1975  CE1 PHE A 131      -5.236  10.252  14.223  0.00  0.00           C 0
+ATOM    991  OD1 ASN A  67      -6.672   3.747   8.562  0.00  0.00           O 0
+ATOM   1025  OE2 GLU A  69      -7.886   6.511   4.386  0.00  0.00           O 0
+ATOM   1020   CG GLU A  69      -9.965   6.669   5.568  0.00  0.00           C 0
+ATOM   1351  CG1 ILE A  91     -10.309   9.804  11.296  0.00  0.00           C 0
+ATOM   1354  CG2 ILE A  91     -10.627   8.617  13.537  0.00  0.00           C 0
+ATOM   1368   CB GLN A  92     -10.525   5.357   9.929  0.00  0.00           C 0
+ATOM   1348    O ILE A  91     -12.432   7.975   9.683  0.73  2.14           O 0
+ATOM   1017   CB GLU A  69     -11.317   7.259   5.474  0.00  0.00           C 0
+ATOM   1031    O PHE A  70     -13.886  10.775   7.703  0.55  4.29           O 0
+ATOM   1024  OE1 GLU A  69      -9.376   7.933   3.623  0.00  0.00           O 0
+ATOM    830  CD1 LEU A  57     -13.646  11.407   3.801  0.00  0.00           C 0
+ATOM   1358  CD1 ILE A  91      -9.503  11.065  11.508  0.00  0.00           C 0
+ATOM   1068  OD1 ASP A  72     -11.827  13.426  11.681  0.50  2.14           O 0
+ATOM   1069  OD2 ASP A  72     -12.780  14.665  10.153  0.36  5.36           O 0
+ATOM   1023   CD GLU A  69      -9.016   7.067   4.444  0.00  0.00           C 0
+TER
+END

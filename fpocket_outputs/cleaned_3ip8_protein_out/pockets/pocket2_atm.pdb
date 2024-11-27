@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0497
+HEADER 1  - Drug Score                        : 0.0083
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0093
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6593
+HEADER 5  - Mean B-factor of pocket residues  : 0.2689
+HEADER 6  - Hydrophobicity Score              : 3.3750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 232.7552
+HEADER 10 - Pocket volume (convex hull)       : 6.0868
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.8182
+ATOM   1686  CD1 LEU A 122       1.804  -0.565  18.229  0.00  0.00           C 0
+ATOM   1886   CB ALA A 135      -2.169  -2.202  17.704  0.00  0.00           C 0
+ATOM   2030   CB PRO A 145       1.227  -4.242  16.160  0.00  0.00           C 0
+ATOM   2066   CB CYS A 148       2.966  -1.632  22.448  0.00  0.00           C 0
+ATOM   1814   CB ASN A 131      -1.024   1.975  22.410  0.00  0.00           C 0
+ATOM   1778  OD1 ASP A 128      -0.810   1.137  26.360  0.36  4.29           O 0
+ATOM   1831   CG GLU A 132      -5.433  -0.872  23.016  0.00  0.00           C 0
+ATOM   1777   CG ASP A 128      -1.716   1.067  27.238  0.00  0.00           C 0
+ATOM   1836  OE2 GLU A 132      -6.171  -1.460  25.183  0.69  5.36           O 0
+ATOM   2069   SG CYS A 148       2.469   0.097  22.649  0.00  0.00           S 0
+ATOM   1774   CB ASP A 128      -3.124   1.530  26.872  0.00  0.00           C 0
+ATOM   2059    O GLY A 147       4.679  -3.212  20.095  0.00  0.00           O 0
+ATOM   2058    C GLY A 147       4.652  -3.889  21.128  0.00  0.00           C 0
+ATOM   1813    O ASN A 131      -2.404   0.836  19.691  0.00  0.00           O 0
+ATOM   1824   CA GLU A 132      -4.770   0.069  20.774  0.00  0.00           C 0
+ATOM   1812    C ASN A 131      -2.784   1.417  20.710  0.00  0.00           C 0
+ATOM   2053    N GLY A 147       4.493  -5.723  19.674  0.71  2.19           N 0
+ATOM   2055   CA GLY A 147       4.601  -5.395  21.072  0.00  0.00           C 0
+ATOM   1822    N GLU A 132      -3.920   1.124  21.318  0.00  0.00           N 0
+TER
+END

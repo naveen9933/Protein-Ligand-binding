@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0065
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0942
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5633
+HEADER 5  - Mean B-factor of pocket residues  : 0.1680
+HEADER 6  - Hydrophobicity Score              : 29.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.7094
+HEADER 10 - Pocket volume (convex hull)       : 8.6274
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM  10230  CD2 LEU B 324      10.757  17.637  66.491  0.00  0.00           C 0
+ATOM  10157    O ASP B 320       6.456  17.343  66.338  0.00  0.00           O 0
+ATOM  10158   CB ASP B 320       6.071  14.266  67.252  0.00  0.00           C 0
+ATOM  10162  OD1 ASP B 320       5.549  13.821  69.531  0.66  5.36           O 0
+ATOM  10021   NZ LYS B 310       6.564  17.000  73.053  0.00  0.00           N 0
+ATOM  10197   CB TRP B 323       6.389  19.841  69.132  0.00  0.00           C 0
+ATOM   9896  CE2 PHE B 302      12.767  21.574  70.138  0.00  0.00           C 0
+ATOM  10196    O TRP B 323       8.619  21.440  67.707  0.76  2.14           O 0
+ATOM   9960   CG LYS B 307       9.899  18.949  78.208  0.00  0.00           C 0
+ATOM   9966   CE LYS B 307      11.778  17.340  78.704  0.00  0.00           C 0
+ATOM   9905    O GLU B 303      11.797  20.768  76.583  0.36  3.21           O 0
+ATOM   9943  CG1 VAL B 306       8.133  20.887  73.059  0.00  0.00           C 0
+ATOM   9941   CB VAL B 306       9.245  21.796  73.571  0.00  0.00           C 0
+ATOM   9902   CA GLU B 303      13.720  20.897  75.156  0.00  0.00           C 0
+ATOM   9898   CZ PHE B 302      11.830  22.457  69.611  0.00  0.00           C 0
+TER
+END

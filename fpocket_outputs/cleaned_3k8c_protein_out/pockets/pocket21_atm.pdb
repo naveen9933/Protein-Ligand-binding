@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0562
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9036
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7042
+HEADER 5  - Mean B-factor of pocket residues  : 0.2752
+HEADER 6  - Hydrophobicity Score              : 0.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 245.4656
+HEADER 10 - Pocket volume (convex hull)       : 18.2015
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM   9224  CG1 ILE D 148      31.528  32.514 -27.027  0.00  0.00           C 0
+ATOM   5376  OD1 ASP C  48      35.002  38.190 -25.235  0.00  0.00           O 0
+ATOM   9212   CB ALA D 147      29.554  35.990 -30.659  0.00  0.00           C 0
+ATOM   9146    O LYS D 144      29.849  35.126 -27.074  0.64  1.07           O 0
+ATOM   9269   OG SER D 151      32.651  30.829 -32.139  0.67  8.57           O 0
+ATOM   9218   CA ILE D 148      30.593  31.672 -29.235  0.00  0.00           C 0
+ATOM   9211    O ALA D 147      30.261  33.054 -31.665  0.55  4.29           O 0
+ATOM   5356    O PRO C  47      34.300  33.922 -23.489  0.75  1.07           O 0
+ATOM   9216    N ILE D 148      29.899  32.950 -29.449  0.00  0.00           N 0
+ATOM   9210    C ALA D 147      29.708  33.480 -30.660  0.00  0.00           C 0
+ATOM   5368   CA ASP C  48      36.047  36.160 -23.556  0.00  0.00           C 0
+ATOM   5414   CB SER C  51      35.899  31.982 -25.510  0.00  0.00           C 0
+ATOM   5417   OG SER C  51      36.165  31.472 -26.792  0.00  0.00           O 0
+ATOM   5372   CB ASP C  48      36.575  37.618 -23.529  0.00  0.00           C 0
+ATOM   5371    O ASP C  48      37.978  34.707 -23.606  0.67  7.50           O 0
+ATOM   9150   CG LYS D 144      30.566  39.351 -26.191  0.00  0.00           C 0
+ATOM   9153   CD LYS D 144      31.733  39.829 -25.391  0.00  0.00           C 0
+ATOM   9156   CE LYS D 144      32.302  41.111 -25.987  0.00  0.00           C 0
+ATOM   9147   CB LYS D 144      30.153  37.954 -25.786  0.00  0.00           C 0
+TER
+END

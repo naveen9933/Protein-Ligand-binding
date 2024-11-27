@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.1214
+HEADER 1  - Drug Score                        : 0.0106
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8312
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4992
+HEADER 5  - Mean B-factor of pocket residues  : 0.2981
+HEADER 6  - Hydrophobicity Score              : 18.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 262.1206
+HEADER 10 - Pocket volume (convex hull)       : 6.5413
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.1429
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM   3357    O THR A 242      22.230 -16.695  -0.896  0.51  4.29           O 0
+ATOM   3418   CB ALA A 246      20.466 -20.198  -1.061  0.00  0.00           C 0
+ATOM    313   CG PRO A  41      15.502 -16.278  -1.084  0.00  0.00           C 0
+ATOM   3362  CG2 THR A 242      22.896 -15.072  -3.808  0.00  0.00           C 0
+ATOM   3408  CG2 THR A 245      18.468 -15.235   1.065  0.00  0.00           C 0
+ATOM    310   CB PRO A  41      14.696 -17.527  -1.079  0.00  0.00           C 0
+ATOM   3414   CA ALA A 246      19.661 -19.759   0.151  0.00  0.00           C 0
+ATOM   3464  OE1 GLU A 249      15.379 -22.538  -0.709  0.00  0.00           O 0
+ATOM   3412    N ALA A 246      20.170 -18.477   0.674  0.00  0.00           N 0
+ATOM    256    O ALA A  37      16.140 -12.756  -0.251  0.00  0.00           O 0
+ATOM   3360  OG1 THR A 242      23.607 -12.872  -3.029  0.39  7.50           O 0
+ATOM   3354   CA THR A 242      23.346 -14.585  -1.317  0.00  0.00           C 0
+ATOM   3406  OG1 THR A 245      20.341 -14.169   2.143  0.85  2.14           O 0
+ATOM   3342   CG LEU A 241      22.935 -10.860   1.754  0.00  0.00           C 0
+ATOM    257   CB ALA A  37      17.513  -9.952  -0.947  0.00  0.00           C 0
+ATOM   3404   CB THR A 245      19.954 -15.325   1.391  0.00  0.00           C 0
+ATOM   3348  CD2 LEU A 241      22.936  -9.362   1.521  0.00  0.00           C 0
+TER
+END

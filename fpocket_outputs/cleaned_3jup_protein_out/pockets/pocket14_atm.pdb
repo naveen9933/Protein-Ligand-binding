@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0668
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8804
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6130
+HEADER 5  - Mean B-factor of pocket residues  : 0.1783
+HEADER 6  - Hydrophobicity Score              : 0.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 347.0399
+HEADER 10 - Pocket volume (convex hull)       : 34.5984
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 3.2000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM    461    O ALA A  37      51.737  -8.539  91.697  0.86  1.07           O 0
+ATOM    514    O LYS A  40      55.421  -5.781  90.306  0.56  6.43           O 0
+ATOM    533   CA ARG A  41      52.877  -4.997  89.595  0.00  0.00           C 0
+ATOM    513    C LYS A  40      54.522  -5.945  91.129  0.00  0.00           C 0
+ATOM    515   CB LYS A  40      55.519  -7.915  92.286  0.00  0.00           C 0
+ATOM    462   CB ALA A  37      50.926 -11.608  91.164  0.00  0.00           C 0
+ATOM    385    O HIS A  32      46.462 -11.574  86.292  0.51  5.36           O 0
+ATOM    410    N ARG A  34      46.757 -10.666  89.485  0.60  1.09           N 0
+ATOM    398   CA THR A  33      47.753  -9.551  87.604  0.00  0.00           C 0
+ATOM    415    O ARG A  34      47.633 -11.833  91.786  0.78  6.43           O 0
+ATOM    416   CB ARG A  34      44.944 -12.094  90.191  0.00  0.00           C 0
+ATOM    458   CA ALA A  37      51.200 -10.835  92.439  0.00  0.00           C 0
+ATOM    521   CD LYS A  40      57.025  -9.673  93.298  0.00  0.00           C 0
+ATOM    334   CG GLN A  29      52.358  -9.404  83.756  0.00  0.00           C 0
+ATOM    330    O GLN A  29      49.267  -8.627  84.223  0.58  2.14           O 0
+ATOM    386   CB HIS A  32      46.413 -11.379  83.338  0.00  0.00           C 0
+ATOM    338  OE1 GLN A  29      54.297  -9.160  85.153  0.00  0.00           O 0
+ATOM    406  CG2 THR A  33      49.437  -8.590  89.217  0.00  0.00           C 0
+ATOM    404  OG1 THR A  33      49.739  -8.304  86.857  0.70  1.07           O 0
+ATOM    327   CA GLN A  29      50.429  -8.881  82.169  0.00  0.00           C 0
+TER
+END

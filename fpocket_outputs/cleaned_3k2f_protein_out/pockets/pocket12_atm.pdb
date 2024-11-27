@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.1168
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8124
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6775
+HEADER 5  - Mean B-factor of pocket residues  : 0.2792
+HEADER 6  - Hydrophobicity Score              : 17.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 178.2953
+HEADER 10 - Pocket volume (convex hull)       : 3.2621
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3103    C GLU A 205      -2.474   7.429  24.910  0.00  0.00           C 0
+ATOM   2025    O VAL A 135      -2.088  11.675  20.601  0.61  2.14           O 0
+ATOM   3120   CB CYS A 206      -4.211   9.170  22.538  0.00  0.00           C 0
+ATOM   3104    O GLU A 205      -2.571   8.207  25.882  0.62  7.50           O 0
+ATOM   3095  CD2 LEU A 204       1.921   9.512  20.480  0.00  0.00           C 0
+ATOM   2041    O GLN A 136      -1.548  15.062  23.601  0.00  0.00           O 0
+ATOM   2040    C GLN A 136      -2.204  14.474  22.729  0.00  0.00           C 0
+ATOM   2058    O GLN A 137      -4.758  11.722  24.224  0.81  1.07           O 0
+ATOM   2038   CA GLN A 136      -1.669  14.348  21.303  0.00  0.00           C 0
+ATOM   3099    N GLU A 205      -0.410   6.748  23.694  0.00  0.00           N 0
+ATOM   3086   CB LEU A 204       0.001   7.844  20.617  0.00  0.00           C 0
+ATOM   2053    N GLN A 137      -3.400  13.927  22.959  0.00  0.00           N 0
+ATOM   2070    N PRO A 138      -4.274  12.567  26.251  0.59  1.09           N 0
+ATOM   2075   CB PRO A 138      -4.270  11.644  28.416  0.00  0.00           C 0
+ATOM   2081   CD PRO A 138      -3.930  13.643  27.197  0.00  0.00           C 0
+ATOM   2071   CA PRO A 138      -4.507  11.289  26.942  0.00  0.00           C 0
+ATOM   2057    C GLN A 137      -4.399  12.665  24.911  0.00  0.00           C 0
+TER
+END

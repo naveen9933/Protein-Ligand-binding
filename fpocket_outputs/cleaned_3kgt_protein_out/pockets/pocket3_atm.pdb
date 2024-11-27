@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2042
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7164
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4431
+HEADER 5  - Mean B-factor of pocket residues  : 0.0684
+HEADER 6  - Hydrophobicity Score              : 29.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 149.3122
+HEADER 10 - Pocket volume (convex hull)       : 6.3359
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0833
+ATOM   1652   OG SER A 117      22.698  40.145  47.367  0.77  1.07           O 0
+ATOM   6863   OG SER D 117      22.636  44.980  51.030  0.68  2.14           O 0
+ATOM   6753  CD2 LEU D 110      25.116  42.139  52.041  0.00  0.00           C 0
+ATOM   6860   CB SER D 117      22.318  45.672  49.845  0.00  0.00           C 0
+ATOM   1574   OG SER A 112      29.912  40.819  47.569  0.61  2.14           O 0
+ATOM   1620   OG SER A 115      26.042  39.098  50.916  0.74  1.07           O 0
+ATOM   6785   OG SER D 112      30.084  43.262  48.728  0.73  2.14           O 0
+ATOM   1532    O LEU A 110      26.087  38.149  44.949  0.52  1.07           O 0
+ATOM   1616    O SER A 115      28.083  37.120  48.443  0.00  0.00           O 0
+ATOM   6743    O LEU D 110      26.527  46.444  51.457  0.00  0.00           O 0
+ATOM   6747   CG LEU D 110      26.030  43.141  52.738  0.00  0.00           C 0
+ATOM   6854    N SER D 117      24.190  47.240  49.706  0.00  0.00           N 0
+ATOM   6831   OG SER D 115      26.439  45.541  45.268  0.86  2.14           O 0
+ATOM   6827    O SER D 115      28.706  47.186  47.906  0.82  1.07           O 0
+ATOM   6835   CA TYR D 116      26.185  47.996  48.599  0.00  0.00           C 0
+ATOM   1542  CD2 LEU A 110      25.314  42.584  44.248  0.00  0.00           C 0
+ATOM   5140   OG SER C 117      20.572  44.925  47.367  0.52  8.57           O 0
+ATOM   5137   CB SER C 117      21.077  45.577  46.213  0.00  0.00           C 0
+TER
+END

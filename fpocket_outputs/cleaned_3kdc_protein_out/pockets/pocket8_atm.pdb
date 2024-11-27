@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0249
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0022
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5148
+HEADER 5  - Mean B-factor of pocket residues  : 0.2493
+HEADER 6  - Hydrophobicity Score              : 34.1429
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.7084
+HEADER 10 - Pocket volume (convex hull)       : 9.8302
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1850    N GLY B  17      15.788  17.984  42.921  0.00  0.00           N 0
+ATOM   2579  CG2 ILE B  63       8.145  18.313  41.123  0.00  0.00           C 0
+ATOM   1843    N GLY B  16      14.859  16.965  40.467  0.00  0.00           N 0
+ATOM   1845   CA GLY B  16      15.496  16.079  41.443  0.00  0.00           C 0
+ATOM   2564  CD1 ILE B  62      10.110  11.707  36.323  0.00  0.00           C 0
+ATOM   2568    N ILE B  63       8.310  15.787  38.246  0.63  3.28           N 0
+ATOM   2537    O GLN B  61       6.153  12.697  37.341  0.40  6.43           O 0
+ATOM   2179   CG PRO B  39      11.764  10.005  39.910  0.00  0.00           C 0
+ATOM   2551   CA ILE B  62       8.309  14.205  36.410  0.00  0.00           C 0
+ATOM   2583  CD1 ILE B  63       6.680  15.662  42.175  0.00  0.00           C 0
+ATOM   2576  CG1 ILE B  63       6.739  16.236  40.781  0.00  0.00           C 0
+ATOM   2574   CB ILE B  63       8.056  16.947  40.434  0.00  0.00           C 0
+ATOM   2182   CD PRO B  39      13.052  10.376  39.237  0.00  0.00           C 0
+ATOM   2167  CD2 LEU B  38      14.494  13.168  36.589  0.00  0.00           C 0
+ATOM   2560  CG2 ILE B  62      10.803  14.818  36.318  0.00  0.00           C 0
+ATOM   2573    O ILE B  63      10.551  17.586  38.690  0.65  6.43           O 0
+TER
+END

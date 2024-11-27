@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.1080
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7857
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5447
+HEADER 5  - Mean B-factor of pocket residues  : 0.3122
+HEADER 6  - Hydrophobicity Score              : 0.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 207.3569
+HEADER 10 - Pocket volume (convex hull)       : 10.8357
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   2909   CD GLU L 199      35.855  40.012   3.638  0.00  0.00           C 0
+ATOM   2911  OE2 GLU L 199      36.261  41.118   4.066  0.17  4.29           O 0
+ATOM   2910  OE1 GLU L 199      35.596  39.797   2.440  0.78  4.29           O 0
+ATOM   3031   CG PRO L 208      33.632  42.251   6.615  0.00  0.00           C 0
+ATOM   2938  CG2 THR L 201      31.031  39.774   6.863  0.00  0.00           C 0
+ATOM   2175   CB GLN L 151      31.737  35.003   0.605  0.00  0.00           C 0
+ATOM   2182  OE1 GLN L 151      28.856  36.531  -0.385  0.00  0.00           O 0
+ATOM   2906   CG GLU L 199      35.679  38.877   4.621  0.00  0.00           C 0
+ATOM   2295  CD1 LEU L 158      32.679  36.215  -2.423  0.00  0.00           C 0
+ATOM   2178   CG GLN L 151      30.162  34.908   0.919  0.00  0.00           C 0
+ATOM   2169    N GLN L 151      32.391  34.049   2.840  0.81  2.19           N 0
+ATOM   2936  OG1 THR L 201      29.323  38.110   6.970  0.67  2.14           O 0
+ATOM   2137   CB LYS L 149      27.689  35.863   5.728  0.00  0.00           C 0
+ATOM   2902    O GLU L 199      33.777  35.717   5.137  0.71  4.29           O 0
+ATOM   2903   CB GLU L 199      35.865  37.517   3.968  0.00  0.00           C 0
+ATOM   2135    C LYS L 149      29.668  34.379   6.280  0.00  0.00           C 0
+TER
+END

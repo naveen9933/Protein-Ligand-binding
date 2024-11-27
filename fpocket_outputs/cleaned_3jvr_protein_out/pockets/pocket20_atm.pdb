@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0676
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9070
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5027
+HEADER 5  - Mean B-factor of pocket residues  : 0.3800
+HEADER 6  - Hydrophobicity Score              : 7.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.2463
+HEADER 10 - Pocket volume (convex hull)       : 8.7608
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   2475   CE LYS A 166       3.377  -9.101  26.960  0.00  0.00           C 0
+ATOM    659   CD LYS A  54      -0.800  -4.168  21.719  0.00  0.00           C 0
+ATOM   2192    O GLY A 150       4.976  -6.123  20.558  0.56  6.43           O 0
+ATOM    603   CB ASN A  51       1.300  -9.806  18.815  0.00  0.00           C 0
+ATOM   1850  NH2 ARG A 129       3.277  -4.808  26.563  0.37  1.09           N 0
+ATOM    665   NZ LYS A  54      -0.781  -3.852  24.183  0.00  0.00           N 0
+ATOM   2472   CD LYS A 166       2.911  -8.096  28.002  0.00  0.00           C 0
+ATOM    599   CA ASN A  51       0.231  -8.827  18.344  0.00  0.00           C 0
+ATOM    602    O ASN A  51       1.287  -6.800  17.608  0.59  1.07           O 0
+ATOM   2208  CD2 LEU A 151       7.034  -7.653  23.434  0.00  0.00           C 0
+ATOM   2195   CA LEU A 151       6.245  -4.826  22.632  0.00  0.00           C 0
+ATOM   2217    O ALA A 152       2.769  -2.242  22.871  0.00  0.00           O 0
+ATOM   2198    O LEU A 151       5.313  -3.570  24.451  0.00  0.00           O 0
+ATOM   2478   NZ LYS A 166       4.839  -8.997  26.694  0.00  0.00           N 0
+TER
+END

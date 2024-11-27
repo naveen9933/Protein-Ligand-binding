@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0347
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7588
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4619
+HEADER 5  - Mean B-factor of pocket residues  : 0.1577
+HEADER 6  - Hydrophobicity Score              : 8.5556
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 310.6722
+HEADER 10 - Pocket volume (convex hull)       : 21.2310
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   3377   OG SER A 243     -21.841   9.572  16.786  0.55  2.14           O 0
+ATOM   3308   CB ASN A 239     -19.499   5.006  14.737  0.00  0.00           C 0
+ATOM   3307    O ASN A 239     -19.614   7.874  16.306  0.46  1.07           O 0
+ATOM   3404   NZ LYS A 245     -25.354   5.529  17.796  0.00  0.00           N 0
+ATOM   3146  CD1 ILE A 227     -23.721   4.597  22.893  0.00  0.00           C 0
+ATOM   3398   CD LYS A 245     -24.624   6.641  19.848  0.00  0.00           C 0
+ATOM   3322   CB ALA A 240     -20.435   5.856  19.887  0.00  0.00           C 0
+ATOM   3306    C ASN A 239     -19.241   6.723  16.489  0.00  0.00           C 0
+ATOM   2329  CE1 TYR A 175     -20.461   1.833  21.743  0.00  0.00           C 0
+ATOM   3374   CB SER A 243     -21.510  10.387  15.668  0.00  0.00           C 0
+ATOM   3175  OD2 ASP A 229     -22.322  -0.447  20.312  0.73  4.29           O 0
+ATOM   3174  OD1 ASP A 229     -24.219  -1.528  19.853  0.00  0.00           O 0
+ATOM   3265  ND2 ASN A 236     -21.780   0.010  16.149  0.00  0.00           N 0
+ATOM   3313  ND2 ASN A 239     -19.584   3.318  12.994  0.52  6.56           N 0
+ATOM   3259    O ASN A 236     -19.294   3.274  18.232  0.63  1.07           O 0
+ATOM   3316    N ALA A 240     -19.388   6.134  17.680  0.63  1.09           N 0
+ATOM   3155    O THR A 228     -23.951  -1.345  23.187  0.00  0.00           O 0
+ATOM   3137   CB ILE A 227     -24.271   3.103  24.932  0.00  0.00           C 0
+TER
+END

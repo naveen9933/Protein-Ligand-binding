@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0349
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1805
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7134
+HEADER 5  - Mean B-factor of pocket residues  : 0.2991
+HEADER 6  - Hydrophobicity Score              : 29.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.0197
+HEADER 10 - Pocket volume (convex hull)       : 7.1068
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   7501   CB VAL B 154      22.581  60.436  51.775  0.00  0.00           C 0
+ATOM   8289  CG2 THR B 205      25.757  59.895  53.828  0.00  0.00           C 0
+ATOM   7516    O THR B 155      26.024  58.881  49.050  0.05  9.64           O 0
+ATOM   8267    O GLN B 204      28.853  61.249  53.588  0.50  7.50           O 0
+ATOM   7503  CG1 VAL B 154      22.313  61.636  52.670  0.00  0.00           C 0
+ATOM   8299   CB HIS B 206      25.224  64.497  58.622  0.00  0.00           C 0
+ATOM   8321  CG2 VAL B 207      21.952  59.727  57.069  0.00  0.00           C 0
+ATOM   8309    N VAL B 207      24.016  61.165  58.698  0.74  1.09           N 0
+ATOM   7511    N THR B 155      23.371  59.495  48.968  0.00  0.00           N 0
+ATOM   8285   CB THR B 205      25.615  60.647  55.144  0.00  0.00           C 0
+ATOM   7497   CA VAL B 154      21.796  60.571  50.452  0.00  0.00           C 0
+ATOM   8281   CA THR B 205      26.972  61.240  55.577  0.00  0.00           C 0
+ATOM   8303  ND1 HIS B 206      26.806  65.490  56.924  0.00  0.00           N 0
+ATOM   8293    N HIS B 206      25.830  62.517  57.286  0.74  2.19           N 0
+TER
+END

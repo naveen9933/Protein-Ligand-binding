@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0081
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6429
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4521
+HEADER 5  - Mean B-factor of pocket residues  : 0.0867
+HEADER 6  - Hydrophobicity Score              : 3.3333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 85.0470
+HEADER 10 - Pocket volume (convex hull)       : 0.2172
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   4207    O GLU B  31     -41.587  20.218   5.069  0.48  5.36           O 0
+ATOM   4208   CB GLU B  31     -40.368  17.850   3.642  0.00  0.00           C 0
+ATOM   4206    C GLU B  31     -40.418  19.871   5.140  0.00  0.00           C 0
+ATOM   4235   NZ LYS B  32     -41.281  16.884  10.561  0.45  2.19           N 0
+ATOM   4229   CD LYS B  32     -40.314  18.956   9.593  0.00  0.00           C 0
+ATOM   4175    O GLY B  28     -38.258  17.157   6.677  0.62  2.14           O 0
+ATOM   3698    C MET B  -2     -41.551  12.916   8.900  0.00  0.00           C 0
+ATOM   3711    N GLY B  -1     -42.805  13.067   8.536  0.00  0.00           N 0
+ATOM   4215  OE1 GLU B  31     -40.781  15.238   2.771  0.43  2.14           O 0
+ATOM   4171   CA GLY B  28     -37.645  15.010   5.827  0.00  0.00           C 0
+ATOM   3713   CA GLY B  -1     -43.567  14.182   8.956  0.00  0.00           C 0
+ATOM   3675    N GLY B  -4     -44.297  13.507   4.863  0.34  8.75           N 0
+ATOM   4232   CE LYS B  32     -40.049  17.577  10.128  0.00  0.00           C 0
+TER
+END

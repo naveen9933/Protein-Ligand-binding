@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0905
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7601
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4684
+HEADER 5  - Mean B-factor of pocket residues  : 0.1231
+HEADER 6  - Hydrophobicity Score              : 31.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.4554
+HEADER 10 - Pocket volume (convex hull)       : 7.5185
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   2055    N ALA B  29      10.451  29.227  59.560  0.36  2.19           N 0
+ATOM   2792   CB SER B  77       5.909  28.348  54.690  0.00  0.00           C 0
+ATOM   2061   CB ALA B  29       9.945  26.857  59.572  0.00  0.00           C 0
+ATOM   2030    O ASN B  27       7.674  31.207  60.664  0.43  9.64           O 0
+ATOM   2011    O ILE B  26       7.630  34.937  60.867  0.52  5.36           O 0
+ATOM   2031   CB ASN B  27       6.446  32.745  62.644  0.00  0.00           C 0
+ATOM   2870   CB ALA B  81       2.072  33.213  56.256  0.00  0.00           C 0
+ATOM   2035  OD1 ASN B  27       5.131  33.884  64.279  0.57  7.50           O 0
+ATOM   2811  CE1 TYR B  78       7.649  36.418  57.515  0.00  0.00           C 0
+ATOM   2889  CD2 LEU B  82       2.729  38.867  56.042  0.00  0.00           C 0
+ATOM   2743    O ASP B  74       9.848  29.877  54.764  0.55  1.07           O 0
+ATOM   2797    N TYR B  78       6.652  31.505  54.357  0.58  1.09           N 0
+ATOM   2883   CG LEU B  82       3.576  38.057  55.059  0.00  0.00           C 0
+ATOM   2802    O TYR B  78       4.933  34.509  54.429  0.00  0.00           O 0
+ATOM   2790    C SER B  77       5.542  30.779  54.187  0.00  0.00           C 0
+ATOM   2807  CD1 TYR B  78       7.682  35.133  57.030  0.00  0.00           C 0
+ATOM   2799   CA TYR B  78       6.589  32.867  54.901  0.00  0.00           C 0
+ATOM   2791    O SER B  77       4.417  31.195  54.472  0.67  4.29           O 0
+TER
+END

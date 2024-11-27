@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : -0.0448
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9592
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6400
+HEADER 5  - Mean B-factor of pocket residues  : 0.1125
+HEADER 6  - Hydrophobicity Score              : 14.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.6242
+HEADER 10 - Pocket volume (convex hull)       : 4.0106
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM   1652   CA TRP B   6      18.723  39.435  22.222  0.00  0.00           C 0
+ATOM   1655    O TRP B   6      20.936  38.530  22.032  0.33  4.29           O 0
+ATOM   1441  CG2 THR A  91      16.266  39.638  19.347  0.00  0.00           C 0
+ATOM   1666  CE3 TRP B   6      18.533  42.511  19.984  0.00  0.00           C 0
+ATOM   1384    O ASN A  88      17.472  39.230  14.179  0.43  4.29           O 0
+ATOM   1439  OG1 THR A  91      16.527  40.551  17.143  0.63  4.29           O 0
+ATOM   1670  CZ3 TRP B   6      18.112  43.309  18.922  0.00  0.00           C 0
+ATOM   1459  NE2 GLN A  92      17.013  43.381  15.468  0.52  3.28           N 0
+ATOM   1360    O ARG A  87      16.462  37.321  17.055  0.00  0.00           O 0
+ATOM   1636    O LEU B   5      17.432  37.159  21.163  0.00  0.00           O 0
+ATOM   1373  NH1 ARG A  87      19.757  35.414  20.953  0.51  3.28           N 0
+ATOM   1381   CA ASN A  88      18.409  37.204  15.066  0.00  0.00           C 0
+ATOM   1385   CB ASN A  88      19.504  36.755  14.085  0.00  0.00           C 0
+ATOM   1379    N ASN A  88      17.872  36.066  15.820  0.00  0.00           N 0
+ATOM    460    O ASP A  29      19.992  33.564  16.045  0.56  5.36           O 0
+ATOM   1359    C ARG A  87      16.945  36.226  16.766  0.00  0.00           C 0
+TER
+END

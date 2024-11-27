@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0188
+HEADER 1  - Drug Score                        : 0.0040
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9993
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5834
+HEADER 5  - Mean B-factor of pocket residues  : 0.2571
+HEADER 6  - Hydrophobicity Score              : 26.5556
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 375.3554
+HEADER 10 - Pocket volume (convex hull)       : 41.3559
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.1667
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   2357    O VAL A 163       7.482  38.473  29.693  0.58  8.57           O 0
+ATOM   1855    O MET A 131B      0.841  35.014  30.479  0.00  0.00           O 0
+ATOM   2370   CA ASP A 164       6.864  40.905  30.937  0.00  0.00           C 0
+ATOM   2380    N ARG A 165       6.591  41.247  28.559  0.00  0.00           N 0
+ATOM   2386   CB ARG A 165       5.842  41.503  26.250  0.00  0.00           C 0
+ATOM   2337   CB TYR A 162       4.730  34.668  32.146  0.00  0.00           C 0
+ATOM   2368    N ASP A 164       7.455  39.728  31.572  0.66  4.37           N 0
+ATOM   2341  CD1 TYR A 162       4.435  33.356  30.017  0.00  0.00           C 0
+ATOM   2335    C TYR A 162       6.928  35.785  32.613  0.00  0.00           C 0
+ATOM   2336    O TYR A 162       6.849  36.391  33.684  0.62  6.43           O 0
+ATOM   2639   CB PHE A 181       6.471  34.534  24.712  0.00  0.00           C 0
+ATOM   2658    O CYS A 182       8.652  34.917  29.172  0.74  1.07           O 0
+ATOM   1863   CE MET A 131B      2.167  33.918  25.087  0.00  0.00           C 0
+ATOM   1856   CB MET A 131B      0.012  34.205  27.607  0.00  0.00           C 0
+ATOM   2356    C VAL A 163       7.726  38.614  30.892  0.00  0.00           C 0
+ATOM   2398  NH1 ARG A 165       6.317  38.481  23.305  0.70  4.37           N 0
+ATOM   2392   CD ARG A 165       5.069  40.930  23.927  0.00  0.00           C 0
+ATOM   3398   NZ LYS A 230       3.083  37.207  20.626  0.43  8.75           N 0
+ATOM   3395   CE LYS A 230       3.571  35.888  21.149  0.00  0.00           C 0
+ATOM   2653    N CYS A 182       9.071  35.299  26.390  0.44  4.37           N 0
+ATOM   2643  CD1 PHE A 181       6.870  32.854  26.545  0.00  0.00           C 0
+ATOM   1859   CG MET A 131B     -0.215  33.409  26.320  0.00  0.00           C 0
+ATOM   1797   CB GLU A 129      -3.674  35.315  24.185  0.00  0.00           C 0
+ATOM   1805  OE2 GLU A 129      -1.725  35.443  21.247  0.42  9.64           O 0
+ATOM   3392   CD LYS A 230       2.581  34.762  20.875  0.00  0.00           C 0
+ATOM   1796    O GLU A 129      -3.266  35.839  27.355  0.00  0.00           O 0
+TER
+END

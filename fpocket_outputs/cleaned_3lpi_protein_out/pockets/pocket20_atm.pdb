@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0101
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7576
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4672
+HEADER 5  - Mean B-factor of pocket residues  : 0.0547
+HEADER 6  - Hydrophobicity Score              : 27.1818
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.1818
+HEADER 9  - Pocket volume (Monte Carlo)       : 130.3457
+HEADER 10 - Pocket volume (convex hull)       : 1.8538
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2083
+ATOM   6531  CD1 LEU B  91      14.999  39.097  54.396  0.00  0.00           C 0
+ATOM   9629    O GLY B 291      17.224  35.042  58.555  0.00  0.00           O 0
+ATOM   6266   CA GLY B  74      11.829  37.737  55.412  0.00  0.00           C 0
+ATOM   6535  CD2 LEU B  91      17.166  37.900  54.032  0.00  0.00           C 0
+ATOM   6264    N GLY B  74      10.997  36.574  55.164  0.58  1.09           N 0
+ATOM   9652  OG1 THR B 293      11.458  32.754  58.943  0.35  6.43           O 0
+ATOM   6251    C GLN B  73      11.054  35.924  54.003  0.00  0.00           C 0
+ATOM   6246    O GLY B  72      10.132  32.432  55.377  0.57  3.21           O 0
+ATOM   6234    O SER B  71      10.069  34.863  58.323  0.35  2.14           O 0
+ATOM   9628    C GLY B 291      16.899  35.932  59.341  0.00  0.00           C 0
+ATOM   9630    N THR B 292      16.251  35.687  60.474  0.00  0.00           N 0
+ATOM   9617    O SER B 290      14.853  38.593  59.672  0.64  3.21           O 0
+ATOM   9644    N THR B 293      13.561  33.481  60.808  0.52  3.28           N 0
+ATOM   7776  CD1 ILE B 171      13.476  32.939  52.154  0.00  0.00           C 0
+ATOM   7844  CZ2 TRP B 176      15.491  35.985  51.161  0.00  0.00           C 0
+ATOM   6252    O GLN B  73      11.787  36.264  53.080  0.71  1.07           O 0
+TER
+END

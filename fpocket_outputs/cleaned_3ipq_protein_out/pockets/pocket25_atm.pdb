@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.1142
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9180
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4920
+HEADER 5  - Mean B-factor of pocket residues  : 0.2344
+HEADER 6  - Hydrophobicity Score              : 30.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 155.8593
+HEADER 10 - Pocket volume (convex hull)       : 1.2728
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   1963   CA ASN A 347      47.370  30.378 -13.121  0.00  0.00           C 0
+ATOM   2026    N LEU A 351      51.311  32.965  -9.123  0.00  0.00           N 0
+ATOM   2112  CE2 PHE A 356      50.379  29.155  -6.622  0.00  0.00           C 0
+ATOM   2031    O LEU A 351      53.072  31.069  -8.159  0.00  0.00           O 0
+ATOM   2011   CA GLN A 350      51.350  33.313 -11.518  0.00  0.00           C 0
+ATOM   1949    O MET A 346      47.082  31.987 -10.819  0.66  1.07           O 0
+ATOM   2114   CZ PHE A 356      49.044  28.818  -6.620  0.00  0.00           C 0
+ATOM   2023  NE2 GLN A 350      51.346  31.211 -14.428  0.61  6.56           N 0
+ATOM   2022  OE1 GLN A 350      53.498  31.898 -14.421  0.50  8.57           O 0
+ATOM   1252    O SER A 303      47.354  25.744 -10.181  0.50  3.21           O 0
+ATOM   1260   CA ARG A 304      49.275  25.311  -8.169  0.00  0.00           C 0
+ATOM   1961    N ASN A 347      46.207  30.440 -12.240  0.00  0.00           N 0
+ATOM   1972  ND2 ASN A 347      49.286  28.246 -14.639  0.61  6.56           N 0
+ATOM   1263    O ARG A 304      50.926  24.400  -9.641  0.40  5.36           O 0
+TER
+END

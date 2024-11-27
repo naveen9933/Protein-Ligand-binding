@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : -0.0926
+HEADER 1  - Drug Score                        : 0.0594
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.7872
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4184
+HEADER 5  - Mean B-factor of pocket residues  : 0.1122
+HEADER 6  - Hydrophobicity Score              : 30.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.4126
+HEADER 10 - Pocket volume (convex hull)       : 8.0285
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.6429
+ATOM   1700  CG2 THR A 117      17.577   2.765  21.243  0.00  0.00           C 0
+ATOM   1980    C ALA A 137      18.178   2.183  14.894  0.00  0.00           C 0
+ATOM   1982   CB ALA A 137      19.410   0.158  15.770  0.00  0.00           C 0
+ATOM   1696   CB THR A 117      16.932   1.519  20.616  0.00  0.00           C 0
+ATOM   1698  OG1 THR A 117      17.606   0.348  21.085  0.42  2.14           O 0
+ATOM   1644  CD1 LEU A 114      21.241   5.318  21.096  0.00  0.00           C 0
+ATOM   1931    O THR A 134      21.961   2.148  14.283  0.00  0.00           O 0
+ATOM   1986    N GLY A 138      19.087   3.090  14.539  0.82  2.19           N 0
+ATOM   1936  CG2 THR A 134      24.955   0.402  16.932  0.00  0.00           C 0
+ATOM   5905  NE2 GLN B 119      20.326  -2.722  21.894  0.00  0.00           N 0
+ATOM   1932   CB THR A 134      24.179   1.345  16.027  0.00  0.00           C 0
+ATOM   1981    O ALA A 137      17.095   2.505  15.368  0.00  0.00           O 0
+ATOM   1934  OG1 THR A 134      24.966   2.510  15.761  0.23  9.64           O 0
+ATOM   1648  CD2 LEU A 114      18.903   6.150  21.167  0.00  0.00           C 0
+ATOM   1988   CA GLY A 138      18.796   4.537  14.654  0.00  0.00           C 0
+ATOM   1030   CB MET A  71      19.873   7.816  17.380  0.00  0.00           C 0
+ATOM   2034   CB THR A 141      14.995   4.170  17.257  0.00  0.00           C 0
+ATOM   2036  OG1 THR A 141      15.496   2.843  17.570  0.00  0.00           O 0
+ATOM   1029    O MET A  71      21.788   6.146  15.656  0.46  2.14           O 0
+TER
+END

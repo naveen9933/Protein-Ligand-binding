@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.0738
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7413
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5104
+HEADER 5  - Mean B-factor of pocket residues  : 0.1886
+HEADER 6  - Hydrophobicity Score              : 22.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 79.7284
+HEADER 10 - Pocket volume (convex hull)       : 0.4190
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM   1659   OG SER A 166      21.432  13.611   9.337  0.74  1.07           O 0
+ATOM   1613  CG2 ILE A 163      18.774   9.837   9.307  0.00  0.00           C 0
+ATOM   1626    O THR A 164      17.200  12.350   4.694  0.72  4.29           O 0
+ATOM    666    O ALA A 104      22.057   9.010   3.451  0.35  3.21           O 0
+ATOM   1625    C THR A 164      16.799  11.742   5.684  0.00  0.00           C 0
+ATOM   1635    N GLU A 165      16.737  12.289   6.894  0.00  0.00           N 0
+ATOM   1637   CA GLU A 165      17.176  13.658   7.151  0.00  0.00           C 0
+ATOM    696  CD2 HIS A 106      23.909  13.901   6.782  0.00  0.00           C 0
+ATOM   1607    O ILE A 163      18.151   8.320   6.347  0.67  2.14           O 0
+ATOM    691   CB HIS A 106      24.478  11.986   5.121  0.00  0.00           C 0
+ATOM    675    O PRO A 105      22.484  11.979   2.373  0.65  4.29           O 0
+ATOM   1650    N SER A 166      18.782  14.533   8.746  0.46  5.47           N 0
+ATOM   1729  CE1 PHE A 170      22.845  10.298   9.387  0.00  0.00           C 0
+TER
+END

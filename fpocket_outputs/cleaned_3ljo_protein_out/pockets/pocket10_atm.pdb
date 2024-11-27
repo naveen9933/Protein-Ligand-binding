@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0733
+HEADER 1  - Drug Score                        : 0.1175
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9741
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6958
+HEADER 5  - Mean B-factor of pocket residues  : 0.0212
+HEADER 6  - Hydrophobicity Score              : 23.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 270.0511
+HEADER 10 - Pocket volume (convex hull)       : 6.4476
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM    922  CD2 PHE A  82       3.229  12.835  22.350  0.00  0.00           C 0
+ATOM    834  CG1 VAL A  76       5.311  19.639  20.970  0.00  0.00           C 0
+ATOM    926  CE2 PHE A  82       4.415  13.503  22.201  0.00  0.00           C 0
+ATOM    883    O GLU A  80       0.305  16.340  17.371  0.00  0.00           O 0
+ATOM    919   CG PHE A  82       2.535  12.304  21.269  0.00  0.00           C 0
+ATOM    910    N PHE A  82       0.124  12.314  19.399  0.00  0.00           N 0
+ATOM    916   CB PHE A  82       1.248  11.588  21.452  0.00  0.00           C 0
+ATOM    884   CB GLU A  80       3.461  15.933  17.589  0.00  0.00           C 0
+ATOM    924  CE1 PHE A  82       4.311  13.179  19.873  0.00  0.00           C 0
+ATOM    891  OE1 GLU A  80       4.581  18.457  17.523  0.00  0.00           O 0
+ATOM    859   CA GLY A  78       3.853  21.395  16.277  0.00  0.00           C 0
+ATOM    864    N ASN A  79       2.421  19.959  15.043  0.00  0.00           N 0
+ATOM    920  CD1 PHE A  82       3.127  12.501  20.027  0.00  0.00           C 0
+ATOM    928   CZ PHE A  82       4.995  13.708  20.962  0.00  0.00           C 0
+TER
+END

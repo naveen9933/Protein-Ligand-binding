@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0541
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9591
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5575
+HEADER 5  - Mean B-factor of pocket residues  : 0.2931
+HEADER 6  - Hydrophobicity Score              : -15.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 150.8695
+HEADER 10 - Pocket volume (convex hull)       : 3.4702
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   3171    O PRO A 211      17.156  -6.367  40.132  0.61  7.50           O 0
+ATOM   2693   CE LYS A 180      12.818  -5.221  44.156  0.00  0.00           C 0
+ATOM   3202  OD1 ASP A 213      16.487  -7.825  46.369  0.62  9.64           O 0
+ATOM   3796  OE2 GLU A 248      16.221  -3.416  44.897  0.81  6.43           O 0
+ATOM   3183   CA SER A 212      18.249  -8.686  41.197  0.00  0.00           C 0
+ATOM   2664    O LEU A 179      10.666  -9.710  40.581  0.00  0.00           O 0
+ATOM   3187   CB SER A 212      17.998 -10.116  40.719  0.00  0.00           C 0
+ATOM   2684   CB LYS A 180      10.755  -6.469  42.774  0.00  0.00           C 0
+ATOM   2687   CG LYS A 180      10.659  -6.477  44.288  0.00  0.00           C 0
+ATOM   3190   OG SER A 212      17.142 -10.129  39.592  0.61  5.36           O 0
+ATOM   3192    N ASP A 213      18.644  -8.901  43.577  0.56  2.19           N 0
+ATOM   2665   CB LEU A 179      12.715  -8.615  38.643  0.00  0.00           C 0
+ATOM   2615    O PRO A 176      12.393  -5.271  39.905  0.00  0.00           O 0
+ATOM   2680   CA LYS A 180       9.897  -7.527  42.078  0.00  0.00           C 0
+TER
+END

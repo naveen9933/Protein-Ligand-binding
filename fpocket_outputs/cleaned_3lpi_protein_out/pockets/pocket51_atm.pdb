@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    51:
+HEADER 0  - Pocket Score                      : -0.2418
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1715
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5994
+HEADER 5  - Mean B-factor of pocket residues  : 0.2046
+HEADER 6  - Hydrophobicity Score              : -24.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 485.9749
+HEADER 10 - Pocket volume (convex hull)       : 11.4828
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   7099   CA GLY B 127      35.709  36.412  45.125  0.00  0.00           C 0
+ATOM   4016   NZ LYS A 317      42.011  30.900  38.893  0.00  7.66           N 0
+ATOM   3923   NZ LYS A 310      36.677  27.596  38.787  0.00  4.37           N 0
+ATOM   7311  OE1 GLU B 140      32.745  36.184  38.878  0.00  0.00           O 0
+ATOM   7307   CG GLU B 140      32.738  37.274  40.993  0.00  0.00           C 0
+ATOM   7304   CB GLU B 140      32.462  38.642  41.643  0.00  0.00           C 0
+ATOM   7075    N LYS B 126      38.095  40.139  43.376  0.58  2.19           N 0
+ATOM   7030  OD1 ASP B 123      36.088  42.900  40.147  0.47  7.50           O 0
+ATOM   7312  OE2 GLU B 140      32.223  38.313  38.893  0.47  7.50           O 0
+ATOM   7053   CA ARG B 125      38.955  41.488  41.558  0.00  0.00           C 0
+ATOM   7077   CA LYS B 126      38.181  39.187  44.470  0.00  0.00           C 0
+ATOM   7097    N GLY B 127      36.922  37.166  44.901  0.61  7.66           N 0
+ATOM   7056    O ARG B 125      40.295  40.020  42.912  0.00  0.00           O 0
+ATOM   7055    C ARG B 125      39.172  40.481  42.681  0.00  0.00           C 0
+ATOM   7079    C LYS B 126      36.853  38.471  44.680  0.00  0.00           C 0
+ATOM   7080    O LYS B 126      35.785  39.081  44.631  0.00  0.00           O 0
+ATOM   7031  OD2 ASP B 123      36.809  42.915  38.067  0.29  9.64           O 0
+ATOM   7310   CD GLU B 140      32.557  37.261  39.481  0.00  0.00           C 0
+TER
+END

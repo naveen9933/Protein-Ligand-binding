@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.0124
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.1132
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5761
+HEADER 5  - Mean B-factor of pocket residues  : 0.3417
+HEADER 6  - Hydrophobicity Score              : 22.4000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 512.1011
+HEADER 10 - Pocket volume (convex hull)       : 35.6376
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0833
+ATOM   1957   CZ ARG B  21       3.637  42.372  58.066  0.00  0.00           C 0
+ATOM   2816   OH TYR B  78       7.884  38.763  57.210  0.56  2.14           O 0
+ATOM   1955   NE ARG B  21       4.888  42.315  57.615  0.55  1.09           N 0
+ATOM   1961  NH2 ARG B  21       3.408  42.559  59.359  0.00  0.00           N 0
+ATOM   2889  CD2 LEU B  82       2.729  38.867  56.042  0.00  0.00           C 0
+ATOM   2011    O ILE B  26       7.630  34.937  60.867  0.52  5.36           O 0
+ATOM   2811  CE1 TYR B  78       7.649  36.418  57.515  0.00  0.00           C 0
+ATOM   2012   CB ILE B  26       7.922  37.179  63.152  0.00  0.00           C 0
+ATOM   2021  CD1 ILE B  26       7.295  39.562  63.809  0.00  0.00           C 0
+ATOM   6955   CB ASN D 124       5.491  49.605  66.490  0.00  0.00           C 0
+ATOM   6949    N ASN D 124       7.837  49.154  65.909  0.71  6.56           N 0
+ATOM   1986    O PRO B  24       9.873  40.479  60.534  0.54  1.07           O 0
+ATOM   2006    N ILE B  26       9.285  37.163  61.073  0.00  0.00           N 0
+ATOM   6943  OG1 THR D 123      11.269  46.728  64.967  0.00  0.00           O 0
+ATOM   6937   CA THR D 123       9.845  48.684  64.621  0.00  0.00           C 0
+ATOM   6924    O VAL D 122       9.424  48.268  61.825  0.77  9.64           O 0
+ATOM   1980   OG SER B  23       8.755  42.853  59.103  0.55  1.07           O 0
+ATOM   1977   CB SER B  23       9.139  43.949  59.910  0.00  0.00           C 0
+ATOM   1993   CD PRO B  24      11.479  43.254  62.416  0.00  0.00           C 0
+ATOM   1990   CG PRO B  24      11.446  42.138  63.419  0.00  0.00           C 0
+ATOM   2391    O GLU B  51      10.471  40.124  65.750  0.88  7.50           O 0
+ATOM   2400  OE2 GLU B  51       7.630  39.759  70.405  0.00  0.00           O 0
+ATOM   2392   CB GLU B  51       8.989  38.877  68.228  0.00  0.00           C 0
+TER
+END

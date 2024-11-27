@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0951
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.5745
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3431
+HEADER 5  - Mean B-factor of pocket residues  : 0.1423
+HEADER 6  - Hydrophobicity Score              : 5.7143
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 106.6774
+HEADER 10 - Pocket volume (convex hull)       : 0.8049
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM    946  CD2 HIS A  64      -1.554  -0.562   9.758  0.00  0.00           C 0
+ATOM   3029  CG2 THR A 200      -1.393  -0.873  14.117  0.00  0.00           C 0
+ATOM   1414  NE2 HIS A  94      -7.239  -0.601  13.658  0.53  2.19           N 0
+ATOM   1410  CD2 HIS A  94      -7.441  -1.339  12.523  0.00  0.00           C 0
+ATOM   1448  CE1 HIS A  96      -4.767  -3.760  14.300  0.00  0.00           C 0
+ATOM    957   CB ALA A  65      -4.952  -2.772   8.638  0.00  0.00           C 0
+ATOM   1408   CG HIS A  94      -8.080  -0.540  11.633  0.00  0.00           C 0
+ATOM    992  ND2 ASN A  67      -7.324   1.633   8.831  0.33  1.09           N 0
+ATOM    991  OD1 ASN A  67      -6.672   3.747   8.562  0.00  0.00           O 0
+ATOM    950  NE2 HIS A  64      -1.567   0.813   9.724  0.47  5.47           N 0
+ATOM   1376  NE2 GLN A  92      -7.529   4.003  11.448  0.66  7.66           N 0
+ATOM   3027  OG1 THR A 200      -1.362   1.464  14.602  0.27  7.50           O 0
+ATOM   1412  CE1 HIS A  94      -7.759   0.604  13.487  0.00  0.00           C 0
+ATOM   1409  ND1 HIS A  94      -8.276   0.664  12.273  0.00  0.00           N 0
+TER
+END

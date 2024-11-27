@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0149
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8361
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4125
+HEADER 5  - Mean B-factor of pocket residues  : 0.1403
+HEADER 6  - Hydrophobicity Score              : 28.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.4579
+HEADER 10 - Pocket volume (convex hull)       : 2.1859
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM    509  CD2 LEU A  91      25.863   7.024  19.084  0.00  0.00           C 0
+ATOM   3603    O GLY A 291      26.375  10.346  23.605  0.00  0.00           O 0
+ATOM    226    O GLN A  73      31.126   8.958  18.148  0.60  1.07           O 0
+ATOM   1750  CD1 ILE A 171      29.614  12.638  16.910  0.00  0.00           C 0
+ATOM   1818  CZ2 TRP A 176      27.542   9.287  15.946  0.00  0.00           C 0
+ATOM    220    O GLY A  72      32.637  12.686  20.510  0.57  6.43           O 0
+ATOM   3626  OG1 THR A 293      31.413  12.606  24.042  0.00  0.00           O 0
+ATOM    238    N GLY A  74      32.047   8.559  20.162  0.00  0.00           N 0
+ATOM    240   CA GLY A  74      31.218   7.395  20.404  0.00  0.00           C 0
+ATOM    225    C GLN A  73      31.923   9.256  19.038  0.00  0.00           C 0
+ATOM    505  CD1 LEU A  91      28.155   6.072  19.421  0.00  0.00           C 0
+ATOM    208    O SER A  71      32.759  10.328  23.425  0.21  3.21           O 0
+ATOM   3591    O SER A 290      28.263   6.717  24.756  0.65  3.21           O 0
+TER
+END

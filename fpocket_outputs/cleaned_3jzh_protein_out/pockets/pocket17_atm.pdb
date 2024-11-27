@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.1146
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.2099
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5882
+HEADER 5  - Mean B-factor of pocket residues  : 0.2644
+HEADER 6  - Hydrophobicity Score              : -3.5000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 429.8365
+HEADER 10 - Pocket volume (convex hull)       : 22.3798
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.5000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   3162   CD PRO A 282      15.103  38.291   3.621  0.00  0.00           C 0
+ATOM   2238  OD2 ASP A 223      12.191  36.993  -2.874  0.00  0.00           O 0
+ATOM   3175  OD1 ASN A 283      14.139  43.366   3.148  0.00  0.00           O 0
+ATOM   3159   CG PRO A 282      16.095  39.070   2.910  0.00  0.00           C 0
+ATOM   2201    O GLN A 221       8.593  35.601  -0.678  0.50  9.64           O 0
+ATOM   3147  OD1 ASN A 281      12.879  40.436   5.309  0.00  0.00           O 0
+ATOM   2218    O THR A 222      12.871  34.669   0.494  0.59  4.29           O 0
+ATOM   2232    O ASP A 223      15.261  33.243  -1.509  0.00  0.00           O 0
+ATOM   3132  CE2 TYR A 280      16.751  35.010   4.137  0.00  0.00           C 0
+ATOM   2233   CB ASP A 223      13.427  35.006  -2.499  0.00  0.00           C 0
+ATOM   2215   CA THR A 222      10.517  34.293   0.851  0.00  0.00           C 0
+ATOM   3121    O TYR A 280      12.209  35.384   4.900  0.64  4.29           O 0
+ATOM   2223  CG2 THR A 222       9.511  33.918   3.140  0.00  0.00           C 0
+ATOM   3146   CG ASN A 281      12.092  39.981   6.135  0.00  0.00           C 0
+ATOM   3139   CA ASN A 281      13.314  37.788   5.957  0.00  0.00           C 0
+ATOM   3143   CB ASN A 281      12.233  38.599   6.668  0.00  0.00           C 0
+ATOM   3148  ND2 ASN A 281      11.094  40.692   6.648  0.00  0.00           N 0
+ATOM   3088    O TYR A 278       8.396  33.285   6.753  0.56  9.64           O 0
+ATOM   2208   CD GLN A 221       4.831  35.085   0.315  0.00  0.00           C 0
+ATOM   2205   CG GLN A 221       5.853  34.083   0.883  0.00  0.00           C 0
+TER
+END

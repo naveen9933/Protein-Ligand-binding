@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : -0.0506
+HEADER 1  - Drug Score                        : 0.0079
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9555
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6097
+HEADER 5  - Mean B-factor of pocket residues  : 0.2512
+HEADER 6  - Hydrophobicity Score              : 22.2857
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.6159
+HEADER 10 - Pocket volume (convex hull)       : 1.5100
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   5733   CE LYS A 395      29.039  -4.732 127.677  0.00  0.00           C 0
+ATOM   5236  CE1 PHE A 365      31.872   0.503 127.184  0.00  0.00           C 0
+ATOM   4713   CG PRO A 332      28.594   3.049 127.630  0.00  0.00           C 0
+ATOM   5187    O GLY A 362      31.176  -1.972 130.002  0.00  0.00           O 0
+ATOM   5675   SD MET A 392      28.988   0.935 123.784  0.00  0.00           S 0
+ATOM   5730   CD LYS A 395      30.461  -4.293 127.384  0.00  0.00           C 0
+ATOM   4667  CD1 LEU A 329      27.079  -3.382 122.680  0.00  0.00           C 0
+ATOM   4671  CD2 LEU A 329      24.568  -3.312 123.025  0.00  0.00           C 0
+ATOM   4679    O PRO A 330      25.870   2.156 123.738  0.41  4.29           O 0
+ATOM   4683   CG PRO A 330      22.618   2.092 123.525  0.00  0.00           C 0
+ATOM   4686   CD PRO A 330      22.940   0.925 122.633  0.00  0.00           C 0
+ATOM   4662   CB LEU A 329      25.731  -1.427 121.890  0.00  0.00           C 0
+ATOM   5672   CG MET A 392      30.475  -0.088 123.830  0.00  0.00           C 0
+ATOM   5669   CB MET A 392      30.229  -1.478 123.294  0.00  0.00           C 0
+TER
+END

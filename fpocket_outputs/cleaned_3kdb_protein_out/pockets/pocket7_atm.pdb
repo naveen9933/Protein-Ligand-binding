@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0686
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0298
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5351
+HEADER 5  - Mean B-factor of pocket residues  : 0.1488
+HEADER 6  - Hydrophobicity Score              : 27.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 244.4438
+HEADER 10 - Pocket volume (convex hull)       : 0.8311
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   2194   CA ARG B  41      10.415   3.391  34.526  0.00  0.00           C 0
+ATOM   2201   CG ARG B  41       9.539   1.168  35.237  0.00  0.00           C 0
+ATOM   2209   CZ ARG B  41       9.656  -1.450  33.270  0.00  0.00           C 0
+ATOM   2210  NH1 ARG B  41      10.441  -1.978  34.206  0.00  0.00           N 0
+ATOM   2213  NH2 ARG B  41       9.721  -1.873  32.008  0.00  0.00           N 0
+ATOM   2229  NE1 TRP B  42      15.559   3.116  31.472  0.00  0.00           N 0
+ATOM   2231  CE2 TRP B  42      15.509   3.150  30.099  0.00  0.00           C 0
+ATOM   2234  CZ2 TRP B  42      16.309   2.508  29.155  0.00  0.00           C 0
+ATOM   2226  CD1 TRP B  42      14.568   3.928  31.972  0.00  0.00           C 0
+ATOM   2191    O GLY B  40      12.339   4.392  36.231  0.57  9.64           O 0
+ATOM   2216    N TRP B  42      11.243   4.059  32.382  0.64  1.09           N 0
+ATOM   2221    O TRP B  42      10.888   2.828  29.982  0.33  8.57           O 0
+TER
+END

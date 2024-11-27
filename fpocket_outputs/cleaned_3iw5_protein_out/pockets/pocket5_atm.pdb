@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0766
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7331
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4675
+HEADER 5  - Mean B-factor of pocket residues  : 0.2221
+HEADER 6  - Hydrophobicity Score              : 22.4444
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.1095
+HEADER 10 - Pocket volume (convex hull)       : 10.1948
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   3066  CG2 THR A 203      -2.375 -12.247 -15.446  0.00  0.00           C 0
+ATOM   3053  NE2 GLN A 202       2.689 -16.426 -16.170  0.00  0.00           N 0
+ATOM   3036  ND2 ASN A 201      -2.676 -14.514 -11.855  0.00  0.00           N 0
+ATOM   4574  CG2 THR A 298      -2.907 -15.691 -18.716  0.00  0.00           C 0
+ATOM   2262  ND1 HIS A 142       3.490 -12.868 -18.145  0.30  2.19           N 0
+ATOM   3106  CG1 ILE A 206      -0.834  -9.552 -18.728  0.00  0.00           C 0
+ATOM   4566   CA THR A 298      -2.353 -13.526 -19.993  0.00  0.00           C 0
+ATOM   3045   CB GLN A 202       2.520 -13.756 -14.923  0.00  0.00           C 0
+ATOM   4570   CB THR A 298      -2.091 -15.036 -19.911  0.00  0.00           C 0
+ATOM   3039    N GLN A 202       1.623 -13.193 -12.694  0.67  1.09           N 0
+ATOM   3048   CG GLN A 202       3.311 -14.940 -14.348  0.00  0.00           C 0
+ATOM   3009    O TYR A 200       2.171 -13.814  -8.482  0.38  6.43           O 0
+ATOM   2300  OD2 ASP A 145       6.849 -18.971 -12.287  0.50  5.36           O 0
+ATOM   2335  CD1 ILE A 147       4.760 -13.335 -10.774  0.00  0.00           C 0
+ATOM   3027   CA ASN A 201       0.374 -13.156 -10.659  0.00  0.00           C 0
+ATOM   3034   CG ASN A 201      -1.966 -13.997 -10.851  0.00  0.00           C 0
+TER
+END

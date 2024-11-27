@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : 0.0668
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7601
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4684
+HEADER 5  - Mean B-factor of pocket residues  : 0.1231
+HEADER 6  - Hydrophobicity Score              : 31.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.7459
+HEADER 10 - Pocket volume (convex hull)       : 7.5185
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   6358   CB ALA D  81      41.198  51.857  56.256  0.00  0.00           C 0
+ATOM   6299  CE1 TYR D  78      35.621  48.652  57.515  0.00  0.00           C 0
+ATOM   5499    O ILE D  26      35.640  50.133  60.867  0.54  5.36           O 0
+ATOM   6295  CD1 TYR D  78      35.588  49.937  57.030  0.00  0.00           C 0
+ATOM   6371   CG LEU D  82      39.694  47.013  55.059  0.00  0.00           C 0
+ATOM   6377  CD2 LEU D  82      40.541  46.203  56.042  0.00  0.00           C 0
+ATOM   5518    O ASN D  27      35.596  53.863  60.664  0.00  0.00           O 0
+ATOM   5519   CB ASN D  27      36.824  52.325  62.644  0.00  0.00           C 0
+ATOM   5523  OD1 ASN D  27      38.139  51.186  64.279  0.60  9.64           O 0
+ATOM   6287   CA TYR D  78      36.681  52.203  54.901  0.00  0.00           C 0
+ATOM   6290    O TYR D  78      38.337  50.561  54.429  0.00  0.00           O 0
+ATOM   6279    O SER D  77      38.853  53.875  54.472  0.54  4.29           O 0
+ATOM   6285    N TYR D  78      36.618  53.565  54.357  0.00  0.00           N 0
+ATOM   6278    C SER D  77      37.728  54.291  54.187  0.00  0.00           C 0
+ATOM   6280   CB SER D  77      37.361  56.722  54.690  0.00  0.00           C 0
+ATOM   6231    O ASP D  74      33.422  55.193  54.764  0.57  2.14           O 0
+ATOM   5543    N ALA D  29      32.819  55.843  59.560  0.00  0.00           N 0
+ATOM   5549   CB ALA D  29      33.325  58.213  59.572  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0467
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7174
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4268
+HEADER 5  - Mean B-factor of pocket residues  : 0.4632
+HEADER 6  - Hydrophobicity Score              : -4.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 124.3642
+HEADER 10 - Pocket volume (convex hull)       : 1.1133
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM    758   CE LYS A  65      15.107   4.703  13.494  0.00  0.00           C 0
+ATOM    714   NE ARG A  63      18.075   6.174   9.884  0.59  7.66           N 0
+ATOM    301    O GLU A  36      22.387   5.818  15.346  0.55  7.50           O 0
+ATOM    761   NZ LYS A  65      15.487   3.313  13.875  0.54  8.75           N 0
+ATOM    287    O ASN A  35      20.011   8.509  16.445  0.39  1.07           O 0
+ATOM    755   CD LYS A  65      14.684   5.525  14.706  0.00  0.00           C 0
+ATOM    752   CG LYS A  65      14.407   6.973  14.324  0.00  0.00           C 0
+ATOM    337  ND2 ASN A  38      19.305   5.223  17.995  0.44  6.56           N 0
+ATOM    298   CA GLU A  36      21.625   7.827  14.273  0.00  0.00           C 0
+ATOM    708   CG ARG A  63      18.036   8.681   9.843  0.00  0.00           C 0
+ATOM    743    N LYS A  65      15.078   9.915  14.910  0.00  0.00           N 0
+ATOM    725   CA PHE A  64      16.616  11.098  13.474  0.00  0.00           C 0
+ATOM    704    O ARG A  63      19.166  11.043  12.408  0.75  1.07           O 0
+ATOM    302   CB GLU A  36      22.464   7.877  12.994  0.00  0.00           C 0
+ATOM    309  OE1 GLU A  36      22.434   7.012  10.116  0.00  0.00           O 0
+TER
+END

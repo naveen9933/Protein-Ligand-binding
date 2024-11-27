@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : -0.0005
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8084
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4533
+HEADER 5  - Mean B-factor of pocket residues  : 0.2824
+HEADER 6  - Hydrophobicity Score              : 8.6250
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 266.8231
+HEADER 10 - Pocket volume (convex hull)       : 29.1597
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 3.6000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM    348   OH TYR A 238     -14.935   2.675  31.607  0.00  0.00           O 0
+ATOM    347   CZ TYR A 238     -13.926   3.074  32.451  0.00  0.00           C 0
+ATOM   2557   NZ LYS A 388      -9.220   0.977  28.404  0.00  0.00           N 0
+ATOM    345  CE2 TYR A 238     -13.274   4.281  32.233  0.00  0.00           C 0
+ATOM    343  CE1 TYR A 238     -13.544   2.260  33.509  0.00  0.00           C 0
+ATOM   1951  CE2 TYR A 340      -8.548   2.922  32.702  0.00  0.00           C 0
+ATOM   1473  OD1 ASP A 310     -11.018   2.737  26.195  0.00  0.00           O 0
+ATOM    258  NH1 ARG A 234     -11.737   7.558  26.101  0.41  5.47           N 0
+ATOM   1940    O TYR A 340      -9.152   6.347  29.754  0.69  2.14           O 0
+ATOM    317   CD ARG A 237     -16.357   5.323  34.235  0.00  0.00           C 0
+ATOM    323  NH1 ARG A 237     -18.637   4.621  32.708  0.00  0.00           N 0
+ATOM    239  NE2 HIS A 233     -15.651  10.294  29.298  0.70  4.37           N 0
+ATOM   1337    O ALA A 301     -16.210   8.965  25.099  0.00  0.00           O 0
+ATOM    235  CD2 HIS A 233     -15.856  10.331  30.656  0.00  0.00           C 0
+ATOM    242   CA ARG A 234     -12.187   8.958  32.218  0.00  0.00           C 0
+ATOM    249   CG ARG A 234     -12.218   9.052  29.666  0.00  0.00           C 0
+ATOM    257   CZ ARG A 234     -12.117   8.831  26.141  0.00  0.00           C 0
+TER
+END

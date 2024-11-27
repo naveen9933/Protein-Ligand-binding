@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0214
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7868
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4566
+HEADER 5  - Mean B-factor of pocket residues  : 0.4622
+HEADER 6  - Hydrophobicity Score              : -5.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.3151
+HEADER 10 - Pocket volume (convex hull)       : 4.0866
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   6837   CB LEU B 226      27.173  18.245  32.842  0.00  0.00           C 0
+ATOM   6985  OE1 GLU B 236      26.101  15.687  35.796  0.60  1.07           O 0
+ATOM   6885    N ASP B 230      32.084  16.583  35.740  0.66  1.09           N 0
+ATOM   6986  OE2 GLU B 236      25.750  16.977  37.526  0.62  6.43           O 0
+ATOM   6880   CA GLY B 229      31.271  17.123  33.529  0.00  0.00           C 0
+ATOM   6895  OD1 ASP B 230      32.021  18.083  38.482  0.58  5.36           O 0
+ATOM   6896  OD2 ASP B 230      33.696  19.189  37.566  0.00  0.00           O 0
+ATOM   6909   CD LYS B 231      27.737  15.916  39.856  0.00  0.00           C 0
+ATOM   6912   CE LYS B 231      27.964  16.987  40.935  0.00  0.00           C 0
+ATOM   6842  CD1 LEU B 226      27.209  20.520  33.966  0.00  0.00           C 0
+ATOM   5211   CE LYS B 121      30.195  24.211  33.485  0.00  0.00           C 0
+ATOM   5214   NZ LYS B 121      28.885  24.761  33.948  0.00  0.00           N 0
+ATOM   5208   CD LYS B 121      30.019  22.971  32.617  0.00  0.00           C 0
+ATOM   6906   CG LYS B 231      29.049  15.291  39.405  0.00  0.00           C 0
+TER
+END

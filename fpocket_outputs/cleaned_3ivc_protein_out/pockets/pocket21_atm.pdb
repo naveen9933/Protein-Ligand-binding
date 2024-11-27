@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0814
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1009
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6554
+HEADER 5  - Mean B-factor of pocket residues  : 0.3736
+HEADER 6  - Hydrophobicity Score              : 1.2000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.3777
+HEADER 10 - Pocket volume (convex hull)       : 0.7871
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   8036    N PRO B 259      18.681   6.156  41.695  0.67  1.09           N 0
+ATOM   7965   CZ ARG B 253      18.390  -0.127  41.185  0.00  0.00           C 0
+ATOM   7966  NH1 ARG B 253      17.910   0.502  40.132  0.67  1.09           N 0
+ATOM   8044   CG PRO B 259      20.733   7.277  41.555  0.00  0.00           C 0
+ATOM   7963   NE ARG B 253      18.194   0.323  42.432  0.35  4.37           N 0
+ATOM   8015    O LEU B 257      16.561   2.780  39.444  0.45  4.29           O 0
+ATOM   8047   CD PRO B 259      19.511   6.926  40.745  0.00  0.00           C 0
+ATOM   6094  OE2 GLU B 126      19.550  -0.427  37.430  0.00  0.00           O 0
+ATOM   6093  OE1 GLU B 126      21.706  -0.421  37.038  0.41  8.57           O 0
+ATOM   8034    C GLY B 258      17.579   5.442  41.370  0.00  0.00           C 0
+ATOM   7960   CD ARG B 253      17.448   1.538  42.798  0.00  0.00           C 0
+ATOM   8031   CA GLY B 258      17.121   5.470  39.893  0.00  0.00           C 0
+ATOM   8037   CA PRO B 259      19.211   6.245  43.058  0.00  0.00           C 0
+TER
+END

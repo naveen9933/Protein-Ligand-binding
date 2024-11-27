@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0994
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9991
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5945
+HEADER 5  - Mean B-factor of pocket residues  : 0.3114
+HEADER 6  - Hydrophobicity Score              : -6.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 313.0713
+HEADER 10 - Pocket volume (convex hull)       : 14.9429
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1000
+ATOM   1107    O GLU A1019      59.191   0.389 -25.003  0.19  9.64           O 0
+ATOM   1115  OE1 GLU A1019      57.822   1.220 -19.871  0.00  0.00           O 0
+ATOM   2597    O GLY A1121      59.453  -5.512 -21.761  0.77  4.29           O 0
+ATOM   2593   CA GLY A1121      60.955  -5.468 -19.924  0.00  0.00           C 0
+ATOM   1108   CB GLU A1019      58.266   1.867 -22.567  0.00  0.00           C 0
+ATOM   1116  OE2 GLU A1019      58.749   3.057 -19.073  0.00  0.00           O 0
+ATOM    996  NH2 ARG A1012      54.159   0.837 -16.855  0.43  5.47           N 0
+ATOM   2935  NH2 ARG A1143      55.421   1.898 -13.362  0.00  0.00           N 0
+ATOM   2627  CE1 HIS A1123      56.217  -1.493 -22.045  0.00  0.00           C 0
+ATOM    993  NH1 ARG A1012      54.489   3.107 -16.785  0.18  2.19           N 0
+ATOM   2629  NE2 HIS A1123      56.293  -0.812 -20.916  0.69  1.09           N 0
+ATOM   1111   CG GLU A1019      58.993   2.624 -21.427  0.00  0.00           C 0
+ATOM   2603    O HIS A1122      56.511  -4.743 -18.325  0.00  0.00           O 0
+ATOM   2929   NE ARG A1143      53.957   0.164 -13.627  0.71  8.75           N 0
+ATOM   2561   OG SER A1118      54.917  -5.486 -15.824  0.43  5.36           O 0
+ATOM   2625  CD2 HIS A1123      55.336  -1.277 -20.059  0.00  0.00           C 0
+ATOM   2596    C GLY A1121      59.571  -5.626 -20.537  0.00  0.00           C 0
+ATOM   2598    N HIS A1122      58.557  -5.925 -19.711  0.00  0.00           N 0
+ATOM   2591    N GLY A1121      61.063  -5.939 -18.553  0.62  6.56           N 0
+TER
+END

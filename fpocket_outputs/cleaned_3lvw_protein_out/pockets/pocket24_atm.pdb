@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0033
+HEADER 1  - Drug Score                        : 0.0070
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9535
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7317
+HEADER 5  - Mean B-factor of pocket residues  : 0.1052
+HEADER 6  - Hydrophobicity Score              : 41.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.8746
+HEADER 10 - Pocket volume (convex hull)       : 4.7781
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM   2007  CG1 ILE A 128      -8.364  46.422  -2.481  0.00  0.00           C 0
+ATOM   2053  CD1 TYR A 131      -5.511  46.647   1.867  0.00  0.00           C 0
+ATOM   1339  CD2 LEU A  85     -11.617  45.342   3.457  0.00  0.00           C 0
+ATOM   1335  CD1 LEU A  85      -9.259  44.568   3.375  0.00  0.00           C 0
+ATOM   1330   CB LEU A  85     -10.817  43.742   1.642  0.00  0.00           C 0
+ATOM   2057  CE1 TYR A 131      -6.074  46.086   2.975  0.00  0.00           C 0
+ATOM   2061   CZ TYR A 131      -5.889  46.661   4.232  0.00  0.00           C 0
+ATOM   2062   OH TYR A 131      -6.459  46.082   5.357  0.38  7.50           O 0
+ATOM   1390  ND2 ASN A  89     -13.415  46.947  -1.228  0.67  4.37           N 0
+ATOM   1999    N ILE A 128      -5.909  47.842  -3.511  0.00  0.00           N 0
+ATOM   2001   CA ILE A 128      -5.905  46.760  -2.560  0.00  0.00           C 0
+ATOM   1994    O ALA A 127      -4.323  48.944  -2.350  0.00  0.00           O 0
+ATOM   1993    C ALA A 127      -5.085  48.867  -3.332  0.00  0.00           C 0
+ATOM   1995   CB ALA A 127      -6.250  51.038  -4.232  0.00  0.00           C 0
+ATOM   2049   CB TYR A 131      -4.205  48.509   0.743  0.00  0.00           C 0
+ATOM   1934   CE LYS A 124     -11.390  50.398  -3.580  0.00  0.00           C 0
+ATOM   2052   CG TYR A 131      -4.794  47.862   1.964  0.00  0.00           C 0
+TER
+END

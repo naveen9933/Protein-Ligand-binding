@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0789
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8028
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5854
+HEADER 5  - Mean B-factor of pocket residues  : 0.2780
+HEADER 6  - Hydrophobicity Score              : 39.1429
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 192.6449
+HEADER 10 - Pocket volume (convex hull)       : 6.4121
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM    562   CB SER A  46      25.982  21.568  33.779  0.00  0.00           C 0
+ATOM    565   OG SER A  46      26.584  20.651  32.887  0.00  0.00           O 0
+ATOM    327  ND1 HIS A  31      26.896  20.067  36.764  0.00  0.00           N 0
+ATOM    551    O ALA A  45      22.867  21.576  34.322  0.68  1.07           O 0
+ATOM    338    O VAL A  32      20.621  20.288  36.315  0.52  1.07           O 0
+ATOM    323   CB HIS A  31      25.207  21.465  38.017  0.00  0.00           C 0
+ATOM    365  CE2 PHE A  33      22.641  17.839  40.037  0.00  0.00           C 0
+ATOM    546    N ALA A  45      20.858  20.215  33.203  0.00  0.00           N 0
+ATOM    517   CB PRO A  43      21.846  15.450  35.786  0.00  0.00           C 0
+ATOM    548   CA ALA A  45      21.740  20.964  32.306  0.00  0.00           C 0
+ATOM    531    O PHE A  44      19.772  19.124  31.572  0.60  8.57           O 0
+ATOM    520   CG PRO A  43      22.081  14.517  36.944  0.00  0.00           C 0
+ATOM    550    C ALA A  45      22.911  21.523  33.094  0.00  0.00           C 0
+ATOM    530    C PHE A  44      19.919  19.382  32.757  0.00  0.00           C 0
+ATOM    513   CA PRO A  43      20.699  16.337  36.282  0.00  0.00           C 0
+ATOM    515    C PRO A  43      19.858  16.817  35.107  0.00  0.00           C 0
+ATOM    516    O PRO A  43      19.215  16.007  34.433  0.41  4.29           O 0
+TER
+END

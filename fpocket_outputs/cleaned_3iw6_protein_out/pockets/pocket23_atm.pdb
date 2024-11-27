@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.1032
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.3546
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6958
+HEADER 5  - Mean B-factor of pocket residues  : 0.1542
+HEADER 6  - Hydrophobicity Score              : 28.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.3713
+HEADER 10 - Pocket volume (convex hull)       : 0.7629
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   5073  CD1 LEU A 332       1.173  -9.290 -14.821  0.00  0.00           C 0
+ATOM   5077  CD2 LEU A 332       2.294  -8.770 -17.006  0.00  0.00           C 0
+ATOM   5145  OE2 GLU A 336       3.470 -13.810 -18.336  0.00  0.00           O 0
+ATOM   5143   CD GLU A 336       2.361 -13.523 -17.862  0.00  0.00           C 0
+ATOM   5044  NH1 ARG A 330       4.676  -7.788 -12.795  0.00  0.00           N 0
+ATOM   5214  CD1 LEU A 340       1.764 -10.735 -11.456  0.00  0.00           C 0
+ATOM   5137   CB GLU A 336       0.860 -13.631 -15.783  0.00  0.00           C 0
+ATOM   5140   CG GLU A 336       1.801 -14.397 -16.763  0.00  0.00           C 0
+ATOM   5218  CD2 LEU A 340       3.277 -11.929  -9.831  0.00  0.00           C 0
+ATOM   5212   CG LEU A 340       1.921 -11.967 -10.576  0.00  0.00           C 0
+ATOM   5133   CA GLU A 336       0.093 -14.570 -14.844  0.00  0.00           C 0
+ATOM   5201   OG SER A 339       1.667 -17.761 -10.272  0.00  0.00           O 0
+ATOM   5198   CB SER A 339       0.606 -17.240 -11.060  0.00  0.00           C 0
+ATOM   5136    O GLU A 336      -0.135 -13.976 -12.512  0.00  0.00           O 0
+TER
+END

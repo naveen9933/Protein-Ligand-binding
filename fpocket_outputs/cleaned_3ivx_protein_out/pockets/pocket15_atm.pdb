@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0427
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1245
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6185
+HEADER 5  - Mean B-factor of pocket residues  : 0.1693
+HEADER 6  - Hydrophobicity Score              : 11.6250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.8096
+HEADER 10 - Pocket volume (convex hull)       : 3.2327
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   5926    N LEU B 123      18.334  -0.254  32.247  0.69  2.19           N 0
+ATOM   6711  NE2 GLN B 170      13.842   3.394  32.748  0.00  6.56           N 0
+ATOM   5917   CB PRO B 122      20.976   1.054  31.049  0.00  0.00           C 0
+ATOM   5920   CG PRO B 122      20.885   2.003  29.955  0.00  0.00           C 0
+ATOM   5937  CD1 LEU B 123      16.129  -0.480  36.099  0.00  0.00           C 0
+ATOM   5979  OE2 GLU B 126      20.186   0.115  36.234  0.48  9.64           O 0
+ATOM   5932   CB LEU B 123      16.304  -0.022  33.640  0.00  0.00           C 0
+ATOM   7926    O LEU B 257      17.011   2.293  39.448  0.81  2.14           O 0
+ATOM   5923   CD PRO B 122      19.540   1.800  29.315  0.00  0.00           C 0
+ATOM   6710  OE1 GLN B 170      13.889   2.180  30.820  0.00  0.00           O 0
+ATOM   1675   CD ARG A 115      15.295   5.176  29.505  0.00  0.00           C 0
+ATOM   7925    C LEU B 257      16.043   3.083  39.519  0.00  0.00           C 0
+ATOM   7920    C GLY B 256      13.084   4.015  38.336  0.00  0.00           C 0
+ATOM   5941  CD2 LEU B 123      14.155   0.456  34.830  0.00  0.00           C 0
+ATOM   7942   CA GLY B 258      17.480   5.029  39.624  0.00  0.00           C 0
+ATOM   7940    N GLY B 258      16.182   4.399  39.483  0.76  2.19           N 0
+TER
+END

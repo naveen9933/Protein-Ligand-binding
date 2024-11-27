@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.1323
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8642
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4811
+HEADER 5  - Mean B-factor of pocket residues  : 0.2577
+HEADER 6  - Hydrophobicity Score              : 8.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.4438
+HEADER 10 - Pocket volume (convex hull)       : 1.7312
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   1951   CZ ARG A 129      51.353  10.630  76.293  0.00  0.00           C 0
+ATOM   1952  NH1 ARG A 129      50.817  11.623  77.013  0.00  0.00           N 0
+ATOM   2064   CD LYS A 136      57.125   8.512  80.382  0.00  0.00           C 0
+ATOM   1955  NH2 ARG A 129      52.095  10.924  75.231  0.30  7.66           N 0
+ATOM   2073   CB GLU A 137      51.247   7.975  82.360  0.00  0.00           C 0
+ATOM   2061   CG LYS A 136      56.025   7.955  81.286  0.00  0.00           C 0
+ATOM   2080  OE1 GLU A 137      49.662  10.833  82.472  0.66  9.64           O 0
+ATOM   1946   CD ARG A 129      50.397   8.857  77.737  0.00  0.00           C 0
+ATOM   1940   CB ARG A 129      51.583   6.653  78.094  0.00  0.00           C 0
+ATOM   1949   NE ARG A 129      51.178   9.339  76.618  0.43  3.28           N 0
+ATOM   1963    O PHE A 130      56.144   5.405  76.821  0.00  0.00           O 0
+ATOM   2079   CD GLU A 137      49.536   9.714  81.958  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0999
+HEADER 1  - Drug Score                        : 0.0072
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0083
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6470
+HEADER 5  - Mean B-factor of pocket residues  : 0.3965
+HEADER 6  - Hydrophobicity Score              : 8.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 243.7091
+HEADER 10 - Pocket volume (convex hull)       : 5.8324
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM   7403    O ASP D  29      -0.995  31.358 -14.043  0.00  0.00           O 0
+ATOM   7430    O PHE D  31       2.112  28.621 -13.851  0.76  1.07           O 0
+ATOM   7356   CD LYS D  25       0.030  24.484 -10.764  0.00  0.00           C 0
+ATOM   7457  CG2 VAL D  32       0.283  28.564 -17.486  0.00  0.00           C 0
+ATOM   7400   CA ASP D  29      -0.871  32.221 -11.800  0.00  0.00           C 0
+ATOM   7404   CB ASP D  29      -2.240  32.931 -11.650  0.00  0.00           C 0
+ATOM   7408  OD1 ASP D  29      -2.417  32.305  -9.332  0.00  0.00           O 0
+ATOM   7350   CB LYS D  25       1.366  26.401  -9.867  0.00  0.00           C 0
+ATOM   7349    O LYS D  25       1.800  29.361  -8.801  0.40  4.29           O 0
+ATOM   7353   CG LYS D  25       1.272  25.356 -10.947  0.00  0.00           C 0
+ATOM   7397    O GLY D  28       1.647  31.189 -11.236  0.00  0.00           O 0
+ATOM   7472   CD PRO D  33       2.304  25.023 -14.594  0.00  0.00           C 0
+ATOM   7359   CE LYS D  25       0.116  23.212 -11.604  0.00  0.00           C 0
+ATOM   7362   NZ LYS D  25      -1.208  22.613 -11.851  0.00  0.00           N 0
+ATOM   7453  CG1 VAL D  32       0.679  26.177 -18.021  0.00  0.00           C 0
+ATOM   7447   CA VAL D  32       2.215  27.344 -16.385  0.00  0.00           C 0
+TER
+END

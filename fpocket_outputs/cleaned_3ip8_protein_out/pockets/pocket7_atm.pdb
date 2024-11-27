@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0041
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7996
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4443
+HEADER 5  - Mean B-factor of pocket residues  : 0.4564
+HEADER 6  - Hydrophobicity Score              : 7.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.5691
+HEADER 10 - Pocket volume (convex hull)       : 9.5814
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   3214   CE LYS A 228      21.615  11.693  -0.174  0.00  0.00           C 0
+ATOM   3260   CB PRO A 231      24.194  12.573   6.034  0.00  0.00           C 0
+ATOM   3226    O ALA A 229      19.943  14.076   2.900  0.74  4.29           O 0
+ATOM   3256   CA PRO A 231      22.708  12.678   6.412  0.00  0.00           C 0
+ATOM   3236    O ARG A 230      20.103  13.696   6.019  0.68  2.14           O 0
+ATOM   3352    O PHE A 237      18.164   9.156   2.646  0.63  1.07           O 0
+ATOM   3269    N GLY A 232      22.391  11.325   8.409  0.00  0.00           N 0
+ATOM   3353   CB PHE A 237      16.777  10.013   5.060  0.00  0.00           C 0
+ATOM   3371    C ASP A 238      20.005   6.252   3.115  0.00  0.00           C 0
+ATOM   3372    O ASP A 238      20.249   5.301   3.867  0.00  0.00           O 0
+ATOM   3217   NZ LYS A 228      20.882  10.382  -0.130  0.64  3.28           N 0
+ATOM   3303    O GLY A 234      17.943   7.256   7.240  0.40  4.29           O 0
+ATOM   3266   CD PRO A 231      23.509  14.823   5.563  0.00  0.00           C 0
+ATOM   3263   CG PRO A 231      24.675  13.964   6.028  0.00  0.00           C 0
+ATOM   3255    N PRO A 231      22.332  13.994   5.884  0.00  0.00           N 0
+ATOM   3276    N TYR A 233      20.023  10.802   9.696  0.43  1.09           N 0
+TER
+END

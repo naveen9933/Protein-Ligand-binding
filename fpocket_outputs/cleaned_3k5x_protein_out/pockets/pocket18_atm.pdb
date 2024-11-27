@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0566
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9484
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5851
+HEADER 5  - Mean B-factor of pocket residues  : 0.2485
+HEADER 6  - Hydrophobicity Score              : 8.1000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.6088
+HEADER 10 - Pocket volume (convex hull)       : 6.4705
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0400
+ATOM   2010    N ALA A 133     -25.123  24.548 -39.281  0.00  0.00           N 0
+ATOM   2074  NH2 ARG A 136     -24.913  21.653 -41.918  0.65  3.28           N 0
+ATOM   5731  OD1 ASN A 384     -27.507  23.862 -46.224  0.00  0.00           O 0
+ATOM   2016   CB ALA A 133     -23.350  25.137 -40.872  0.00  0.00           C 0
+ATOM   5726    O ASN A 384     -30.458  24.129 -45.026  0.70  1.07           O 0
+ATOM   5740    O ALA A 385     -31.263  24.924 -41.802  0.59  4.29           O 0
+ATOM   5725    C ASN A 384     -30.414  23.069 -44.404  0.00  0.00           C 0
+ATOM   5755  CG2 THR A 386     -31.651  27.976 -44.233  0.00  0.00           C 0
+ATOM   5723   CA ASN A 384     -29.244  22.100 -44.582  0.00  0.00           C 0
+ATOM   5715    O SER A 383     -28.063  20.862 -42.373  0.76  1.07           O 0
+ATOM   1989   OG SER A 131     -25.156  28.093 -39.006  0.00  0.00           O 0
+ATOM   1991    N LEU A 132     -27.461  25.562 -38.239  0.58  5.47           N 0
+ATOM   1982   CA SER A 131     -27.279  27.952 -37.792  0.00  0.00           C 0
+ATOM   1997   CB LEU A 132     -28.076  23.258 -38.848  0.00  0.00           C 0
+ATOM   1971    O ASN A 130     -29.857  28.990 -37.927  0.41  8.57           O 0
+ATOM   5747   CA THR A 386     -32.874  27.158 -42.196  0.00  0.00           C 0
+ATOM   5751   CB THR A 386     -32.752  28.289 -43.236  0.00  0.00           C 0
+ATOM   5791  OE1 GLU A 388     -33.439  31.713 -42.196  0.00  0.00           O 0
+ATOM   1986   CB SER A 131     -26.010  28.757 -38.092  0.00  0.00           C 0
+TER
+END

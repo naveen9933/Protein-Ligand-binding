@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0156
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9423
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5990
+HEADER 5  - Mean B-factor of pocket residues  : 0.3292
+HEADER 6  - Hydrophobicity Score              : 17.1250
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 2.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.6352
+HEADER 10 - Pocket volume (convex hull)       : 10.6723
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM   1127   CB LEU A  79      26.167  13.976  13.158  0.00  0.00           C 0
+ATOM   1084    O GLY A  74      29.458   9.387  13.635  0.45  1.07           O 0
+ATOM   1087   CA ALA A  75      31.581   9.307  15.448  0.00  0.00           C 0
+ATOM   1136  CD2 LEU A  79      24.964  14.356  15.376  0.00  0.00           C 0
+ATOM   1140    N ASP A  80      27.704  16.285  11.728  0.00  0.00           N 0
+ATOM   1104   CA GLY A  77      31.965  13.907  11.423  0.00  0.00           C 0
+ATOM   1151  OD2 ASP A  80      30.094  17.923  14.392  0.00  0.00           O 0
+ATOM   1121    N LEU A  79      27.530  13.517  11.157  0.00  0.00           N 0
+ATOM   1085    N ALA A  75      30.430   8.391  15.431  0.00  0.00           N 0
+ATOM   1102    N GLY A  77      32.279  12.625  12.071  0.45  6.56           N 0
+ATOM   1095    N GLY A  76      32.847  10.501  13.739  0.74  2.19           N 0
+ATOM   1083    C GLY A  74      29.473   8.491  14.500  0.00  0.00           C 0
+ATOM   1063    O PHE A  73      25.648   7.795  15.032  0.00  0.00           O 0
+ATOM   1064   CB PHE A  73      25.317  10.019  12.644  0.00  0.00           C 0
+ATOM   1080   CA GLY A  74      28.374   7.440  14.529  0.00  0.00           C 0
+ATOM   1014    O PRO A  70      23.035  10.010  15.684  0.00  0.00           O 0
+TER
+END

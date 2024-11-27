@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0532
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0928
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6436
+HEADER 5  - Mean B-factor of pocket residues  : 0.2022
+HEADER 6  - Hydrophobicity Score              : 4.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.3486
+HEADER 10 - Pocket volume (convex hull)       : 6.4879
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM   3956    C GLU B 209      24.520 -60.524  13.247  0.00  0.00           C 0
+ATOM   3976   CG GLN B 210      22.207 -57.416  14.883  0.00  0.00           C 0
+ATOM   3957    O GLU B 209      25.741 -60.369  13.256  0.53  2.14           O 0
+ATOM   3958   CB GLU B 209      23.264 -60.763  11.045  0.00  0.00           C 0
+ATOM   3967    N GLN B 210      23.702 -59.924  14.106  0.00  0.00           N 0
+ATOM   3969   CA GLN B 210      24.191 -59.016  15.152  0.00  0.00           C 0
+ATOM   3981  NE2 GLN B 210      20.606 -55.636  15.195  0.26  7.66           N 0
+ATOM   6706   CB THR B 384      24.982 -51.579  11.521  0.00  0.00           C 0
+ATOM   6764  OE1 GLU B 387      19.882 -51.657  12.743  0.33  7.50           O 0
+ATOM   6705    O THR B 384      24.338 -52.134  14.636  0.79  2.14           O 0
+ATOM   4023   CE MET B 213      27.554 -55.283  15.179  0.00  0.00           C 0
+ATOM   6708  OG1 THR B 384      26.391 -51.325  11.592  0.61  3.21           O 0
+ATOM   4019   CG MET B 213      29.092 -56.927  13.600  0.00  0.00           C 0
+ATOM   6732   CZ TYR B 385      30.485 -51.817  12.993  0.00  0.00           C 0
+ATOM   6733   OH TYR B 385      31.317 -52.324  12.016  0.00  0.00           O 0
+ATOM   4967   CB PRO B 276      31.484 -54.863   9.431  0.00  0.00           C 0
+ATOM   4016   CB MET B 213      28.335 -58.260  13.857  0.00  0.00           C 0
+TER
+END

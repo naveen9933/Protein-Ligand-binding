@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0456
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9369
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5364
+HEADER 5  - Mean B-factor of pocket residues  : 0.1483
+HEADER 6  - Hydrophobicity Score              : 14.5714
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 165.7961
+HEADER 10 - Pocket volume (convex hull)       : 3.1132
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM   3694    N MET B  -2     -41.433  10.969   7.350  0.41  1.09           N 0
+ATOM   3684    N ALA B  -3     -43.151  10.001   5.458  0.00  0.00           N 0
+ATOM   4215  OE1 GLU B  31     -40.781  15.238   2.771  0.43  2.14           O 0
+ATOM   3703   CG MET B  -2     -38.488  11.177   7.261  0.00  0.00           C 0
+ATOM   3679   CA GLY B  -4     -44.072  12.054   4.369  0.00  0.00           C 0
+ATOM   4106   CB ALA B  24     -34.939   8.716   4.154  0.00  0.00           C 0
+ATOM   3690   CB ALA B  -3     -42.120   7.829   6.280  0.00  0.00           C 0
+ATOM   3700   CB MET B  -2     -39.439  12.248   7.789  0.00  0.00           C 0
+ATOM   3707   CE MET B  -2     -37.129   8.802   7.501  0.00  0.00           C 0
+ATOM   4159   CD LYS B  27     -37.479  12.918   0.200  0.00  0.00           C 0
+ATOM   4102   CA ALA B  24     -34.408  10.114   3.769  0.00  0.00           C 0
+ATOM   4105    O ALA B  24     -35.589  11.808   5.004  0.80  1.07           O 0
+ATOM   4169    N GLY B  28     -36.699  14.639   4.810  0.00  0.00           N 0
+ATOM   4171   CA GLY B  28     -37.645  15.010   5.827  0.00  0.00           C 0
+ATOM   4165   NZ LYS B  27     -39.918  13.052  -0.044  0.20  7.66           N 0
+ATOM   4156   CG LYS B  27     -37.188  14.043   1.161  0.00  0.00           C 0
+TER
+END

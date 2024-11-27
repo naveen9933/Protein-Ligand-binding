@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0581
+HEADER 1  - Drug Score                        : 0.0054
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1936
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7725
+HEADER 5  - Mean B-factor of pocket residues  : 0.6473
+HEADER 6  - Hydrophobicity Score              : 54.0000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 202.6731
+HEADER 10 - Pocket volume (convex hull)       : 1.7041
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM   1013  CG2 ILE A  63      13.103  42.799   3.681  0.00  0.00           C 0
+ATOM   1114   CB LYS A  70       9.754  44.519   6.595  0.00  0.00           C 0
+ATOM   1017  CD1 ILE A  63      15.337  44.486   2.073  0.00  0.00           C 0
+ATOM   1120   CD LYS A  70       9.180  45.361   4.305  0.00  0.00           C 0
+ATOM   1010  CG1 ILE A  63      15.476  43.488   3.222  0.00  0.00           C 0
+ATOM   1146   CB ILE A  72      17.173  43.736   7.084  0.00  0.00           C 0
+ATOM   1155  CD1 ILE A  72      18.668  44.480   5.116  0.00  0.00           C 0
+ATOM   1151  CG2 ILE A  72      17.618  44.747   8.133  0.00  0.00           C 0
+ATOM   1140    N ILE A  72      15.362  42.747   8.504  0.74  1.09           N 0
+ATOM   1113    O LYS A  70      10.844  44.193   9.569  0.59  8.57           O 0
+ATOM   1112    C LYS A  70      10.820  43.431   8.597  0.00  0.00           C 0
+ATOM   1134    C ALA A  71      14.185  42.229   8.166  0.00  0.00           C 0
+ATOM   1130    N ALA A  71      11.797  42.578   8.320  0.00  0.00           N 0
+ATOM   1132   CA ALA A  71      13.024  42.522   9.100  0.00  0.00           C 0
+TER
+END

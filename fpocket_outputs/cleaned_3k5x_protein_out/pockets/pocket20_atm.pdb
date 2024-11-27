@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0682
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9405
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5702
+HEADER 5  - Mean B-factor of pocket residues  : 0.1408
+HEADER 6  - Hydrophobicity Score              : -2.7143
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 316.2844
+HEADER 10 - Pocket volume (convex hull)       : 13.1768
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0952
+ATOM   2125   OH TYR A 139     -19.549  13.308 -31.501  0.43  6.43           O 0
+ATOM   5526   CG GLU A 370     -20.551   8.610 -28.506  0.00  0.00           C 0
+ATOM   5642  NH2 ARG A 377     -20.584   8.078 -36.005  0.00  0.00           N 0
+ATOM   1618  CG2 THR A 103     -15.444   9.690 -28.389  0.00  0.00           C 0
+ATOM   5523   CB GLU A 370     -21.371   7.535 -29.195  0.00  0.00           C 0
+ATOM   5589  NH1 ARG A 374     -20.274   4.337 -31.344  0.71  8.75           N 0
+ATOM   5580   CG ARG A 374     -21.703   5.079 -34.413  0.00  0.00           C 0
+ATOM   5522    O GLU A 370     -23.148   6.932 -31.892  0.67  2.14           O 0
+ATOM   5530  OE1 GLU A 370     -19.241   6.828 -27.611  0.59  2.14           O 0
+ATOM   5529   CD GLU A 370     -19.499   8.049 -27.571  0.00  0.00           C 0
+ATOM   5636   NE ARG A 377     -21.768   9.944 -36.643  0.67  2.19           N 0
+ATOM   5638   CZ ARG A 377     -20.890   8.987 -36.921  0.00  0.00           C 0
+ATOM   5519   CA GLU A 370     -22.671   8.049 -29.816  0.00  0.00           C 0
+ATOM   5569   OG SER A 373     -23.408  10.533 -34.313  0.55  1.07           O 0
+ATOM   2122  CE2 TYR A 139     -19.147  15.156 -32.944  0.00  0.00           C 0
+ATOM   5639  NH1 ARG A 377     -20.310   8.946 -38.113  0.00  0.00           N 0
+ATOM   5633   CD ARG A 377     -22.161  10.995 -37.577  0.00  0.00           C 0
+ATOM   2764    O GLU A 183     -22.377  13.414 -33.186  0.76  3.21           O 0
+ATOM   2772  OE1 GLU A 183     -21.753  16.857 -35.911  0.00  0.00           O 0
+TER
+END

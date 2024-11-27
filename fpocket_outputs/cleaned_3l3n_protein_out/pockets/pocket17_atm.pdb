@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.1523
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.1572
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5763
+HEADER 5  - Mean B-factor of pocket residues  : 0.5839
+HEADER 6  - Hydrophobicity Score              : 11.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 188.3999
+HEADER 10 - Pocket volume (convex hull)       : 3.2640
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4091
+ATOM    104   CB PHE A  47      48.140 -18.901 134.277  0.00  0.00           C 0
+ATOM    937  NE2 GLN A  98      52.164 -15.764 137.590  0.56  6.56           N 0
+ATOM    162  OE1 GLU A  50      47.571 -16.532 139.872  0.26  4.29           O 0
+ATOM     94   NZ LYS A  46      47.062 -20.888 141.051  0.69  8.75           N 0
+ATOM    108  CD1 PHE A  47      49.817 -17.078 134.493  0.00  0.00           C 0
+ATOM     49   CG GLU A  43      49.672 -24.686 137.283  0.00  0.00           C 0
+ATOM     53  OE1 GLU A  43      52.043 -24.655 136.820  0.00  0.00           O 0
+ATOM    100   CA PHE A  47      46.968 -18.395 135.091  0.00  0.00           C 0
+ATOM     45    O GLU A  43      47.378 -22.119 135.076  0.69  3.21           O 0
+ATOM     91   CE LYS A  46      46.273 -21.978 140.411  0.00  0.00           C 0
+ATOM     98    N PHE A  47      46.104 -19.524 135.479  0.71  1.09           N 0
+ATOM   1014   CZ PHE A 102      50.627 -21.781 133.274  0.00  0.00           C 0
+ATOM   1010  CE1 PHE A 102      51.326 -20.715 132.683  0.00  0.00           C 0
+ATOM    932   CG GLN A  98      53.823 -16.939 136.186  0.00  0.00           C 0
+ATOM    989   CE LYS A 101      56.336 -19.719 135.290  0.00  0.00           C 0
+ATOM    992   NZ LYS A 101      56.219 -18.870 136.524  0.00  0.00           N 0
+TER
+END

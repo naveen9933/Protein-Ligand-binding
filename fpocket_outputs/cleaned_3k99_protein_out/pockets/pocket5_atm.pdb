@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0917
+HEADER 1  - Drug Score                        : 0.1181
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0137
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6382
+HEADER 5  - Mean B-factor of pocket residues  : 0.5105
+HEADER 6  - Hydrophobicity Score              : 37.4444
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 430.0779
+HEADER 10 - Pocket volume (convex hull)       : 28.6187
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM   1665    O GLY A 114      36.787  60.405  50.500  0.65  2.14           O 0
+ATOM   1661   CA GLY A 114      37.774  62.030  49.028  0.00  0.00           C 0
+ATOM   1955  CE2 PHE A 134      40.406  59.586  51.217  0.00  0.00           C 0
+ATOM   1708   CB ALA A 117      35.058  58.198  48.167  0.00  0.00           C 0
+ATOM   1957   CZ PHE A 134      40.482  58.349  51.818  0.00  0.00           C 0
+ATOM   1707    O ALA A 117      34.183  56.278  50.621  0.62  3.21           O 0
+ATOM   1712    N PHE A 118      35.338  58.066  51.337  0.00  0.00           N 0
+ATOM   1706    C ALA A 117      34.529  57.451  50.483  0.00  0.00           C 0
+ATOM   1714   CA PHE A 118      35.818  57.393  52.535  0.00  0.00           C 0
+ATOM   1770   CB ALA A 121      34.963  53.050  51.968  0.00  0.00           C 0
+ATOM   1843   CB ASP A 127      39.409  49.375  58.346  0.00  0.00           C 0
+ATOM   1874   CB SER A 129      43.321  52.027  59.528  0.00  0.00           C 0
+ATOM   1847  OD1 ASP A 127      41.398  49.634  59.631  0.00  0.00           O 0
+ATOM   1888   CG MET A 130      43.130  53.785  54.694  0.00  0.00           C 0
+ATOM   1892   CE MET A 130      45.232  53.250  56.479  0.00  0.00           C 0
+ATOM   1877   OG SER A 129      44.713  52.304  59.530  0.00  0.00           O 0
+ATOM   1726  CE1 PHE A 118      38.241  56.036  55.959  0.00  0.00           C 0
+ATOM   1842    O ASP A 127      38.046  52.340  57.525  0.78  5.36           O 0
+ATOM   1833   CB ALA A 126      35.830  50.699  54.570  0.00  0.00           C 0
+ATOM   1885   CB MET A 130      42.379  54.998  55.221  0.00  0.00           C 0
+ATOM   1837    N ASP A 127      37.353  49.770  57.069  0.59  4.37           N 0
+ATOM   1722  CD1 PHE A 118      37.837  56.553  54.735  0.00  0.00           C 0
+ATOM   1953  CE1 PHE A 134      40.477  58.255  53.200  0.00  0.00           C 0
+ATOM   1879    N MET A 130      42.380  54.489  57.623  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0840
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7711
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6157
+HEADER 5  - Mean B-factor of pocket residues  : 0.2811
+HEADER 6  - Hydrophobicity Score              : 27.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 228.1463
+HEADER 10 - Pocket volume (convex hull)       : 6.8560
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   8437    O ILE B 285       9.051   5.833  49.953  0.00  0.00           O 0
+ATOM   8127   CB SER B 265       8.218   9.132  47.013  0.00  0.00           C 0
+ATOM   8428   CB ALA B 284       4.899   2.755  48.495  0.00  0.00           C 0
+ATOM   8130   OG SER B 265       7.270   9.957  47.662  0.38  5.36           O 0
+ATOM   8460   CG GLU B 286       6.970   9.089  51.286  0.00  0.00           C 0
+ATOM   8451    N GLU B 286       8.442   5.885  52.134  0.58  3.28           N 0
+ATOM   8427    O ALA B 284       6.464   1.887  50.929  0.75  7.50           O 0
+ATOM   8457   CB GLU B 286       7.251   8.032  52.410  0.00  0.00           C 0
+ATOM   8138    O GLY B 266       9.004   4.046  47.147  0.65  1.07           O 0
+ATOM   8432    N ILE B 285       7.824   3.329  49.878  0.74  1.09           N 0
+ATOM   8436    C ILE B 285       8.709   5.245  50.999  0.00  0.00           C 0
+ATOM   8426    C ALA B 284       6.889   2.389  49.903  0.00  0.00           C 0
+ATOM   7995  CG2 ILE B 255       8.436   6.273  44.032  0.00  0.00           C 0
+ATOM   8157  NH1 ARG B 267       4.981   1.520  44.769  0.63  8.75           N 0
+ATOM   7999  CD1 ILE B 255       7.276   8.233  41.687  0.00  0.00           C 0
+TER
+END

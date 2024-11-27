@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.1632
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9813
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4665
+HEADER 5  - Mean B-factor of pocket residues  : 0.4209
+HEADER 6  - Hydrophobicity Score              : 0.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 356.8747
+HEADER 10 - Pocket volume (convex hull)       : 11.5793
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   5360   CD LYS A 340      17.796   5.880 -25.424  0.00  0.00           C 0
+ATOM   5472   NZ LYS A 348      12.570   1.501 -29.259  0.07  6.56           N 0
+ATOM   5469   CE LYS A 348      12.085   1.010 -27.962  0.00  0.00           C 0
+ATOM   5466   CD LYS A 348      11.798   2.215 -27.075  0.00  0.00           C 0
+ATOM   5380  OD1 ASN A 341      17.148   6.148 -30.524  0.00  0.00           O 0
+ATOM   5366   NZ LYS A 340      20.008   4.871 -26.033  0.57  8.75           N 0
+ATOM   5460   CB LYS A 348      10.516   3.003 -24.981  0.00  0.00           C 0
+ATOM   5518  NE2 GLN A 351      11.289   7.357 -27.052  0.44  7.66           N 0
+ATOM   5517  OE1 GLN A 351      11.862   6.132 -28.851  0.55  3.21           O 0
+ATOM   5357   CG LYS A 340      17.828   7.034 -26.496  0.00  0.00           C 0
+ATOM   5354   CB LYS A 340      17.815   8.428 -25.859  0.00  0.00           C 0
+ATOM   5353    O LYS A 340      16.088   9.422 -28.077  0.00  0.00           O 0
+ATOM   5417    O GLY A 344      13.290  11.137 -24.000  0.53  6.43           O 0
+ATOM   5430    O ILE A 346       9.757   8.426 -24.654  0.35  2.14           O 0
+ATOM   5454    N LYS A 348       9.093   5.000 -24.584  0.69  2.19           N 0
+ATOM    236  NH1 ARG A  16       9.610   8.410 -20.454  0.46  8.75           N 0
+ATOM    239  NH2 ARG A  16       9.685   6.654 -19.005  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0469
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7041
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4784
+HEADER 5  - Mean B-factor of pocket residues  : 0.5286
+HEADER 6  - Hydrophobicity Score              : -9.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 168.9031
+HEADER 10 - Pocket volume (convex hull)       : 2.1926
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3228   CB GLU A1161      14.979 -23.004 -25.177  0.00  0.00           C 0
+ATOM   3236  OE2 GLU A1161      14.012 -20.325 -26.973  0.00  0.00           O 0
+ATOM   3231   CG GLU A1161      14.748 -21.484 -25.005  0.00  0.00           C 0
+ATOM   3222    N GLU A1161      16.971 -22.787 -23.775  0.59  3.28           N 0
+ATOM   3189    O ARG A1159      17.358 -19.871 -21.416  0.48  5.36           O 0
+ATOM   3209   CA PRO A1160      18.805 -21.952 -22.422  0.00  0.00           C 0
+ATOM    598  NH1 ARG A 991      16.884 -16.509 -25.981  0.26  3.28           N 0
+ATOM    595   NE ARG A 991      19.163 -16.412 -26.144  0.56  5.47           N 0
+ATOM   3172    O MET A1158      20.423 -18.558 -20.406  0.42  2.14           O 0
+ATOM    577  ND2 ASN A 990      22.638 -22.045 -25.204  0.50  5.47           N 0
+ATOM    572   CB ASN A 990      23.702 -19.919 -25.154  0.00  0.00           C 0
+ATOM    566    N ASN A 990      23.878 -19.395 -22.795  0.00  0.00           N 0
+ATOM    589   CG ARG A 991      21.153 -15.469 -25.114  0.00  0.00           C 0
+ATOM    580    N ARG A 991      23.647 -16.959 -23.766  0.00  0.00           N 0
+TER
+END

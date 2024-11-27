@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0234
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7690
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4219
+HEADER 5  - Mean B-factor of pocket residues  : 0.5809
+HEADER 6  - Hydrophobicity Score              : -1.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.8185
+HEADER 10 - Pocket volume (convex hull)       : 10.2936
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1905
+ATOM   3154    N ARG B 103     -13.549 -11.795 -35.455  0.70  4.37           N 0
+ATOM   2521  OE2 GLU B  61     -10.791 -15.916 -38.264  0.00  7.50           O 0
+ATOM   3120  OD1 ASP B  99     -14.634 -18.237 -32.952  0.42  8.57           O 0
+ATOM   3139    O GLY B 101     -16.672 -13.074 -34.714  0.68  4.29           O 0
+ATOM   3141   CA PRO B 102     -15.598 -11.922 -36.872  0.00  0.00           C 0
+ATOM   3119   CG ASP B  99     -15.775 -18.656 -32.970  0.00  0.00           C 0
+ATOM   3116   CB ASP B  99     -16.965 -17.756 -32.694  0.00  0.00           C 0
+ATOM   3160   CB ARG B 103     -12.742 -12.059 -33.109  0.00  0.00           C 0
+ATOM   3159    O ARG B 103     -10.622 -12.104 -35.432  0.45  1.07           O 0
+ATOM   3216  CE1 TYR B 105     -10.119 -13.512 -30.748  0.00  0.00           C 0
+ATOM   3101    O ASN B  98     -15.003 -15.183 -30.091  0.45  2.14           O 0
+ATOM   2564  CD2 PHE B  64      -7.754 -17.059 -33.059  0.00  0.00           C 0
+ATOM   3221   OH TYR B 105     -11.767 -14.056 -29.096  0.70  4.29           O 0
+ATOM   1769   CB PRO B  11      -7.092 -14.915 -36.094  0.00  0.00           C 0
+ATOM   3092   CB ALA B  97     -10.205 -17.557 -28.531  0.00  0.00           C 0
+ATOM   3096    N ASN B  98     -13.466 -16.587 -28.082  0.33  1.09           N 0
+ATOM   2557    O PHE B  64      -9.802 -19.709 -34.000  0.22  3.21           O 0
+ATOM   2568  CE2 PHE B  64      -7.688 -16.321 -31.869  0.00  0.00           C 0
+TER
+END

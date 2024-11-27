@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.0222
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9999
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5590
+HEADER 5  - Mean B-factor of pocket residues  : 0.3166
+HEADER 6  - Hydrophobicity Score              : 16.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 325.0873
+HEADER 10 - Pocket volume (convex hull)       : 8.2088
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM   2249   CE LYS A 141     -29.781 -17.620  30.326  0.00  0.00           C 0
+ATOM   2193    O ASP A 138     -35.671 -15.433  27.037  0.00  0.00           O 0
+ATOM   2246   CD LYS A 141     -30.744 -18.322  29.324  0.00  0.00           C 0
+ATOM   2252   NZ LYS A 141     -30.292 -17.716  31.740  0.00  0.00           N 0
+ATOM   2224   CD LYS A 140     -28.547 -12.597  24.958  0.00  0.00           C 0
+ATOM   2243   CG LYS A 141     -30.378 -17.953  27.906  0.00  0.00           C 0
+ATOM   2314  CD1 ILE A 144     -26.748 -16.513  23.675  0.00  0.00           C 0
+ATOM   2187    O GLY A 137     -33.407 -12.240  26.672  0.00  0.00           O 0
+ATOM   2234    N LYS A 141     -31.472 -16.745  25.307  0.00  0.00           N 0
+ATOM   2198  OD1 ASP A 138     -36.445 -11.764  29.901  0.71  5.36           O 0
+ATOM   2190   CA ASP A 138     -35.947 -13.113  27.410  0.00  0.00           C 0
+ATOM   2227   CE LYS A 140     -27.169 -12.551  24.356  0.00  0.00           C 0
+ATOM   2230   NZ LYS A 140     -26.382 -11.472  24.954  0.00  0.00           N 0
+ATOM   2919    O ILE A 183     -22.630 -16.177  23.603  0.63  5.36           O 0
+ATOM   2218   CB LYS A 140     -30.886 -13.694  24.837  0.00  0.00           C 0
+ATOM   2221   CG LYS A 140     -29.434 -13.615  24.343  0.00  0.00           C 0
+TER
+END

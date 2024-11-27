@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.1315
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5386
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4013
+HEADER 5  - Mean B-factor of pocket residues  : 0.0000
+HEADER 6  - Hydrophobicity Score              : 22.6250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 75.5542
+HEADER 10 - Pocket volume (convex hull)       : 0.4172
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM   5058    O SER C 112      12.443  48.659  48.265  0.62  4.29           O 0
+ATOM   4481  OG1 THR C  75      13.609  54.754  45.695  0.76  3.21           O 0
+ATOM   5116   CB TYR C 116      17.526  49.751  46.939  0.00  0.00           C 0
+ATOM   4479   CB THR C  75      13.275  53.991  44.525  0.00  0.00           C 0
+ATOM   5049  CD2 LEU C 111      15.573  50.140  43.252  0.00  0.00           C 0
+ATOM   5122  CD2 TYR C 116      17.790  51.770  48.385  0.00  0.00           C 0
+ATOM   4697  ND1 HIS C  88      15.047  52.324  50.866  0.41  2.19           N 0
+ATOM   5068    O PRO C 113      10.929  50.452  50.748  0.00  0.00           O 0
+ATOM   4551  CD1 TRP C  79       9.942  51.546  46.013  0.00  0.00           C 0
+ATOM   4693   CB HIS C  88      14.712  54.664  49.972  0.00  0.00           C 0
+ATOM   4554  NE1 TRP C  79      10.731  50.445  45.783  0.64  3.28           N 0
+ATOM   4483  CG2 THR C  75      14.550  53.648  43.775  0.00  0.00           C 0
+ATOM   4658   CB PRO C  86       9.130  52.815  49.232  0.00  0.00           C 0
+ATOM   4687    N HIS C  88      12.673  54.463  51.323  0.00  0.00           N 0
+TER
+END

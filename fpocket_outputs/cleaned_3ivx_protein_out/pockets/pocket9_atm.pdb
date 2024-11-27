@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0275
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8071
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4759
+HEADER 5  - Mean B-factor of pocket residues  : 0.1670
+HEADER 6  - Hydrophobicity Score              : 20.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 105.0345
+HEADER 10 - Pocket volume (convex hull)       : 0.9610
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   6811   CB LEU B 177       3.093   4.361  23.139  0.00  0.00           C 0
+ATOM   6321  NE2 GLN B 148       2.188   1.205  18.949  0.39  1.09           N 0
+ATOM   6824    N ASP B 178       0.686   6.531  22.671  0.44  1.09           N 0
+ATOM   2178  NE2 GLN A 148       2.333   4.616  18.449  0.00  0.00           N 0
+ATOM   2234  NH1 ARG A 151      -2.726   4.878  18.722  0.45  6.56           N 0
+ATOM   6293    O LEU B 147      -2.031  -0.865  20.639  0.48  1.07           O 0
+ATOM   6294   CB LEU B 147       0.431  -1.145  22.826  0.00  0.00           C 0
+ATOM   6829    O ASP B 178      -2.550   6.015  23.529  0.46  6.43           O 0
+ATOM   6387    O PRO B 152      -4.969   2.794  24.246  0.55  2.14           O 0
+ATOM   6361   CA ARG B 151      -4.817   0.545  20.617  0.00  0.00           C 0
+ATOM   6394   CD PRO B 152      -4.238  -0.276  23.408  0.00  0.00           C 0
+ATOM   6842   CB VAL B 179      -1.266   3.473  25.739  0.00  0.00           C 0
+ATOM   6844  CG1 VAL B 179       0.192   3.133  26.094  0.00  0.00           C 0
+ATOM   6828    C ASP B 178      -1.406   6.288  23.890  0.00  0.00           C 0
+TER
+END

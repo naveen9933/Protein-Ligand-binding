@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0055
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9873
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6242
+HEADER 5  - Mean B-factor of pocket residues  : 0.2395
+HEADER 6  - Hydrophobicity Score              : 15.0909
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.9091
+HEADER 9  - Pocket volume (Monte Carlo)       : 304.5392
+HEADER 10 - Pocket volume (convex hull)       : 20.8701
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   1166   CB ALA A  87      -8.487   6.296   2.831  0.00  0.00           C 0
+ATOM   1434  OG1 THR A 106      -2.095   8.023   4.433  0.48  2.14           O 0
+ATOM   1209  CG2 THR A  90      -5.348  11.976   1.263  0.00  0.00           C 0
+ATOM   1162   CA ALA A  87      -8.181   7.647   3.511  0.00  0.00           C 0
+ATOM   1207  OG1 THR A  90      -5.607  11.165   3.514  0.00  0.00           O 0
+ATOM   1277  NH2 ARG A  94      -6.486  11.408  -2.181  0.00  0.00           N 0
+ATOM   1205   CB THR A  90      -6.334  11.535   2.345  0.00  0.00           C 0
+ATOM   1978  OE2 GLU A 141      -4.677   1.809   5.187  0.00  0.00           O 0
+ATOM   1977  OE1 GLU A 141      -3.460   0.187   4.383  0.00  0.00           O 0
+ATOM   1543  NH1 ARG A 113       0.042   0.989   2.338  0.00  0.00           N 0
+ATOM   1481  CD2 LEU A 109      -0.878   2.600   5.255  0.00  0.00           C 0
+ATOM   1157  ND2 ASN A  86      -4.200   7.118   6.321  0.30  3.28           N 0
+ATOM   1111    O ALA A  83      -8.247   4.615   6.255  0.00  0.00           O 0
+ATOM   1436  CG2 THR A 106      -0.071   8.137   3.086  0.00  0.00           C 0
+ATOM   1495  OD1 ASN A 110       2.482   4.882   1.776  0.00  0.00           O 0
+ATOM   1165    O ALA A  87      -9.032   9.518   2.255  0.50  2.14           O 0
+ATOM   1225  CG2 VAL A  91     -10.119  10.290  -1.013  0.00  0.00           C 0
+TER
+END

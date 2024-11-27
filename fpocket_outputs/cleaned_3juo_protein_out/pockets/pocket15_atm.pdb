@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0824
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7521
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5301
+HEADER 5  - Mean B-factor of pocket residues  : 0.2539
+HEADER 6  - Hydrophobicity Score              : 17.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 134.7253
+HEADER 10 - Pocket volume (convex hull)       : 1.6073
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   2973    O ALA B  37      24.691  18.617  62.333  0.81  3.21           O 0
+ATOM   3027   CB LYS B  40      22.792  17.112  59.413  0.00  0.00           C 0
+ATOM   2850  OE1 GLN B  29      30.199  15.247  58.278  0.00  0.00           O 0
+ATOM   3026    O LYS B  40      23.686  14.437  60.260  0.67  3.21           O 0
+ATOM   2974   CB ALA B  37      26.425  21.112  61.350  0.00  0.00           C 0
+ATOM   3117  CD2 LEU B  44      28.497  11.927  59.112  0.00  0.00           C 0
+ATOM   3111   CG LEU B  44      28.211  11.889  60.615  0.00  0.00           C 0
+ATOM   2918  CG2 THR B  33      27.903  18.596  63.706  0.00  0.00           C 0
+ATOM   2916  OG1 THR B  33      29.888  17.287  63.258  0.68  2.14           O 0
+ATOM   3025    C LYS B  40      23.416  15.307  61.064  0.00  0.00           C 0
+ATOM   3045   CA ARG B  41      24.980  14.367  62.654  0.00  0.00           C 0
+ATOM   3113  CD1 LEU B  44      29.408  12.526  61.441  0.00  0.00           C 0
+ATOM   3052   CG ARG B  41      27.002  14.271  64.215  0.00  0.00           C 0
+ATOM   3043    N ARG B  41      23.965  15.344  62.271  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : 0.0997
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1270
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6076
+HEADER 5  - Mean B-factor of pocket residues  : 0.4845
+HEADER 6  - Hydrophobicity Score              : 14.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 165.2974
+HEADER 10 - Pocket volume (convex hull)       : 0.9331
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM    888  OD1 ASP A  66      -1.264  22.761  30.737  0.00  0.00           O 0
+ATOM    929    O GLY A  69       4.995  20.361  30.677  0.00  0.00           O 0
+ATOM   1405  CE1 TYR A  98       5.278  20.345  26.753  0.00  0.00           C 0
+ATOM    942   CD LYS A  70       2.040  24.671  32.927  0.00  0.00           C 0
+ATOM   1428    O LEU A 100       2.175  20.823  24.206  0.24  7.50           O 0
+ATOM   1455   CB ALA A 102      -2.177  20.403  27.708  0.00  0.00           C 0
+ATOM    925   CA GLY A  69       3.144  18.888  30.897  0.00  0.00           C 0
+ATOM    928    C GLY A  69       3.957  20.124  31.282  0.00  0.00           C 0
+ATOM    930    N LYS A  70       3.485  20.905  32.268  0.55  1.09           N 0
+ATOM    932   CA LYS A  70       4.261  22.036  32.842  0.00  0.00           C 0
+ATOM   1001   CB SER A  73       7.309  22.249  29.641  0.00  0.00           C 0
+ATOM   1448    O GLY A 101       0.204  18.559  25.579  0.71  3.21           O 0
+ATOM   1004   OG SER A  73       7.712  23.447  29.046  0.57  6.43           O 0
+ATOM   1410   OH TYR A  98       4.538  18.332  27.729  0.00  0.00           O 0
+TER
+END

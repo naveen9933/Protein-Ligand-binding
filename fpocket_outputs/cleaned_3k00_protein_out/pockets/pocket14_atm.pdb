@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0617
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8357
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4641
+HEADER 5  - Mean B-factor of pocket residues  : 0.0880
+HEADER 6  - Hydrophobicity Score              : 18.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 2.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 161.5857
+HEADER 10 - Pocket volume (convex hull)       : 2.0610
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 0.8261
+ATOM   3169    O ASP A 229     -20.621  -4.779  22.346  0.00  0.00           O 0
+ATOM   3160  CG2 THR A 228     -22.846  -2.663  26.261  0.00  0.00           C 0
+ATOM   3168    C ASP A 229     -21.801  -4.707  22.021  0.00  0.00           C 0
+ATOM   5417  CD1 LEU A 379     -20.369  -5.654  28.399  0.00  0.00           C 0
+ATOM   5425    N SER A 380     -25.139  -8.655  29.324  0.00  0.00           N 0
+ATOM   3182   CB ALA A 230     -23.030  -8.160  22.172  0.00  0.00           C 0
+ATOM   5431   CB SER A 380     -26.391 -10.077  27.788  0.00  0.00           C 0
+ATOM   5427   CA SER A 380     -26.475  -8.966  28.826  0.00  0.00           C 0
+ATOM   5410    C LEU A 379     -24.861  -7.433  29.787  0.00  0.00           C 0
+ATOM   5412   CB LEU A 379     -22.559  -6.606  29.141  0.00  0.00           C 0
+ATOM   3176    N ALA A 230     -22.528  -5.779  21.722  0.53  1.09           N 0
+ATOM   5411    O LEU A 379     -25.706  -6.533  29.842  0.65  7.50           O 0
+ATOM   5371    O ALA A 376     -22.800 -10.207  28.125  0.70  4.29           O 0
+ATOM   3166   CA ASP A 229     -22.487  -3.366  21.875  0.00  0.00           C 0
+ATOM   3155    O THR A 228     -23.920  -1.303  23.184  0.43  5.36           O 0
+ATOM   5368   CA ALA A 376     -20.490 -10.480  27.424  0.00  0.00           C 0
+ATOM   2385    O GLY A 178     -18.020  -7.040  25.522  0.50  3.21           O 0
+ATOM   3178   CA ALA A 230     -21.945  -7.114  21.848  0.00  0.00           C 0
+TER
+END

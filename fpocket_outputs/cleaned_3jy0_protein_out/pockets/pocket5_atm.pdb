@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1154
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    33
+HEADER 3  - Mean alpha-sphere radius          : 3.9961
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6559
+HEADER 5  - Mean B-factor of pocket residues  : 0.1661
+HEADER 6  - Hydrophobicity Score              : 20.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 386.6631
+HEADER 10 - Pocket volume (convex hull)       : 43.9059
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.3333
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.2727
+ATOM   1983   CB HIS A 157     -43.386 -16.493 -11.175  0.00  0.00           C 0
+ATOM   1974  NH2 ARG A 156     -44.861 -24.461 -12.144  0.00  0.00           N 0
+ATOM   1977    N HIS A 157     -42.086 -18.453 -10.289  0.00  0.00           N 0
+ATOM   1925  OE1 GLU A 153     -48.091 -21.150  -9.276  0.58  8.57           O 0
+ATOM   1959   CB ARG A 156     -42.524 -21.515  -9.472  0.00  0.00           C 0
+ATOM   1970   CZ ARG A 156     -44.897 -24.283 -10.819  0.00  0.00           C 0
+ATOM   2029   CG ASN A 160     -40.843 -20.028 -15.842  0.00  0.00           C 0
+ATOM   2031  ND2 ASN A 160     -41.749 -19.251 -16.413  0.00  0.00           N 0
+ATOM   2030  OD1 ASN A 160     -40.415 -21.057 -16.397  0.00  0.00           O 0
+ATOM   1979   CA HIS A 157     -42.164 -17.447 -11.337  0.00  0.00           C 0
+ATOM   1987  ND1 HIS A 157     -43.740 -14.989 -13.198  0.00  0.00           N 0
+ATOM   1957    C ARG A 156     -41.329 -19.541 -10.434  0.00  0.00           C 0
+ATOM   1028   CG PHE A 100     -47.498 -14.119 -11.353  0.00  0.00           C 0
+ATOM   1025   CB PHE A 100     -47.549 -13.404 -12.693  0.00  0.00           C 0
+ATOM   1029  CD1 PHE A 100     -48.588 -14.955 -10.940  0.00  0.00           C 0
+ATOM   1033  CE1 PHE A 100     -48.548 -15.656  -9.705  0.00  0.00           C 0
+ATOM   1955   CA ARG A 156     -41.352 -20.536  -9.293  0.00  0.00           C 0
+ATOM   1962   CG ARG A 156     -42.402 -22.751  -8.538  0.00  0.00           C 0
+ATOM   3989  CD2 PHE A 281     -38.787 -24.199  -7.697  0.00  0.00           C 0
+ATOM   1968   NE ARG A 156     -43.793 -23.906 -10.185  0.53  5.47           N 0
+ATOM   2026   CB ASN A 160     -40.333 -19.603 -14.459  0.00  0.00           C 0
+ATOM   2022   CA ASN A 160     -38.806 -19.412 -14.429  0.00  0.00           C 0
+ATOM   2020    N ASN A 160     -38.344 -19.345 -13.058  0.00  0.00           N 0
+ATOM   1958    O ARG A 156     -40.574 -19.705 -11.374  0.68  3.21           O 0
+ATOM   2010   CB HIS A 159     -37.008 -20.286 -10.544  0.00  0.00           C 0
+ATOM   1917    O GLU A 153     -44.506 -18.519  -8.596  0.62  2.14           O 0
+TER
+END

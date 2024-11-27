@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0326
+HEADER 1  - Drug Score                        : 0.0063
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7034
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5116
+HEADER 5  - Mean B-factor of pocket residues  : 0.1816
+HEADER 6  - Hydrophobicity Score              : 32.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 158.1382
+HEADER 10 - Pocket volume (convex hull)       : 0.7202
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.8000
+ATOM    842    O VAL A  61      -9.149  29.934  15.215  0.00  0.00           O 0
+ATOM    839   CA VAL A  61     -11.354  30.877  15.150  0.00  0.00           C 0
+ATOM    889   CD LYS A  64      -7.550  34.057  18.629  0.00  0.00           C 0
+ATOM    883   CB LYS A  64      -7.417  32.926  16.376  0.00  0.00           C 0
+ATOM    886   CG LYS A  64      -6.758  33.131  17.739  0.00  0.00           C 0
+ATOM    913  CE1 PHE A  65      -8.820  27.489  18.682  0.00  0.00           C 0
+ATOM    663    O LEU A  48     -10.049  29.212  22.156  0.65  5.36           O 0
+ATOM    895   NZ LYS A  64      -6.494  33.225  20.731  0.07  3.28           N 0
+ATOM    679   CA GLY A  49     -12.035  28.643  20.290  0.00  0.00           C 0
+ATOM    684    N ASP A  50     -14.283  29.512  20.373  0.52  3.28           N 0
+ATOM    849  CG2 VAL A  61     -13.365  30.733  16.657  0.00  0.00           C 0
+ATOM    845  CG1 VAL A  61     -11.833  28.735  16.410  0.00  0.00           C 0
+TER
+END

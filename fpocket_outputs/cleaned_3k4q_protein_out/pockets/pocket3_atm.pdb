@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.2890
+HEADER 1  - Drug Score                        : 0.0319
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9265
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5898
+HEADER 5  - Mean B-factor of pocket residues  : 0.2832
+HEADER 6  - Hydrophobicity Score              : 0.8571
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 347.1690
+HEADER 10 - Pocket volume (convex hull)       : 30.2644
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.5556
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   1772   CA ARG A 123     -15.223  -9.214  15.077  0.00  0.00           C 0
+ATOM   1770    N ARG A 123     -15.226  -8.007  14.255  0.00  0.00           N 0
+ATOM     76  OD1 ASP A  12      -7.300  -8.350  13.842  0.00  0.00           O 0
+ATOM     77  OD2 ASP A  12      -7.966  -7.092  12.038  0.37  5.36           O 0
+ATOM   1757    C GLN A 122     -15.794  -8.024  13.064  0.00  0.00           C 0
+ATOM   1758    O GLN A 122     -16.349  -9.021  12.625  0.17  5.36           O 0
+ATOM   1776   CB ARG A 123     -14.435  -8.946  16.388  0.00  0.00           C 0
+ATOM   1788  NH1 ARG A 123     -11.898 -12.232  18.781  0.00  0.00           N 0
+ATOM   1705   CE LYS A 119      -8.728  -7.073  16.865  0.00  0.00           C 0
+ATOM    544    N VAL A  44     -14.192 -17.905  17.893  0.50  2.19           N 0
+ATOM    538   CG GLU A  43     -10.837 -18.014  15.440  0.00  0.00           C 0
+ATOM    556  CG2 VAL A  44     -16.759 -16.464  17.609  0.00  0.00           C 0
+ATOM   1759   CB GLN A 122     -14.317  -6.664  11.610  0.00  0.00           C 0
+ATOM    531   CA GLU A  43     -11.803 -17.653  17.777  0.00  0.00           C 0
+ATOM   1782   CD ARG A 123     -13.571  -9.837  18.670  0.00  0.00           C 0
+ATOM   1779   CG ARG A 123     -14.532 -10.058  17.452  0.00  0.00           C 0
+ATOM   1775    O ARG A 123     -16.935 -10.900  15.481  0.00  0.00           O 0
+ATOM   1808  CE1 TYR A 124     -17.473 -10.634  19.885  0.00  0.00           C 0
+ATOM   1787   CZ ARG A 123     -12.967 -12.084  19.570  0.00  0.00           C 0
+ATOM   1699   CG LYS A 119     -10.475  -5.514  16.120  0.00  0.00           C 0
+ATOM   1695    O LYS A 119     -13.744  -5.756  15.387  0.00  0.00           O 0
+ATOM   1785   NE ARG A 123     -13.719 -10.976  19.573  0.00  0.00           N 0
+ATOM   1791  NH2 ARG A 123     -13.282 -13.047  20.402  0.00  0.00           N 0
+ATOM   1766  OE1 GLN A 122     -11.814  -5.704  10.379  0.62  8.57           O 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0953
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.1670
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5454
+HEADER 5  - Mean B-factor of pocket residues  : 0.3482
+HEADER 6  - Hydrophobicity Score              : 9.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.9260
+HEADER 10 - Pocket volume (convex hull)       : 2.5768
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   4531  NH2 ARG B  73      -9.854  10.269  21.852  0.00  0.00           N 0
+ATOM   4225   CB PRO B  55      -7.554   2.721  23.151  0.00  0.00           C 0
+ATOM   4207  OD1 ASP B  53     -10.064   2.840  26.285  0.76  5.36           O 0
+ATOM   4208  OD2 ASP B  53     -11.696   2.255  24.957  0.00  0.00           O 0
+ATOM   4563  OD1 ASN B  75      -5.408  10.367  24.778  0.72  2.14           O 0
+ATOM   4377  CD2 LEU B  64      -4.797   6.518  25.185  0.00  0.00           C 0
+ATOM   4997  CD2 LEU B 106      -6.520   8.424  20.893  0.00  0.00           C 0
+ATOM   4228   CG PRO B  55      -6.808   3.321  24.301  0.00  0.00           C 0
+ATOM   4408   CB HIS B  66      -7.546  10.630  27.352  0.00  0.00           C 0
+ATOM   4177  OG1 THR B  51      -6.532   6.455  28.106  0.71  1.07           O 0
+ATOM   4179  CG2 THR B  51      -7.903   4.600  27.656  0.00  0.00           C 0
+ATOM   4413  CD2 HIS B  66      -9.948  10.625  28.326  0.00  0.00           C 0
+ATOM   4411   CG HIS B  66      -8.677  10.175  28.214  0.00  0.00           C 0
+ATOM   4417  NE2 HIS B  66     -10.568   9.853  29.277  0.00  0.00           N 0
+ATOM   4415  CE1 HIS B  66      -9.706   8.964  29.736  0.00  0.00           C 0
+ATOM   4412  ND1 HIS B  66      -8.554   9.139  29.113  0.00  0.00           N 0
+TER
+END

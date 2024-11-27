@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : -0.0466
+HEADER 1  - Drug Score                        : 0.0440
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9503
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5445
+HEADER 5  - Mean B-factor of pocket residues  : 0.2527
+HEADER 6  - Hydrophobicity Score              : 25.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 302.1305
+HEADER 10 - Pocket volume (convex hull)       : 20.9130
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 21.0000
+HEADER 13 - Number of apolar alpha sphere     :    22
+HEADER 14 - Proportion of apolar alpha sphere : 0.8462
+ATOM   2210  OD2 ASP A 177      47.830  32.735 100.067  0.00  0.00           O 0
+ATOM   1844  CE1 HIS A 153      51.486  33.390 107.178  0.00  0.00           C 0
+ATOM   2208   CG ASP A 177      48.931  32.130 100.066  0.00  0.00           C 0
+ATOM   2209  OD1 ASP A 177      50.029  32.716  99.903  0.73  8.57           O 0
+ATOM   2205   CB ASP A 177      48.913  30.618 100.278  0.00  0.00           C 0
+ATOM   2265  CE3 TRP A 180      51.835  29.207 105.896  0.00  0.00           C 0
+ATOM   2201   CA ASP A 177      50.309  29.988 100.245  0.00  0.00           C 0
+ATOM   2255   CB TRP A 180      53.629  29.419 103.127  0.00  0.00           C 0
+ATOM   2261  CD2 TRP A 180      53.070  29.822 105.657  0.00  0.00           C 0
+ATOM   2258   CG TRP A 180      53.895  29.980 104.494  0.00  0.00           C 0
+ATOM   2204    O ASP A 177      50.457  28.154 101.841  0.91  1.07           O 0
+ATOM   2061  CG2 VAL A 168      46.025  28.077 105.978  0.00  0.00           C 0
+ATOM   2269  CZ3 TRP A 180      51.307  29.236 107.187  0.00  0.00           C 0
+ATOM   1846  NE2 HIS A 153      50.920  32.971 108.296  0.55  2.19           N 0
+ATOM   1921  CD2 LEU A 159      47.964  29.036 109.479  0.00  0.00           C 0
+ATOM   2057  CG1 VAL A 168      46.989  27.397 103.775  0.00  0.00           C 0
+ATOM   2112   CB SER A 172      44.981  28.103 100.255  0.00  0.00           C 0
+ATOM   2115   OG SER A 172      45.807  28.891  99.417  0.45  1.07           O 0
+ATOM   2051   CA VAL A 168      44.782  26.375 104.541  0.00  0.00           C 0
+ATOM   2100  OG1 THR A 171      40.890  27.291 102.936  0.47  8.57           O 0
+ATOM   2046  ND2 ASN A 167      40.657  27.656 106.800  0.00  0.00           N 0
+TER
+END

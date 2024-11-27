@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.1612
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.3040
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5333
+HEADER 5  - Mean B-factor of pocket residues  : 0.2876
+HEADER 6  - Hydrophobicity Score              : -6.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 423.4835
+HEADER 10 - Pocket volume (convex hull)       : 17.5472
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM   3578    O VAL A 445      26.964  14.035   9.721  0.00  0.00           O 0
+ATOM   3575   CA VAL A 445      27.277  15.349   7.695  0.00  0.00           C 0
+ATOM   3581  CG1 VAL A 445      24.888  16.254   7.767  0.00  0.00           C 0
+ATOM   3585  CG2 VAL A 445      26.711  17.628   6.614  0.00  0.00           C 0
+ATOM   3508    O GLU A 441      34.546  14.767   9.874  0.00  0.00           O 0
+ATOM   3655    O ARG B 685      34.822  13.273  14.413  0.00  0.00           O 0
+ATOM   3497    O SER A 440      33.350  12.726   7.455  0.41  2.14           O 0
+ATOM   3505   CA GLU A 441      35.397  12.590   9.297  0.00  0.00           C 0
+ATOM   3656   CB ARG B 685      33.046  14.603  16.275  0.00  0.00           C 0
+ATOM   3566    O ASP A 444      30.134  15.024   8.087  0.48  4.29           O 0
+ATOM   3687  CE1 HIS B 686      34.764  17.112  13.631  0.00  0.00           C 0
+ATOM   3662   CD ARG B 685      30.790  15.754  16.654  0.00  0.00           C 0
+ATOM   3668  NH1 ARG B 685      29.755  18.358  15.859  0.50  9.84           N 0
+ATOM   1074   NZ LYS A 291      33.618  17.946  10.161  0.64  2.19           N 0
+ATOM   1071   CE LYS A 291      33.224  19.353  10.475  0.00  0.00           C 0
+ATOM   3689  NE2 HIS B 686      35.193  16.944  12.393  0.00  0.00           N 0
+ATOM   3567   CB ASP A 444      30.356  12.460   5.997  0.00  0.00           C 0
+ATOM   3501   OG SER A 440      32.602   9.691   6.653  0.00  0.00           O 0
+TER
+END

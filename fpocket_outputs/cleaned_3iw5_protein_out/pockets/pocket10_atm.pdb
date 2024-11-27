@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0201
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7820
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4654
+HEADER 5  - Mean B-factor of pocket residues  : 0.5467
+HEADER 6  - Hydrophobicity Score              : 26.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 230.7290
+HEADER 10 - Pocket volume (convex hull)       : 9.5516
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   3676    O PRO A 242     -16.072  -4.741  -4.519  0.00  0.00           O 0
+ATOM   3941    O ILE A 259     -14.817  -1.045   0.847  0.48  5.36           O 0
+ATOM   4025   CG GLN A 264     -19.533  -1.220  -3.051  0.00  0.00           C 0
+ATOM   4029  OE1 GLN A 264     -20.162  -3.424  -2.344  0.00  0.00           O 0
+ATOM   3664   CB THR A 241     -15.479  -0.460  -5.160  0.00  0.00           C 0
+ATOM   3947  CG2 ILE A 259     -12.993  -3.158  -0.749  0.00  0.00           C 0
+ATOM   3695   CA ALA A 244     -18.091  -9.741  -4.056  0.00  0.00           C 0
+ATOM   3693    N ALA A 244     -18.006  -8.545  -4.909  0.39  4.37           N 0
+ATOM   3699   CB ALA A 244     -19.508 -10.288  -4.054  0.00  0.00           C 0
+ATOM   3960    O GLN A 260     -17.700  -0.904   2.522  0.52  5.36           O 0
+ATOM   3957   CA GLN A 260     -16.159  -2.737   2.497  0.00  0.00           C 0
+ATOM   3961   CB GLN A 260     -16.565  -3.771   3.528  0.00  0.00           C 0
+ATOM   3964   CG GLN A 260     -16.251  -5.184   3.207  0.00  0.00           C 0
+ATOM   3748  CD1 LEU A 247     -15.717  -6.524  -1.230  0.00  0.00           C 0
+ATOM   3752  CD2 LEU A 247     -15.860  -7.894   0.943  0.00  0.00           C 0
+ATOM   3969  NE2 GLN A 260     -17.052  -7.228   4.172  0.68  6.56           N 0
+TER
+END

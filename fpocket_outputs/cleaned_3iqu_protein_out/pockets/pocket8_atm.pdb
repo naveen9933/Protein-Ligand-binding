@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0425
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7423
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4458
+HEADER 5  - Mean B-factor of pocket residues  : 0.0761
+HEADER 6  - Hydrophobicity Score              : 39.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 245.6155
+HEADER 10 - Pocket volume (convex hull)       : 8.9807
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM   5661   NZ LYS B 124     -34.059  25.111 -11.940  0.00  0.00           N 0
+ATOM   5325    N ASP B 104     -36.649  22.657  -6.275  0.00  0.00           N 0
+ATOM   5655   CD LYS B 124     -32.104  23.912 -11.015  0.00  0.00           C 0
+ATOM   5398  CD1 ILE B 108     -32.560  25.456  -7.447  0.00  0.00           C 0
+ATOM   5267   CB LEU B 100     -34.628  17.996  -9.662  0.00  0.00           C 0
+ATOM   5265    C LEU B 100     -35.858  18.870  -7.635  0.00  0.00           C 0
+ATOM   5266    O LEU B 100     -36.088  20.099  -7.642  0.57  2.14           O 0
+ATOM   5280    N GLY B 101     -36.753  17.996  -7.184  0.58  1.09           N 0
+ATOM   5658   CE LYS B 124     -33.184  23.907 -12.038  0.00  0.00           C 0
+ATOM   5724   OH TYR B 128     -35.291  20.124 -14.266  0.55  8.57           O 0
+ATOM   5335  OD1 ASP B 104     -38.357  24.763  -9.284  0.28  5.36           O 0
+ATOM   5276  CD2 LEU B 100     -32.441  18.969 -10.406  0.00  0.00           C 0
+ATOM   5331   CB ASP B 104     -38.306  22.765  -8.057  0.00  0.00           C 0
+ATOM   5336  OD2 ASP B 104     -40.106  23.511  -9.337  0.00  0.00           O 0
+ATOM   5282   CA GLY B 101     -37.993  18.419  -6.580  0.00  0.00           C 0
+ATOM   5312   CB LEU B 103     -33.529  22.017  -6.037  0.00  0.00           C 0
+ATOM   5334   CG ASP B 104     -38.987  23.744  -8.934  0.00  0.00           C 0
+TER
+END

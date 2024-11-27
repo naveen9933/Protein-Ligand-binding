@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1357
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9114
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5499
+HEADER 5  - Mean B-factor of pocket residues  : 0.3821
+HEADER 6  - Hydrophobicity Score              : -16.4000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 2.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 248.5846
+HEADER 10 - Pocket volume (convex hull)       : 7.0768
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1388    O PRO A  99     -15.767 -36.253 -12.288  0.69  2.14           O 0
+ATOM   1399   CA PRO A 100     -17.111 -38.109 -13.887  0.00  0.00           C 0
+ATOM    840   NZ LYS A  58     -13.423 -41.794 -11.528  0.00  0.00           N 0
+ATOM   1378    O SER A  98     -17.511 -35.926  -9.702  0.68  1.07           O 0
+ATOM    778    O VAL A  54     -11.070 -37.681  -9.300  0.47  4.29           O 0
+ATOM    834   CD LYS A  58     -11.505 -43.396 -11.303  0.00  0.00           C 0
+ATOM    881    N GLY A  62     -10.220 -39.229  -5.519  0.56  2.19           N 0
+ATOM    815    O ASP A  57      -8.104 -41.641  -9.534  0.50  1.07           O 0
+ATOM    883   CA GLY A  62     -11.030 -38.030  -5.740  0.00  0.00           C 0
+ATOM   1379   CB SER A  98     -15.014 -35.267  -8.285  0.00  0.00           C 0
+ATOM    863    O ASP A  60      -8.716 -42.814  -6.537  0.54  4.29           O 0
+ATOM    874    C SER A  61     -10.523 -40.040  -4.522  0.00  0.00           C 0
+ATOM    875    O SER A  61     -11.419 -39.759  -3.712  0.61  2.14           O 0
+ATOM    872   CA SER A  61      -9.805 -41.388  -4.446  0.00  0.00           C 0
+ATOM   1382   OG SER A  98     -14.174 -35.393  -9.437  0.00  0.00           O 0
+ATOM    794    O SER A  55     -12.230 -39.450 -12.610  0.47  1.07           O 0
+ATOM    791   CA SER A  55     -11.948 -37.211 -11.875  0.00  0.00           C 0
+TER
+END

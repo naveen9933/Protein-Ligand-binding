@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0035
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6478
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3499
+HEADER 5  - Mean B-factor of pocket residues  : 0.1431
+HEADER 6  - Hydrophobicity Score              : 13.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.8572
+HEADER 10 - Pocket volume (convex hull)       : 10.0598
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1818
+ATOM   2527   CG LYS A 159     -17.300 -33.888  11.940  0.00  0.00           C 0
+ATOM   2530   CD LYS A 159     -17.040 -33.807  13.453  0.00  0.00           C 0
+ATOM   2704  NH2 ARG A 169     -14.025 -33.760  10.038  0.67  3.28           N 0
+ATOM   2472   CE MET A 155     -18.209 -30.248  13.101  0.00  0.00           C 0
+ATOM   3119   CA THR A 197     -10.305 -28.616  12.292  0.00  0.00           C 0
+ATOM   3125  OG1 THR A 197     -12.458 -27.740  12.971  0.75  3.21           O 0
+ATOM   3127  CG2 THR A 197     -11.776 -27.338  10.721  0.00  0.00           C 0
+ATOM   2698   NE ARG A 169     -15.080 -32.264   8.672  0.57  2.19           N 0
+ATOM   2612    O PRO A 164     -11.454 -30.553   6.411  0.53  1.07           O 0
+ATOM   2758   CB ALA A 173     -15.107 -26.228  11.463  0.00  0.00           C 0
+ATOM   2692   CG ARG A 169     -16.096 -30.376   7.528  0.00  0.00           C 0
+ATOM   3063  CD1 LEU A 193     -14.740 -27.759  15.670  0.00  0.00           C 0
+ATOM   3113  CG2 THR A 196     -10.422 -31.619  15.805  0.00  0.00           C 0
+ATOM   3169   CB GLU A 200      -8.723 -33.079  10.925  0.00  0.00           C 0
+ATOM   3176  OE1 GLU A 200     -10.900 -33.914  12.714  0.81  9.64           O 0
+ATOM   2536   NZ LYS A 159     -17.155 -33.336  15.850  0.62  8.75           N 0
+ATOM   3177  OE2 GLU A 200      -9.548 -34.248  14.422  0.74  5.36           O 0
+ATOM   2613   CB PRO A 164     -10.826 -33.450   7.359  0.00  0.00           C 0
+ATOM   3122    O THR A 197      -8.953 -29.018  10.325  0.00  0.00           O 0
+TER
+END

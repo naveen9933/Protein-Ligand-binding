@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0400
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    36
+HEADER 3  - Mean alpha-sphere radius          : 4.0259
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4649
+HEADER 5  - Mean B-factor of pocket residues  : 0.2339
+HEADER 6  - Hydrophobicity Score              : 14.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 192.6098
+HEADER 10 - Pocket volume (convex hull)       : 6.2369
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM    551    O PHE A 989      25.733 -20.093 -21.720  0.33  4.29           O 0
+ATOM    420  OE2 GLU A 978      28.315 -26.251 -24.027  0.00  0.00           O 0
+ATOM    576  OD1 ASN A 990      24.745 -21.922 -24.565  0.56  6.43           O 0
+ATOM    415   CG GLU A 978      29.453 -24.220 -24.323  0.00  0.00           C 0
+ATOM    538  CG2 ILE A 988      23.758 -24.256 -18.825  0.00  0.00           C 0
+ATOM    546    N PHE A 989      24.366 -20.857 -19.566  0.00  0.00           N 0
+ATOM    529   CA ILE A 988      24.587 -22.227 -17.584  0.00  0.00           C 0
+ATOM    479    O GLY A 982      27.808 -26.244 -16.600  0.28  5.36           O 0
+ATOM    478    C GLY A 982      29.036 -26.026 -16.617  0.00  0.00           C 0
+ATOM    475   CA GLY A 982      30.008 -27.087 -17.121  0.00  0.00           C 0
+ATOM    412   CB GLU A 978      30.718 -24.250 -23.447  0.00  0.00           C 0
+ATOM    426    O HIS A 979      32.629 -25.555 -19.323  0.76  7.50           O 0
+ATOM    421    N HIS A 979      32.193 -23.326 -20.789  0.44  2.19           N 0
+ATOM    480    N GLY A 983      29.580 -24.878 -16.216  0.00  0.00           N 0
+ATOM    482   CA GLY A 983      28.787 -23.720 -15.774  0.00  0.00           C 0
+ATOM    526    O GLY A 987      26.942 -21.037 -16.651  0.45  2.14           O 0
+ATOM    427   CB HIS A 979      32.999 -22.404 -18.730  0.00  0.00           C 0
+ATOM    432  CD2 HIS A 979      32.402 -20.121 -19.774  0.00  0.00           C 0
+ATOM    387    O ARG A 977      30.698 -20.216 -22.619  0.00  0.00           O 0
+ATOM    562  CE2 PHE A 989      27.002 -17.638 -18.163  0.00  0.00           C 0
+ATOM    408   CA GLU A 978      31.096 -22.894 -22.878  0.00  0.00           C 0
+TER
+END

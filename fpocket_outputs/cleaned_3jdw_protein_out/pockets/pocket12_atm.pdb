@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0663
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9247
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5789
+HEADER 5  - Mean B-factor of pocket residues  : 0.2874
+HEADER 6  - Hydrophobicity Score              : 10.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 377.2313
+HEADER 10 - Pocket volume (convex hull)       : 33.0906
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   2374   CD LYS A 209      49.603  45.155   5.780  0.00  0.00           C 0
+ATOM   1816   CB ASN A 177      48.616  44.441  11.147  0.00  0.00           C 0
+ATOM   1820  OD1 ASN A 177      46.971  42.705  11.256  0.00  0.00           O 0
+ATOM   2377   CE LYS A 209      49.242  44.048   4.827  0.00  0.00           C 0
+ATOM   1819   CG ASN A 177      47.700  43.480  11.886  0.00  0.00           C 0
+ATOM   2351    O GLY A 207      53.656  42.094  10.180  0.00  0.00           O 0
+ATOM     12   SG CYS A  64      49.481  41.586  15.006  0.00  0.00           S 0
+ATOM   2354   CA ALA A 208      53.964  44.696  10.797  0.00  0.00           C 0
+ATOM     33    O VAL A  66      49.610  45.130  14.848  0.68  1.07           O 0
+ATOM      5   CA CYS A  64      52.259  41.340  15.840  0.00  0.00           C 0
+ATOM   9369   CZ ARG B 283      56.708  41.814   7.139  0.00  0.00           C 0
+ATOM   9367   NE ARG B 283      55.815  41.625   6.174  0.61  2.19           N 0
+ATOM   2347   CA GLY A 207      55.686  41.348  11.145  0.00  0.00           C 0
+ATOM   9373  NH2 ARG B 283      57.713  40.974   7.293  0.68  5.47           N 0
+ATOM   2371   CG LYS A 209      50.962  44.928   6.357  0.00  0.00           C 0
+ATOM   9364   CD ARG B 283      54.704  42.531   5.901  0.00  0.00           C 0
+ATOM   9361   CG ARG B 283      53.964  42.155   4.624  0.00  0.00           C 0
+ATOM   9349  NH2 ARG B 282      55.576  37.933   3.931  0.50  5.47           N 0
+TER
+END

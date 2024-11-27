@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0433
+HEADER 1  - Drug Score                        : 0.0281
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8614
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4954
+HEADER 5  - Mean B-factor of pocket residues  : 0.2525
+HEADER 6  - Hydrophobicity Score              : 23.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 374.1591
+HEADER 10 - Pocket volume (convex hull)       : 36.6853
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.8571
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM   1885   CG MET A 126     -45.137  81.662  11.042  0.00  0.00           C 0
+ATOM   1876    N MET A 126     -43.289  83.622  10.166  0.56  2.19           N 0
+ATOM   1871   CB SER A 125     -43.520  86.516  11.638  0.00  0.00           C 0
+ATOM   1874   OG SER A 125     -43.060  87.208  12.787  0.70  8.57           O 0
+ATOM   3618   CG PRO A 236     -40.861  75.685   9.015  0.00  0.00           C 0
+ATOM   1882   CB MET A 126     -44.301  81.435   9.805  0.00  0.00           C 0
+ATOM   1888   SD MET A 126     -45.599  80.096  11.805  0.00  0.00           S 0
+ATOM   3688  NH2 ARG A 239     -40.343  76.704  12.445  0.85  7.66           N 0
+ATOM   3685  NH1 ARG A 239     -40.199  77.978  14.349  0.00  0.00           N 0
+ATOM   1855    O PRO A 124     -39.717  85.229  10.391  0.58  8.57           O 0
+ATOM   1843  CD1 LEU A 123     -34.223  83.329  10.965  0.00  0.00           C 0
+ATOM   3679   CD ARG A 239     -37.455  78.404  13.930  0.00  0.00           C 0
+ATOM   3606  CD2 LEU A 235     -38.010  82.047   9.193  0.00  0.00           C 0
+ATOM   1838   CB LEU A 123     -35.588  85.289  10.239  0.00  0.00           C 0
+ATOM   3602  CD1 LEU A 235     -40.477  82.066   9.629  0.00  0.00           C 0
+ATOM   3597   CB LEU A 235     -39.237  79.886   9.348  0.00  0.00           C 0
+ATOM   3621   CD PRO A 236     -40.115  76.828   8.360  0.00  0.00           C 0
+ATOM   3676   CG ARG A 239     -36.033  78.381  13.413  0.00  0.00           C 0
+ATOM   1907  CE1 TYR A 127     -45.353  79.069   5.514  0.00  0.00           C 0
+ATOM   1867   CA SER A 125     -42.387  85.725  10.976  0.00  0.00           C 0
+ATOM   3549    O SER A 232     -42.265  81.408   5.820  0.69  3.21           O 0
+TER
+END

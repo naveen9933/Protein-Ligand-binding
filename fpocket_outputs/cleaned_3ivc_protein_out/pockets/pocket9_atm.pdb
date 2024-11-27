@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0030
+HEADER 1  - Drug Score                        : 0.0807
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.9876
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6085
+HEADER 5  - Mean B-factor of pocket residues  : 0.6530
+HEADER 6  - Hydrophobicity Score              : 12.2000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 173.3274
+HEADER 10 - Pocket volume (convex hull)       : 3.4308
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 19.0000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.6897
+ATOM   8292    O THR B 276      12.740 -21.960  41.696  0.33  2.14           O 0
+ATOM   8309  OG1 THR B 277       9.101 -22.365  44.012  0.91  3.21           O 0
+ATOM   8303   CA THR B 277      10.869 -20.861  43.407  0.00  0.00           C 0
+ATOM   7277  CD2 TYR B 201       6.785 -25.120  41.190  0.00  0.00           C 0
+ATOM   8311  CG2 THR B 277       8.456 -20.090  43.535  0.00  0.00           C 0
+ATOM   7212   CG ARG B 198       6.134 -18.752  40.221  0.00  0.00           C 0
+ATOM   7281  CE2 TYR B 201       6.680 -25.335  39.802  0.00  0.00           C 0
+ATOM   7215   CD ARG B 198       7.412 -17.902  40.035  0.00  0.00           C 0
+ATOM   7283   CZ TYR B 201       5.775 -24.563  39.054  0.00  0.00           C 0
+ATOM   7218   NE ARG B 198       7.668 -17.639  38.612  0.61  4.37           N 0
+ATOM   7279  CE1 TYR B 201       4.994 -23.595  39.670  0.00  0.00           C 0
+ATOM   7284   OH TYR B 201       5.659 -24.758  37.694  0.00  0.00           O 0
+ATOM   8315    N ARG B 278      11.584 -18.642  42.693  0.67  1.09           N 0
+ATOM   7275  CD1 TYR B 201       5.118 -23.391  41.052  0.00  0.00           C 0
+ATOM   7274   CG TYR B 201       6.016 -24.139  41.827  0.00  0.00           C 0
+ATOM   7221  NH1 ARG B 198       9.678 -16.470  38.885  0.54  4.37           N 0
+ATOM   7220   CZ ARG B 198       8.718 -16.978  38.107  0.00  0.00           C 0
+ATOM   8321   CB ARG B 278      12.788 -16.843  41.557  0.00  0.00           C 0
+TER
+END

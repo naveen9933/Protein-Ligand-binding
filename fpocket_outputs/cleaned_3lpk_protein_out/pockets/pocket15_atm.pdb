@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0392
+HEADER 1  - Drug Score                        : 0.0035
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8908
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6230
+HEADER 5  - Mean B-factor of pocket residues  : 0.3396
+HEADER 6  - Hydrophobicity Score              : 4.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 2.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 312.4728
+HEADER 10 - Pocket volume (convex hull)       : 6.4279
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   6042   CB SER B  59       7.521  62.430  62.870  0.00  0.00           C 0
+ATOM   8824   OG SER B 243       4.488  57.007  63.747  0.00  0.00           O 0
+ATOM   8821   CB SER B 243       3.715  57.423  64.861  0.00  0.00           C 0
+ATOM   6079  CG2 VAL B  61       5.634  61.960  58.434  0.00  0.00           C 0
+ATOM   6127  CG2 VAL B  64       6.976  56.668  59.626  0.00  0.00           C 0
+ATOM   6123  CG1 VAL B  64       5.159  55.176  58.753  0.00  0.00           C 0
+ATOM   6121   CB VAL B  64       6.377  56.012  58.382  0.00  0.00           C 0
+ATOM   6075  CG1 VAL B  61       5.293  61.074  56.127  0.00  0.00           C 0
+ATOM   8798  OD2 ASP B 241       6.928  57.959  64.064  0.00  0.00           O 0
+ATOM   8797  OD1 ASP B 241       7.936  58.464  62.175  0.73  1.07           O 0
+ATOM   6072    O VAL B  61       7.144  58.768  55.636  0.26  5.36           O 0
+ATOM   6141  OD1 ASP B  65       2.450  53.144  56.486  0.00  0.00           O 0
+ATOM   6069   CA VAL B  61       7.240  60.272  57.498  0.00  0.00           C 0
+ATOM   8815    N SER B 243       5.520  57.310  66.523  0.76  1.09           N 0
+ATOM   6035    O GLY B  58       8.964  60.940  65.740  0.00  0.00           O 0
+ATOM   6120    O VAL B  64       6.537  54.774  55.500  0.08  6.43           O 0
+TER
+END

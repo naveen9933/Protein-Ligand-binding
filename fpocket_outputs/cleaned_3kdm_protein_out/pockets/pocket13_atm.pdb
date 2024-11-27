@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0518
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    43
+HEADER 3  - Mean alpha-sphere radius          : 3.8796
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5181
+HEADER 5  - Mean B-factor of pocket residues  : 0.1875
+HEADER 6  - Hydrophobicity Score              : 1.7333
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.1333
+HEADER 9  - Pocket volume (Monte Carlo)       : 597.0489
+HEADER 10 - Pocket volume (convex hull)       : 128.9166
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.2174
+HEADER 13 - Number of apolar alpha sphere     :    23
+HEADER 14 - Proportion of apolar alpha sphere : 0.5349
+ATOM   3299    O GLY H   9      22.312  -2.982   7.491  0.32  5.36           O 0
+ATOM   6239   CG PRO H 211      29.079   1.910   5.944  0.00  0.00           C 0
+ATOM   6232   CA PRO H 211      30.391   0.095   5.164  0.00  0.00           C 0
+ATOM   3302   CA GLY H  10      22.541  -1.203   5.443  0.00  0.00           C 0
+ATOM   5468    O PRO H 158      29.906   5.660   8.349  0.50  1.07           O 0
+ATOM   6215   CB LYS H 210      31.761   0.171   9.497  0.00  0.00           C 0
+ATOM   6218   CG LYS H 210      32.453   0.479  10.805  0.00  0.00           C 0
+ATOM   6221   CD LYS H 210      31.498   0.171  11.940  0.00  0.00           C 0
+ATOM   5454    O GLU H 157      26.016   4.940   6.356  0.83  3.21           O 0
+ATOM   5443   CG PRO H 156      26.329   3.451   3.329  0.00  0.00           C 0
+ATOM   3305    C GLY H  10      22.079  -0.418   4.255  0.00  0.00           C 0
+ATOM   6184    O ASN H 208      34.078   5.112   9.973  0.45  1.07           O 0
+ATOM   5504  CG2 THR H 160      31.552   6.502  13.925  0.00  0.00           C 0
+ATOM   5472   CG PRO H 158      27.371   5.309  10.280  0.00  0.00           C 0
+ATOM   6213    C LYS H 210      31.975  -0.049   7.005  0.00  0.00           C 0
+ATOM   6214    O LYS H 210      32.383  -1.143   6.607  0.39  2.14           O 0
+ATOM   6231    N PRO H 211      31.011   0.660   6.368  0.00  0.00           N 0
+ATOM   4935  OG1 THR H 119      21.972   4.545   4.252  0.78  1.07           O 0
+ATOM   3307    N LEU H  11      22.913  -0.448   3.218  0.55  3.28           N 0
+ATOM   6236   CB PRO H 211      29.497   1.231   4.675  0.00  0.00           C 0
+ATOM   3313   CB LEU H  11      23.932   0.654   1.315  0.00  0.00           C 0
+ATOM   5008  OG1 THR H 125      28.747   0.088   0.455  0.00  0.00           O 0
+ATOM   3312    O LEU H  11      22.498  -2.013   0.972  0.40  6.43           O 0
+ATOM   5475   CD PRO H 158      27.139   4.693   8.868  0.00  0.00           C 0
+ATOM   4897    O LEU H 117      21.012   1.334   8.006  0.60  3.21           O 0
+ATOM   3300    N GLY H  10      21.507  -1.168   6.439  0.00  0.00           N 0
+ATOM   3298    C GLY H   9      21.506  -2.046   7.429  0.00  0.00           C 0
+ATOM   4886  OG1 THR H 116      21.001  -0.705  11.653  0.00  0.00           O 0
+ATOM   3322  CD2 LEU H  11      25.407   1.169  -0.601  0.00  0.00           C 0
+ATOM   6235    O PRO H 211      31.072  -1.219   3.314  0.48  7.50           O 0
+ATOM   6242   CD PRO H 211      30.367   1.937   6.740  0.00  0.00           C 0
+ATOM   5502  OG1 THR H 160      33.822   5.814  13.549  0.62  1.07           O 0
+ATOM   6224   CE LYS H 210      32.159   0.388  13.284  0.00  0.00           C 0
+ATOM   4898   CB LEU H 117      21.999   4.014   9.143  0.00  0.00           C 0
+ATOM   4892    N LEU H 117      20.900   2.490  10.718  0.00  0.00           N 0
+ATOM   4877    O GLY H 115      21.032   1.716  15.279  0.00  0.00           O 0
+ATOM   4880   CA THR H 116      20.113   1.350  12.688  0.00  0.00           C 0
+TER
+END

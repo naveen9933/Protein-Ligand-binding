@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : -0.0514
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1354
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7655
+HEADER 5  - Mean B-factor of pocket residues  : 0.2327
+HEADER 6  - Hydrophobicity Score              : 5.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 154.6173
+HEADER 10 - Pocket volume (convex hull)       : 0.9145
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   2912   OG SER B  85      19.787  -7.843 -11.717  0.00  0.00           O 0
+ATOM   2903    N SER B  85      18.796  -6.234 -14.306  0.77  4.37           N 0
+ATOM   2889    O ILE B  84      18.086  -7.081 -16.284  0.66  2.14           O 0
+ATOM   2905   CA SER B  85      18.201  -7.289 -13.472  0.00  0.00           C 0
+ATOM   2882    C GLY B  83      21.507  -5.303 -17.529  0.00  0.00           C 0
+ATOM   2883    O GLY B  83      22.135  -4.662 -16.684  0.00  0.00           O 0
+ATOM   2884    N ILE B  84      20.197  -5.556 -17.435  0.58  1.09           N 0
+ATOM   2828   CA LYS B  80      19.371  -9.991 -19.596  0.00  0.00           C 0
+ATOM   2831    O LYS B  80      21.427  -9.139 -20.478  0.00  0.00           O 0
+ATOM   2879   CA GLY B  83      22.215  -5.878 -18.739  0.00  0.00           C 0
+ATOM   2888    C ILE B  84      18.683  -6.210 -15.635  0.00  0.00           C 0
+ATOM   2835   CG LYS B  80      18.983 -12.022 -18.078  0.00  0.00           C 0
+ATOM   2925   CD PRO B  86      16.666  -9.517 -14.656  0.00  0.00           C 0
+TER
+END

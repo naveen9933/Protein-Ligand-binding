@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0622
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.9152
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4167
+HEADER 5  - Mean B-factor of pocket residues  : 0.4998
+HEADER 6  - Hydrophobicity Score              : 7.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 368.0146
+HEADER 10 - Pocket volume (convex hull)       : 24.2866
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM    341  NH2 ARG A  23      -8.991 -14.492  12.776  0.38  6.56           N 0
+ATOM    611   CE LYS A  45      -6.282 -16.973  14.733  0.00  0.00           C 0
+ATOM   5371   CB PRO A 350      -3.577 -12.175  10.314  0.00  0.00           C 0
+ATOM   5413    O LEU A 353      -3.928 -11.106  17.657  0.00  0.00           O 0
+ATOM   5374   CG PRO A 350      -2.764 -13.443  10.284  0.00  0.00           C 0
+ATOM    614   NZ LYS A  45      -5.376 -17.878  13.911  0.00  0.00           N 0
+ATOM    338  NH1 ARG A  23      -8.226 -15.899  11.107  0.41  2.19           N 0
+ATOM    628  CG2 THR A  46      -9.408 -12.460  15.797  0.00  0.00           C 0
+ATOM   1347  CD2 LEU A  87      -8.633  -7.434  11.381  0.00  0.00           C 0
+ATOM   1337    O LEU A  87      -6.844 -11.159   8.992  0.51  2.14           O 0
+ATOM   5414   CB LEU A 353      -5.897  -8.754  16.370  0.00  0.00           C 0
+ATOM    581  OD2 ASP A  43     -11.557 -13.436  13.225  0.39  2.14           O 0
+ATOM   1343  CD1 LEU A  87     -10.954  -8.380  11.147  0.00  0.00           C 0
+ATOM   1338   CB LEU A  87      -9.223  -9.148   9.602  0.00  0.00           C 0
+ATOM   5384    O PRO A 351      -3.179  -9.177  13.541  0.56  7.50           O 0
+ATOM   5391   CD PRO A 351      -4.251  -8.659  10.373  0.00  0.00           C 0
+ATOM   5370    O PRO A 350      -1.068 -10.288  11.109  0.00  0.00           O 0
+ATOM   5419  CD1 LEU A 353      -7.956  -7.383  15.919  0.00  0.00           C 0
+ATOM    650  CD1 LEU A  48     -11.165  -8.617  15.406  0.00  0.00           C 0
+ATOM   5395   CA PRO A 352      -1.568  -7.886  15.434  0.00  0.00           C 0
+TER
+END

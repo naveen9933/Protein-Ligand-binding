@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : -0.0533
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0191
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4590
+HEADER 5  - Mean B-factor of pocket residues  : 0.2405
+HEADER 6  - Hydrophobicity Score              : 48.1429
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 144.4441
+HEADER 10 - Pocket volume (convex hull)       : 1.5733
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7000
+ATOM   6362   CA ASP B 195      27.881  18.269  17.232  0.00  0.00           C 0
+ATOM   6377    O ALA B 196      26.378  18.176  21.392  0.78  3.21           O 0
+ATOM   6322    O ILE B 192      30.879  16.450  17.320  0.59  4.29           O 0
+ATOM   6370  OD1 ASP B 195      29.108  20.860  17.707  0.47  7.50           O 0
+ATOM   5230  CG2 VAL B 122      31.375  21.391  24.854  0.00  0.00           C 0
+ATOM   5246   CD LYS B 123      28.245  22.187  21.400  0.00  0.00           C 0
+ATOM   6328  CG2 ILE B 192      33.529  15.938  19.138  0.00  0.00           C 0
+ATOM   6325  CG1 ILE B 192      32.582  14.855  21.234  0.00  0.00           C 0
+ATOM   5243   CG LYS B 123      27.670  21.482  22.629  0.00  0.00           C 0
+ATOM   5194   CZ PHE B 120      28.459  15.145  24.592  0.00  0.00           C 0
+ATOM   5192  CE2 PHE B 120      29.424  15.898  25.257  0.00  0.00           C 0
+ATOM   6319   CA ILE B 192      31.155  14.965  19.168  0.00  0.00           C 0
+ATOM   6303    O ILE B 191      28.428  14.773  18.962  0.00  0.00           O 0
+ATOM   5188  CD2 PHE B 120      29.156  17.216  25.612  0.00  0.00           C 0
+ATOM   5185   CG PHE B 120      27.929  17.799  25.309  0.00  0.00           C 0
+TER
+END

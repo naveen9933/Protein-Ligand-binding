@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    49:
+HEADER 0  - Pocket Score                      : -0.1076
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9976
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5590
+HEADER 5  - Mean B-factor of pocket residues  : 0.1587
+HEADER 6  - Hydrophobicity Score              : 37.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.3816
+HEADER 10 - Pocket volume (convex hull)       : 4.7969
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM   4171   CB TRP A 323      36.857  24.974  35.066  0.00  0.00           C 0
+ATOM   4204  CD2 LEU A 324      32.232  27.258  32.248  0.00  0.00           C 0
+ATOM   3870  CE2 PHE A 302      30.728  23.331  36.084  0.00  0.00           C 0
+ATOM   3995   NZ LYS A 310      36.538  27.742  39.078  0.59  3.28           N 0
+ATOM   7747  OE2 GLU B 165      30.206  29.205  39.932  0.00  0.00           O 0
+ATOM   3917  CG1 VAL A 306      33.012  23.919  39.878  0.00  0.00           C 0
+ATOM   4132   CB ASP A 320      37.269  30.587  33.152  0.00  0.00           C 0
+ATOM   4136  OD1 ASP A 320      37.894  31.094  35.394  0.12  4.29           O 0
+ATOM   4131    O ASP A 320      36.788  27.543  32.215  0.00  0.00           O 0
+ATOM   4128   CA ASP A 320      38.112  29.306  33.154  0.00  0.00           C 0
+ATOM   4170    O TRP A 323      34.641  23.358  33.591  0.88  1.07           O 0
+ATOM   3921  CG2 VAL A 306      35.065  23.435  38.555  0.00  0.00           C 0
+ATOM   4198   CG LEU A 324      33.550  27.478  31.525  0.00  0.00           C 0
+ATOM   4200  CD1 LEU A 324      33.471  28.716  30.643  0.00  0.00           C 0
+TER
+END

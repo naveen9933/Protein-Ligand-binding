@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1020
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.2224
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7783
+HEADER 5  - Mean B-factor of pocket residues  : 0.1875
+HEADER 6  - Hydrophobicity Score              : 29.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 338.3538
+HEADER 10 - Pocket volume (convex hull)       : 7.9655
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM   8353   CA THR B 205      26.963  61.062  55.195  0.00  0.00           C 0
+ATOM   7575  CG1 VAL B 154      22.304  61.287  52.268  0.00  0.00           C 0
+ATOM   8357   CB THR B 205      25.605  60.462  54.785  0.00  0.00           C 0
+ATOM   8375  ND1 HIS B 206      26.610  65.417  56.490  0.00  0.00           N 0
+ATOM   8339    O GLN B 204      28.894  61.084  53.235  0.62  8.57           O 0
+ATOM   8365    N HIS B 206      25.800  62.321  56.906  0.75  2.19           N 0
+ATOM   8371   CB HIS B 206      25.199  64.292  58.255  0.00  0.00           C 0
+ATOM   7588    O THR B 155      26.075  58.823  48.395  0.00  0.00           O 0
+ATOM   7573   CB VAL B 154      22.585  60.124  51.332  0.00  0.00           C 0
+ATOM   7583    N THR B 155      23.365  59.191  48.574  0.00  0.00           N 0
+ATOM   8393  CG2 VAL B 207      22.181  59.355  56.634  0.00  0.00           C 0
+ATOM   8381    N VAL B 207      24.115  60.853  58.340  0.00  0.00           N 0
+ATOM   7569   CA VAL B 154      21.778  60.283  50.023  0.00  0.00           C 0
+ATOM   8361  CG2 THR B 205      25.718  59.746  53.446  0.00  0.00           C 0
+ATOM   8383   CA VAL B 207      23.067  60.007  58.900  0.00  0.00           C 0
+ATOM   8370    O HIS B 206      23.903  62.410  59.944  0.00  0.00           O 0
+ATOM   8369    C HIS B 206      24.449  62.000  58.923  0.00  0.00           C 0
+TER
+END

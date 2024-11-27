@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0520
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1918
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6257
+HEADER 5  - Mean B-factor of pocket residues  : 0.3937
+HEADER 6  - Hydrophobicity Score              : 23.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.8100
+HEADER 10 - Pocket volume (convex hull)       : 2.2865
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8125
+ATOM   4787    O ALA A 340       7.873  16.309  24.789  0.00  0.00           O 0
+ATOM   4784   CA ALA A 340       9.435  15.088  23.484  0.00  0.00           C 0
+ATOM   4788   CB ALA A 340      10.762  15.705  23.916  0.00  0.00           C 0
+ATOM   4694    O TYR A 334      11.820  12.679  24.067  0.43  4.29           O 0
+ATOM   4871    O LYS A 346       3.028  12.844  28.933  0.57  5.36           O 0
+ATOM   4961   CD PRO A 350       3.937  10.159  30.131  0.00  0.00           C 0
+ATOM   4934   CB LYS A 349       5.732   8.740  27.618  0.00  0.00           C 0
+ATOM   4958   CG PRO A 350       4.224  10.784  31.452  0.00  0.00           C 0
+ATOM   4937   CG LYS A 349       7.023   8.190  28.177  0.00  0.00           C 0
+ATOM   4875   CG LYS A 346       5.045  15.744  26.300  0.00  0.00           C 0
+ATOM   4699  CD1 TYR A 334       8.970   9.034  24.761  0.00  0.00           C 0
+ATOM   4868   CA LYS A 346       3.636  13.608  26.768  0.00  0.00           C 0
+ATOM   4858  CG1 VAL A 345       5.387  10.857  23.456  0.00  0.00           C 0
+ATOM   4855    O VAL A 345       3.567  11.015  26.033  0.00  0.00           O 0
+ATOM   4771    O VAL A 339       7.404  13.757  21.983  0.00  0.00           O 0
+TER
+END

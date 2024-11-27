@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.1375
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8028
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5854
+HEADER 5  - Mean B-factor of pocket residues  : 0.2780
+HEADER 6  - Hydrophobicity Score              : 39.1429
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.9098
+HEADER 10 - Pocket volume (convex hull)       : 6.4120
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   3815  ND1 HIS C  31      16.374  65.003  36.764  0.67  8.75           N 0
+ATOM   4005   CB PRO C  43      21.424  69.620  35.786  0.00  0.00           C 0
+ATOM   4039    O ALA C  45      20.403  63.494  34.322  0.65  2.14           O 0
+ATOM   4053   OG SER C  46      16.686  64.419  32.887  0.00  0.00           O 0
+ATOM   3853  CE2 PHE C  33      20.629  67.231  40.037  0.00  0.00           C 0
+ATOM   4008   CG PRO C  43      21.189  70.553  36.944  0.00  0.00           C 0
+ATOM   4003    C PRO C  43      23.412  68.253  35.107  0.00  0.00           C 0
+ATOM   4019    O PHE C  44      23.498  65.946  31.572  0.39  4.29           O 0
+ATOM   4004    O PRO C  43      24.055  69.063  34.433  0.00  0.00           O 0
+ATOM   4018    C PHE C  44      23.351  65.688  32.757  0.00  0.00           C 0
+ATOM   3826    O VAL C  32      22.649  64.782  36.315  0.53  1.07           O 0
+ATOM   4001   CA PRO C  43      22.571  68.733  36.282  0.00  0.00           C 0
+ATOM   3811   CB HIS C  31      18.063  63.605  38.017  0.00  0.00           C 0
+ATOM   4036   CA ALA C  45      21.530  64.106  32.306  0.00  0.00           C 0
+ATOM   4034    N ALA C  45      22.412  64.855  33.203  0.00  0.00           N 0
+ATOM   4038    C ALA C  45      20.359  63.547  33.094  0.00  0.00           C 0
+ATOM   4050   CB SER C  46      17.288  63.502  33.779  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0093
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1460
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6881
+HEADER 5  - Mean B-factor of pocket residues  : 0.5801
+HEADER 6  - Hydrophobicity Score              : -7.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.7635
+HEADER 10 - Pocket volume (convex hull)       : 0.8647
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   4290   CA GLU A 287     -30.388  43.594   6.448  0.00  0.00           C 0
+ATOM   4278    O GLU A 286     -30.511  40.944   5.678  0.00  0.00           O 0
+ATOM   4288    N GLU A 287     -30.634  43.114   5.096  0.00  0.00           N 0
+ATOM   4301  OE1 GLU A 287     -27.700  45.086   7.933  0.00  0.00           O 0
+ATOM   4287  OE2 GLU A 286     -26.888  38.912   2.607  0.00  0.00           O 0
+ATOM   4279   CB GLU A 286     -29.646  41.179   2.630  0.00  0.00           C 0
+ATOM   4238    O ALA A 283     -29.495  45.013   3.108  0.58  3.21           O 0
+ATOM   4282   CG GLU A 286     -29.067  39.805   2.931  0.00  0.00           C 0
+ATOM   4285   CD GLU A 286     -27.871  39.463   2.067  0.00  0.00           C 0
+ATOM   4286  OE1 GLU A 286     -27.919  39.729   0.848  0.00  0.00           O 0
+ATOM   4235   CA ALA A 283     -28.712  45.449   0.883  0.00  0.00           C 0
+ATOM   4239   CB ALA A 283     -27.589  46.482   0.874  0.00  0.00           C 0
+ATOM   4277    C GLU A 286     -30.678  41.815   4.823  0.00  0.00           C 0
+TER
+END

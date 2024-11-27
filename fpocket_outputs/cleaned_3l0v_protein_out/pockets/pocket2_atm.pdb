@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0187
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8559
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5574
+HEADER 5  - Mean B-factor of pocket residues  : 0.4372
+HEADER 6  - Hydrophobicity Score              : 4.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.4666
+HEADER 10 - Pocket volume (convex hull)       : 12.0925
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   3076   CB ALA A 421      27.889   6.506  24.857  0.00  0.00           C 0
+ATOM   3138   CG ASN A 426      25.303   0.077  26.979  0.00  0.00           C 0
+ATOM   3139  OD1 ASN A 426      24.616   0.464  26.017  0.00  4.29           O 0
+ATOM   3140  ND2 ASN A 426      26.590  -0.207  26.841  0.00  0.00           N 0
+ATOM   3075    O ALA A 421      25.694   7.331  27.109  0.66  2.14           O 0
+ATOM   3080    N GLU A 422      26.939   9.107  26.433  0.62  2.19           N 0
+ATOM   3074    C ALA A 421      26.357   7.909  26.247  0.00  0.00           C 0
+ATOM   3236   OH TYR A 433      23.644   9.507  33.471  0.00  0.00           O 0
+ATOM   3173   CG GLN A 429      27.505   2.742  32.162  0.00  0.00           C 0
+ATOM   3169    O GLN A 429      24.816   3.617  34.261  0.00  0.00           O 0
+ATOM   3123   CG PRO A 425      23.753   6.503  30.330  0.00  0.00           C 0
+ATOM   3120   CB PRO A 425      24.067   5.017  30.231  0.00  0.00           C 0
+ATOM   3177  OE1 GLN A 429      28.246   1.368  30.328  0.00  0.00           O 0
+ATOM   3082   CA GLU A 422      26.839   9.905  27.664  0.00  0.00           C 0
+ATOM   3085    O GLU A 422      24.976  10.044  29.187  0.00  0.00           O 0
+ATOM   3116   CA PRO A 425      23.713   4.622  28.788  0.00  0.00           C 0
+ATOM   3176   CD GLN A 429      28.508   1.903  31.416  0.00  0.00           C 0
+ATOM   3110    O ALA A 424      22.998   5.024  26.162  0.27  4.29           O 0
+ATOM   3129    N ASN A 426      23.941   2.187  28.725  0.00  0.00           N 0
+TER
+END

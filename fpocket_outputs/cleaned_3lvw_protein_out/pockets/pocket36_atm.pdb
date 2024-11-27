@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : -0.1365
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0904
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5928
+HEADER 5  - Mean B-factor of pocket residues  : 0.1156
+HEADER 6  - Hydrophobicity Score              : 2.8889
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 327.1429
+HEADER 10 - Pocket volume (convex hull)       : 14.2082
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  10391  CD1 LEU A 648      -3.564  59.595 -12.598  0.00  0.00           C 0
+ATOM  10369    O HIS A 647       0.152  59.347  -9.968  0.00  0.00           O 0
+ATOM  10355    O THR A 646      -0.169  55.225 -11.826  0.61  8.57           O 0
+ATOM  10389   CG LEU A 648      -2.050  59.236 -12.906  0.00  0.00           C 0
+ATOM   1907    O GLN A 123      -6.905  50.553  -7.515  0.00  0.00           O 0
+ATOM   1971   CB ARG A 126      -3.757  49.307  -8.613  0.00  0.00           C 0
+ATOM   1977   CD ARG A 126      -2.045  50.816  -9.615  0.00  0.00           C 0
+ATOM   2041  OE1 GLU A 130      -1.341  51.883  -5.005  0.76  8.57           O 0
+ATOM   1914   CD GLN A 123      -7.537  54.562 -10.798  0.00  0.00           C 0
+ATOM   1915  OE1 GLN A 123      -8.476  55.255 -10.357  0.22  6.43           O 0
+ATOM   1995   CB ALA A 127      -6.250  51.038  -4.232  0.00  0.00           C 0
+ATOM  10368    C HIS A 647       0.593  58.541 -10.781  0.00  0.00           C 0
+ATOM   1916  NE2 GLN A 123      -6.337  55.075 -11.118  0.00  0.00           N 0
+ATOM  10375  CD2 HIS A 647       0.793  55.270  -7.465  0.00  0.00           C 0
+ATOM  10750   NZ LYS A 671      -7.145  60.737  -7.021  0.38  8.75           N 0
+ATOM   1908   CB GLN A 123      -8.156  52.357  -9.782  0.00  0.00           C 0
+ATOM  10366   CA HIS A 647       1.000  57.151 -10.323  0.00  0.00           C 0
+ATOM   1904   CA GLN A 123      -7.595  50.975  -9.734  0.00  0.00           C 0
+ATOM   7621  OD2 ASP A 480      -4.876  50.822 -11.881  0.86  1.07           O 0
+TER
+END

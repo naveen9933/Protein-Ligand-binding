@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : -0.0807
+HEADER 1  - Drug Score                        : 0.0054
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9696
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5265
+HEADER 5  - Mean B-factor of pocket residues  : 0.2971
+HEADER 6  - Hydrophobicity Score              : -15.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 286.5957
+HEADER 10 - Pocket volume (convex hull)       : 11.7320
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5200
+ATOM   1453   CD LYS A 309      -8.548   3.304  17.039  0.00  0.00           C 0
+ATOM   2014   CG ASP A 344      -3.352   2.616  17.906  0.00  0.00           C 0
+ATOM   1456   CE LYS A 309      -7.596   2.137  17.155  0.00  0.00           C 0
+ATOM   2016  OD2 ASP A 344      -2.824   2.022  16.942  0.00  0.00           O 0
+ATOM   2015  OD1 ASP A 344      -4.451   2.276  18.414  0.42  1.07           O 0
+ATOM   2011   CB ASP A 344      -2.579   3.722  18.565  0.00  0.00           C 0
+ATOM   1490    O TRP A 312      -6.106   8.704  20.626  0.46  3.21           O 0
+ATOM   1519  OD1 ASP A 313      -3.399  10.308  15.747  0.00  0.00           O 0
+ATOM   2005    N ASP A 344      -2.828   4.351  20.914  0.62  4.37           N 0
+ATOM   1480    O ALA A 311      -8.844   6.910  20.388  0.55  5.36           O 0
+ATOM   1394   CD PRO A 305      -8.890  10.515  15.659  0.00  0.00           C 0
+ATOM   1403   CB ASN A 306     -11.365   5.928  15.117  0.00  0.00           C 0
+ATOM   1391   CG PRO A 305      -9.057  10.430  14.145  0.00  0.00           C 0
+ATOM   1509    N ASP A 313      -6.703  10.061  18.891  0.79  1.09           N 0
+ATOM   1397    N ASN A 306     -11.682   8.321  15.644  0.00  0.00           N 0
+ATOM   1511   CA ASP A 313      -5.388  10.134  18.295  0.00  0.00           C 0
+ATOM   1515   CB ASP A 313      -5.444  10.722  16.869  0.00  0.00           C 0
+ATOM   1978    O ASP A 342      -5.384   3.421  23.272  0.41  8.57           O 0
+ATOM   1481   CB ALA A 311      -7.182   6.270  23.155  0.00  0.00           C 0
+TER
+END

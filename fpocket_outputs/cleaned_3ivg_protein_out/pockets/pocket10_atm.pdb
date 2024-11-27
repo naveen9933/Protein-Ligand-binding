@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : -0.0174
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0397
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6824
+HEADER 5  - Mean B-factor of pocket residues  : 0.6378
+HEADER 6  - Hydrophobicity Score              : 4.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 167.7732
+HEADER 10 - Pocket volume (convex hull)       : 2.8583
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   6048  OG1 THR B 134      16.894 -13.301  26.315  0.53  7.50           O 0
+ATOM   6056   CA HIS B 135      13.325 -11.590  29.166  0.00  0.00           C 0
+ATOM   5321    O GLN B  72       9.861 -14.836  29.265  0.00  0.00           O 0
+ATOM   6017   NE ARG B 132      12.769 -15.319  33.055  0.00  0.00           N 0
+ATOM   6011   CG ARG B 132      15.251 -15.006  33.284  0.00  0.00           C 0
+ATOM   6054    N HIS B 135      14.710 -11.437  28.693  0.52  1.09           N 0
+ATOM   6008   CB ARG B 132      15.657 -13.625  32.755  0.00  0.00           C 0
+ATOM   6004   CA ARG B 132      17.157 -13.421  32.421  0.00  0.00           C 0
+ATOM   6006    C ARG B 132      17.318 -12.178  31.526  0.00  0.00           C 0
+ATOM   5304    O MET B  71      11.382 -13.768  25.450  0.50  4.29           O 0
+ATOM   6060   CB HIS B 135      13.291 -11.903  30.668  0.00  0.00           C 0
+ATOM   5320    C GLN B  72       9.284 -14.832  28.176  0.00  0.00           C 0
+ATOM   5289    O PRO B  70       9.898 -17.550  24.423  0.00  0.00           O 0
+TER
+END

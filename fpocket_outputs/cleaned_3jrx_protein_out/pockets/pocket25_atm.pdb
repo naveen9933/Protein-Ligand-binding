@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0709
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 4.0073
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6196
+HEADER 5  - Mean B-factor of pocket residues  : 0.5524
+HEADER 6  - Hydrophobicity Score              : 5.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 319.3743
+HEADER 10 - Pocket volume (convex hull)       : 10.3312
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   4871    C LYS A 556     -16.454  15.728 -20.512  0.00  0.00           C 0
+ATOM   4889    N THR A 557     -15.799  15.401 -19.403  0.81  1.09           N 0
+ATOM   4897  OG1 THR A 557     -13.264  15.355 -17.762  0.69  8.57           O 0
+ATOM   4873   CB LYS A 556     -16.708  18.210 -20.427  0.00  0.00           C 0
+ATOM   2750    O GLY A 419     -10.221  12.566 -25.336  0.54  5.36           O 0
+ATOM   2744    N GLY A 419     -10.211  14.739 -26.955  0.00  0.00           N 0
+ATOM   2719  CZ2 TRP A 411     -10.179  12.960 -20.225  0.00  0.00           C 0
+ATOM   2725    N GLN A 418      -8.450  16.768 -26.750  0.00  0.00           N 0
+ATOM   4894    O THR A 557     -14.593  12.138 -20.308  0.83  1.07           O 0
+ATOM   2756    O LYS A 420     -11.179  10.789 -23.550  0.00  0.00           O 0
+ATOM   2751    N LYS A 420     -11.783  11.490 -26.554  0.00  0.00           N 0
+ATOM   2788   NE ARG A 421     -17.706   9.381 -24.413  0.50  4.37           N 0
+ATOM   4921   CA GLY A 559     -18.755  12.781 -22.862  0.00  0.00           C 0
+ATOM   2794  NH2 ARG A 421     -19.413  10.325 -25.645  0.35  7.66           N 0
+ATOM   4872    O LYS A 556     -16.295  15.146 -21.582  0.54  5.36           O 0
+ATOM   2746   CA GLY A 419     -11.335  13.824 -27.048  0.00  0.00           C 0
+ATOM   4891   CA THR A 557     -14.800  14.334 -19.364  0.00  0.00           C 0
+ATOM   2775   CA ARG A 421     -13.745  10.161 -22.693  0.00  0.00           C 0
+ATOM   2773    N ARG A 421     -13.246  10.058 -24.054  0.71  1.09           N 0
+ATOM   2779   CB ARG A 421     -15.245   9.839 -22.668  0.00  0.00           C 0
+ATOM   2749    C GLY A 419     -11.068  12.566 -26.236  0.00  0.00           C 0
+ATOM   2755    C LYS A 420     -11.997  10.379 -24.372  0.00  0.00           C 0
+TER
+END

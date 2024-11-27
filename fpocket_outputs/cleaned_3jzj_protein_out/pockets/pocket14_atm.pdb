@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0457
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8850
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6229
+HEADER 5  - Mean B-factor of pocket residues  : 0.2092
+HEADER 6  - Hydrophobicity Score              : 36.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.5621
+HEADER 10 - Pocket volume (convex hull)       : 12.1378
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   3098   CG LYS A 224     -29.691   4.370  31.117  0.00  0.00           C 0
+ATOM   3126    O ALA A 226     -24.452   2.857  28.830  0.00  0.00           O 0
+ATOM   3091   CA LYS A 224     -27.189   4.700  31.304  0.00  0.00           C 0
+ATOM   3055    O VAL A 221     -26.783   1.186  31.237  0.52  5.36           O 0
+ATOM   3142  CG2 ILE A 227     -25.529   3.828  25.421  0.00  0.00           C 0
+ATOM   3104   CE LYS A 224     -31.988   3.800  30.362  0.00  0.00           C 0
+ATOM   3101   CD LYS A 224     -31.009   4.950  30.645  0.00  0.00           C 0
+ATOM   3095   CB LYS A 224     -28.535   5.398  31.072  0.00  0.00           C 0
+ATOM   2283  OG1 THR A 172     -25.726   7.902  25.961  0.54  9.64           O 0
+ATOM   3094    O LYS A 224     -26.008   6.586  30.484  0.68  3.21           O 0
+ATOM   3058  CG1 VAL A 221     -25.346  -0.995  29.362  0.00  0.00           C 0
+ATOM   3160  CG2 THR A 228     -22.896  -2.660  26.273  0.00  0.00           C 0
+ATOM   3150    N THR A 228     -23.028   0.237  25.130  0.00  0.00           N 0
+ATOM   3155    O THR A 228     -23.951  -1.345  23.187  0.00  0.00           O 0
+ATOM   3133   CA ILE A 227     -23.601   2.362  26.150  0.00  0.00           C 0
+ATOM   3137   CB ILE A 227     -24.271   3.103  24.932  0.00  0.00           C 0
+TER
+END

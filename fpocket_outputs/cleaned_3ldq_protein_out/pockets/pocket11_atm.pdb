@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0084
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9291
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5620
+HEADER 5  - Mean B-factor of pocket residues  : 0.5694
+HEADER 6  - Hydrophobicity Score              : 9.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.5366
+HEADER 10 - Pocket volume (convex hull)       : 14.6313
+HEADER 11 - Charge Score                      :    -4
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2400
+ATOM   3184   CB GLU A 213       7.730  25.271 -14.581  0.00  0.00           C 0
+ATOM   3264  OE1 GLU A 218       1.720  24.367  -8.913  0.00  0.00           O 0
+ATOM   3191  OE1 GLU A 213       5.558  26.436 -15.814  0.00  0.00           O 0
+ATOM   2869  OE2 GLU A 192       3.302  22.824 -15.082  0.54  4.29           O 0
+ATOM   3183    O GLU A 213       9.733  26.449 -12.771  0.00  0.00           O 0
+ATOM   3227  CD1 ILE A 216       9.910  29.460 -10.413  0.00  0.00           C 0
+ATOM   3199   CB ASP A 214      11.520  28.301 -14.533  0.00  0.00           C 0
+ATOM   3204  OD2 ASP A 214      10.456  29.250 -16.459  0.76  7.50           O 0
+ATOM   3187   CG GLU A 213       7.921  26.216 -15.784  0.00  0.00           C 0
+ATOM   3190   CD GLU A 213       6.629  26.640 -16.430  0.00  0.00           C 0
+ATOM   3223  CG2 ILE A 216       8.344  27.152  -8.618  0.00  0.00           C 0
+ATOM   3217    O ILE A 216       8.874  24.112 -10.211  0.66  2.14           O 0
+ATOM   3257   CB GLU A 218       3.914  22.481  -8.206  0.00  0.00           C 0
+ATOM   3155  CG2 THR A 211       5.146  20.945 -13.561  0.00  0.00           C 0
+ATOM   3178    N GLU A 213       8.922  23.671 -13.140  0.00  0.00           N 0
+ATOM   3151   CB THR A 211       4.739  20.209 -12.314  0.00  0.00           C 0
+ATOM   3236    O PHE A 217       6.728  23.880  -6.664  0.38  3.21           O 0
+ATOM   3218   CB ILE A 216       9.541  27.026  -9.614  0.00  0.00           C 0
+ATOM   3150    O THR A 211       7.077  20.972 -10.314  0.00  0.00           O 0
+TER
+END

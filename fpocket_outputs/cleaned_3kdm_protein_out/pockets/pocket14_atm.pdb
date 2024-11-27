@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : -0.0519
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7589
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4546
+HEADER 5  - Mean B-factor of pocket residues  : 0.3089
+HEADER 6  - Hydrophobicity Score              : 0.8750
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 320.1093
+HEADER 10 - Pocket volume (convex hull)       : 30.3610
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0500
+ATOM   1872   CB SER L 131      43.397  13.298  -5.678  0.00  0.00           C 0
+ATOM   1875   OG SER L 131      42.782  14.525  -5.280  0.79  3.21           O 0
+ATOM   5393  OD2 ASP H 153      36.304  12.746  -3.358  0.00  0.00           O 0
+ATOM   5066   OG SER H 129      40.112   9.277  -0.941  0.00  0.00           O 0
+ATOM   1871    O SER L 131      42.540  13.998  -8.426  0.00  0.00           O 0
+ATOM   1892  OG1 THR L 133      39.348  17.196  -7.417  0.00  0.00           O 0
+ATOM   5100  CE2 PHE H 131      41.448  13.998   0.190  0.00  0.00           C 0
+ATOM   1822  NE2 GLN L 128      40.734  17.333  -1.776  0.00  0.00           N 0
+ATOM   5838  CD1 LEU H 184      32.150  10.093  -4.242  0.00  0.00           C 0
+ATOM   5392  OD1 ASP H 153      34.355  13.509  -2.667  0.76  2.14           O 0
+ATOM   5391   CG ASP H 153      35.211  12.606  -2.752  0.00  0.00           C 0
+ATOM   5102   CZ PHE H 131      42.441  13.225  -0.405  0.00  0.00           C 0
+ATOM   5063   CB SER H 129      40.358  10.223   0.088  0.00  0.00           C 0
+ATOM   5375   CE LYS H 152      36.800  16.187  -2.492  0.00  0.00           C 0
+ATOM   1890   CB THR L 133      40.187  17.447  -6.285  0.00  0.00           C 0
+ATOM   5378   NZ LYS H 152      35.401  16.590  -2.833  0.31  7.66           N 0
+ATOM   5815   CB SER H 182      30.376  14.069  -6.207  0.00  0.00           C 0
+ATOM   2666  CG2 THR L 184      36.058  20.578  -4.956  0.00  0.00           C 0
+ATOM   1894  CG2 THR L 133      39.392  18.246  -5.266  0.00  0.00           C 0
+TER
+END

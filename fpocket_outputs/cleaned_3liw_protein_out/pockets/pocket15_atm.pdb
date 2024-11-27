@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0538
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9956
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6048
+HEADER 5  - Mean B-factor of pocket residues  : 0.5217
+HEADER 6  - Hydrophobicity Score              : 44.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.6398
+HEADER 10 - Pocket volume (convex hull)       : 5.6341
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM   2517    C PHE A 174      17.136  40.494  19.870  0.00  0.00           C 0
+ATOM   2544  CG2 ILE A 175      15.537  43.143  17.002  0.00  0.00           C 0
+ATOM   2496    O SER A 172      18.522  42.925  23.800  0.00  0.00           O 0
+ATOM   2507    O SER A 173      20.669  41.984  20.257  0.33  7.50           O 0
+ATOM   2552    N ILE A 176      13.245  40.456  19.772  0.68  4.37           N 0
+ATOM   2448   CG LYS A 169      10.839  43.525  23.645  0.00  0.00           C 0
+ATOM   2451   CD LYS A 169       9.795  44.546  23.187  0.00  0.00           C 0
+ATOM   2518    O PHE A 174      16.494  40.484  20.920  0.62  3.21           O 0
+ATOM   2444    O LYS A 169      15.312  44.069  24.791  0.00  0.00           O 0
+ATOM   2445   CB LYS A 169      12.078  44.206  24.216  0.00  0.00           C 0
+ATOM   2557    O ILE A 176      10.209  40.745  19.542  0.62  6.43           O 0
+ATOM   2535   CA ILE A 175      15.205  41.213  18.577  0.00  0.00           C 0
+ATOM   2533    N ILE A 175      16.600  40.821  18.701  0.59  3.28           N 0
+ATOM   2539   CB ILE A 175      14.926  41.751  17.156  0.00  0.00           C 0
+ATOM   2441   CA LYS A 169      13.055  43.251  24.901  0.00  0.00           C 0
+TER
+END

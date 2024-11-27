@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0768
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.1714
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5563
+HEADER 5  - Mean B-factor of pocket residues  : 0.3289
+HEADER 6  - Hydrophobicity Score              : -1.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.3941
+HEADER 10 - Pocket volume (convex hull)       : 4.3131
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2857
+ATOM   1527  NH2 ARG A  98      -5.068   0.178  20.266  0.38  9.84           N 0
+ATOM   1401   CB PRO A  91      -5.400   4.367  13.600  0.00  0.00           C 0
+ATOM   1318  OE1 GLN A  86      -5.392   4.973  22.100  0.69  9.64           O 0
+ATOM   1397   CA PRO A  91      -4.027   4.602  14.268  0.00  0.00           C 0
+ATOM   1450   CB TRP A  94      -1.906   3.036  18.430  0.00  0.00           C 0
+ATOM   1400    O PRO A  91      -2.839   2.701  15.064  0.49  1.07           O 0
+ATOM   1478  OD1 ASP A  95      -4.155  -0.613  15.966  0.00  0.00           O 0
+ATOM   1332  OD1 ASP A  87      -8.346   9.741  18.790  0.41  5.36           O 0
+ATOM   1404   CG PRO A  91      -5.902   5.761  13.343  0.00  0.00           C 0
+ATOM   1454  CD1 TRP A  94      -2.405   5.552  18.245  0.00  0.00           C 0
+ATOM   1311   CB GLN A  86      -4.829   7.726  21.296  0.00  0.00           C 0
+ATOM   1324   CA ASP A  87      -5.890  10.944  18.248  0.00  0.00           C 0
+ATOM   1361    O LEU A  89      -2.976   8.778  15.397  0.00  0.00           O 0
+ATOM   4728   NZ LYS A 305      -5.753  11.265  13.624  0.28  6.56           N 0
+ATOM   1310    O GLN A  86      -3.842   9.044  18.456  0.55  3.21           O 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0291
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1013
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5936
+HEADER 5  - Mean B-factor of pocket residues  : 0.3038
+HEADER 6  - Hydrophobicity Score              : -24.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.7456
+HEADER 10 - Pocket volume (convex hull)       : 0.7872
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1286  OE2 GLU A 140      10.934   6.269   3.884  0.00  0.00           O 0
+ATOM   1284   CD GLU A 140      10.693   7.360   4.396  0.00  0.00           C 0
+ATOM   1285  OE1 GLU A 140      10.581   8.395   3.742  0.00  0.00           O 0
+ATOM   1005  OD2 ASP A 123       6.574   1.988   3.217  0.00  0.00           O 0
+ATOM   1027   CA ARG A 125       4.179   3.349   6.711  0.00  0.00           C 0
+ATOM   1004  OD1 ASP A 123       6.889   1.862   5.351  0.39  3.21           O 0
+ATOM   1278   CB GLU A 140      10.669   6.103   6.607  0.00  0.00           C 0
+ATOM   1281   CG GLU A 140      10.532   7.446   5.903  0.00  0.00           C 0
+ATOM   1029    C ARG A 125       3.984   4.395   7.806  0.00  0.00           C 0
+ATOM   1049    N LYS A 126       4.996   4.566   8.650  0.00  0.00           N 0
+ATOM   1053    C LYS A 126       6.223   6.334   9.851  0.00  0.00           C 0
+ATOM   1054    O LYS A 126       7.315   5.776   9.779  0.00  0.00           O 0
+ATOM   1071    N GLY A 127       6.097   7.647  10.016  0.00  0.00           N 0
+TER
+END

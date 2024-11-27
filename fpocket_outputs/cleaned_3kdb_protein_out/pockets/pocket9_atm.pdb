@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.1061
+HEADER 1  - Drug Score                        : 0.0055
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8745
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5148
+HEADER 5  - Mean B-factor of pocket residues  : 0.3241
+HEADER 6  - Hydrophobicity Score              : 9.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.6285
+HEADER 10 - Pocket volume (convex hull)       : 2.9033
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7368
+ATOM   2267   CB PRO B  44      12.470   3.427  23.501  0.00  0.00           C 0
+ATOM   2236  CZ3 TRP B  42      14.998   3.625  27.425  0.00  0.00           C 0
+ATOM   2238  CH2 TRP B  42      16.044   2.754  27.818  0.00  0.00           C 0
+ATOM   2438   NZ LYS B  55      18.498   2.485  21.579  0.00  0.00           N 0
+ATOM   2815   CD PRO B  79      21.419  11.291  24.394  0.00  0.00           C 0
+ATOM   2799   CA GLY B  78      19.849  11.852  26.581  0.00  0.00           C 0
+ATOM   2476  NH1 ARG B  57      19.726   7.659  30.262  0.36  5.47           N 0
+ATOM   2122  OE1 GLU B  35      22.100   9.237  30.402  0.57  8.57           O 0
+ATOM   2425    O LYS B  55      18.815   9.204  22.980  0.00  0.00           O 0
+ATOM   2447    O VAL B  56      14.902   7.576  24.836  0.95  3.21           O 0
+ATOM   2467   CG ARG B  57      16.889   6.685  28.498  0.00  0.00           C 0
+ATOM   2435   CE LYS B  55      17.826   3.749  21.084  0.00  0.00           C 0
+ATOM   2786    O VAL B  77      17.705  10.529  27.480  0.57  1.07           O 0
+ATOM   2444   CA VAL B  56      16.511   9.364  24.536  0.00  0.00           C 0
+ATOM   2426   CB LYS B  55      18.220   6.726  21.238  0.00  0.00           C 0
+ATOM   2446    C VAL B  56      15.635   8.425  25.380  0.00  0.00           C 0
+ATOM   2424    C LYS B  55      17.756   8.786  22.523  0.00  0.00           C 0
+TER
+END

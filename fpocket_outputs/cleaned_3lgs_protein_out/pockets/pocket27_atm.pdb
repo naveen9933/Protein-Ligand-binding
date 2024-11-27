@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0525
+HEADER 1  - Drug Score                        : 0.0119
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9352
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5264
+HEADER 5  - Mean B-factor of pocket residues  : 0.2932
+HEADER 6  - Hydrophobicity Score              : 18.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 275.1492
+HEADER 10 - Pocket volume (convex hull)       : 3.9024
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 13.2000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8824
+ATOM   7066   CG LEU B 241      14.334  11.571  37.762  0.00  0.00           C 0
+ATOM   7078   CA THR B 242      13.056  15.104  40.736  0.00  0.00           C 0
+ATOM   7130  OG1 THR B 245      11.506  14.427  36.509  0.79  3.21           O 0
+ATOM   3964   CB ALA B  37       7.962   9.913  38.189  0.00  0.00           C 0
+ATOM   7072  CD2 LEU B 241      14.483  10.056  37.917  0.00  0.00           C 0
+ATOM   7084  OG1 THR B 242      13.007  13.520  42.609  0.63  8.57           O 0
+ATOM   7086  CG2 THR B 242      11.624  15.484  42.788  0.00  0.00           C 0
+ATOM   7136    N ALA B 246      10.286  18.671  37.405  0.00  0.00           N 0
+ATOM   4020   CG PRO B  41       5.056  15.741  37.443  0.00  0.00           C 0
+ATOM   7081    O THR B 242      11.815  17.031  39.972  0.48  3.21           O 0
+ATOM   7142   CB ALA B 246       9.678  20.312  39.132  0.00  0.00           C 0
+ATOM   7132  CG2 THR B 245       9.224  15.237  36.660  0.00  0.00           C 0
+ATOM   3963    O ALA B  37       6.661  12.475  36.892  0.46  4.29           O 0
+ATOM   7128   CB THR B 245      10.691  15.555  36.869  0.00  0.00           C 0
+ATOM   7138   CA ALA B 246       9.440  19.833  37.710  0.00  0.00           C 0
+ATOM   4017   CB PRO B  41       4.076  16.878  37.311  0.00  0.00           C 0
+ATOM   7188  OE1 GLU B 249       4.572  21.555  36.548  0.74  8.57           O 0
+TER
+END
